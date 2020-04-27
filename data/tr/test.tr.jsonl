@@ -1,0 +1,500 @@
+{"premise": "Ürün balonlu naylonla paketlenmişti.", "choice1": "Kırılgandı.", "choice2": "Küçüktü.", "question": "effect", "label": 0, "idx": 0, "changed": false}
+{"premise": "Ceplerimi boşalttım.", "choice1": "Bir bilet koçanı aldım.", "choice2": "Bir silah buldum.", "question": "effect", "label": 0, "idx": 1, "changed": true}
+{"premise": "Termitler evi işgal etti.", "choice1": "Termitler evden kayboldu.", "choice2": "Termitler evin içindeki ahşabı yediler.", "question": "effect", "label": 1, "idx": 2, "changed": false}
+{"premise": "Yolcular sınıra ulaştı.", "choice1": "Devriye ajanı pasaportlarını kontrol etti.", "choice2": "Devriye ajanı onları kaçakçılıkla suçladı.", "question": "effect", "label": 0, "idx": 3, "changed": false}
+{"premise": "Ofis kapalıydı.", "choice1": "Tatildi.", "choice2": "Yaz mevsimiydi.", "question": "effect", "label": 0, "idx": 4, "changed": false}
+{"premise": "Kızın enerjisi tükendi.", "choice1": "Dama oynadı.", "choice2": "İp atladı.", "question": "effect", "label": 1, "idx": 5, "changed": false}
+{"premise": "Kadın sıradaki yerini kaybetti.", "choice1": "Sıraya daha fazla kişi girdi.", "choice2": "Sıradan çıktı.", "question": "effect", "label": 1, "idx": 6, "changed": false}
+{"premise": "Kız burnunu tıkadı.", "choice1": "Bebeğin salyası önlüğüne aktı.", "choice2": "Bebek bezini kirletti.", "question": "effect", "label": 1, "idx": 7, "changed": false}
+{"premise": "Grup hit şarkılarını çaldı.", "choice1": "Seyirci müziğe alkışla eşlik etti.", "choice2": "Seyirciler kibarca sessizce dinledi.", "question": "effect", "label": 0, "idx": 8, "changed": false}
+{"premise": "Kız matematik öğretmenine teşekkür etmek istedi.", "choice1": "Kız okuldan sonra cezaya kaldı.", "choice2": "Kız öğretmene bir elma getirdi.", "question": "effect", "label": 1, "idx": 9, "changed": false}
+{"premise": "Genç kampçılar korkmuş hissettiler.", "choice1": "Kamp danışmanları onlara bir hayalet hikayesi anlattı.", "choice2": "Kamp ateşinde marshmallow kızarttılar.", "question": "effect", "label": 0, "idx": 10, "changed": false}
+{"premise": "Adam kafasını vurdu.", "choice1": "Düşüncede kayboldu.", "choice2": "Beyin sarsıntısı geçirdi.", "question": "effect", "label": 1, "idx": 11, "changed": false}
+{"premise": "Yazdığım çek karşılıksız çıktı.", "choice1": "Banka hesabımda para yoktu.", "choice2": "Maaş zammı kazandım.", "question": "effect", "label": 0, "idx": 12, "changed": false}
+{"premise": "Adamın e-posta gelen kutusu spam ile doluydu.", "choice1": "Spam'i sildi.", "choice2": "Toplu bir e-posta gönderdi.", "question": "effect", "label": 0, "idx": 13, "changed": false}
+{"premise": "Denizci karantinaya alındı.", "choice1": "Bir hastalığa maruz kaldı.", "choice2": "Hastalıktan kurtuldu.", "question": "effect", "label": 0, "idx": 14, "changed": false}
+{"premise": "Kız kodu ezberledi.", "choice1": "Kendi kendine okudu.", "choice2": "Yazmayı unuttu.", "question": "effect", "label": 0, "idx": 15, "changed": false}
+{"premise": "Bardağa su doldurdum.", "choice1": "Su susuzluğumu giderdi.", "choice2": "Bardak doldu.", "question": "effect", "label": 1, "idx": 16, "changed": false}
+{"premise": "Adam, arkadaşı konuşmayı bitirdiğinde sessiz kaldı.", "choice1": "Arkadaşına destek vermek istedi.", "choice2": "Arkadaşının söylediklerini düşünüyordu.", "question": "effect", "label": 1, "idx": 17, "changed": false}
+{"premise": "Kaza benim hatamdı.", "choice1": "Suçlu hissettim.", "choice2": "Suçlamada bulundum.", "question": "effect", "label": 0, "idx": 18, "changed": false}
+{"premise": "Zincir dağıldı.", "choice1": "Zincir bir lastiğin etrafına sarılıydı.", "choice2": "Zincirde kopuk bir halka vardı.", "question": "effect", "label": 1, "idx": 19, "changed": false}
+{"premise": "Çift uzlaşmaya karar verdi.", "choice1": "Tartışmaktan yoruldular.", "choice2": "Sorunu tartışmaktan kaçındılar.", "question": "effect", "label": 0, "idx": 20, "changed": false}
+{"premise": "Kadın devlet görevi için aday olmaya karar verdi.", "choice1": "Bir kampanya yöneticisi tuttu.", "choice2": "Mahkemede ifade verdi.", "question": "effect", "label": 0, "idx": 21, "changed": false}
+{"premise": "Adam yolculuğunda soğuk hava bekliyordu.", "choice1": "Bavuluna sıcak tutacak giysiler koydu.", "choice2": "Büyük bir bavulla seyahat etti.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "Öğrenci sorunun cevabını biliyordu.", "choice1": "Elini kaldırdı.", "choice2": "Kaçtı.", "question": "effect", "label": 0, "idx": 23, "changed": false}
+{"premise": "Adamın gözleri sulandı.", "choice1": "Gözüne toz kaçtı.", "choice2": "Gözlük taktı.", "question": "effect", "label": 0, "idx": 24, "changed": false}
+{"premise": "Oyuncu arka arkaya beş maç kazandı.", "choice1": "Rakibi onu hile yapmakla suçladı.", "choice2": "Rakibi onun için üzüldü.", "question": "effect", "label": 0, "idx": 25, "changed": false}
+{"premise": "Öğretmen öğrencinin sınavını yırttı.", "choice1": "Öğrenciyi kopya çekerken yakaladı.", "choice2": "Öğrencinin cevapları yanlıştı.", "question": "effect", "label": 0, "idx": 26, "changed": false}
+{"premise": "Konuşurken durdum.", "choice1": "Sesimi kaybettim.", "choice2": "Nefesim tükendi.", "question": "effect", "label": 1, "idx": 27, "changed": false}
+{"premise": "Donmuş yemek çözüldü.", "choice1": "Mikrodalga fırına koydum.", "choice2": "Plastik sargı ile kapladım.", "question": "effect", "label": 0, "idx": 28, "changed": false}
+{"premise": "Çalışan, hasta numarası yaptı.", "choice1": "Karın ağrısı vardı.", "choice2": "Bir gün izin istedi.", "question": "effect", "label": 1, "idx": 29, "changed": false}
+{"premise": "Kız havuza atladı.", "choice1": "Havuz güvertesinde koştu.", "choice2": "Tramplenden atladı.", "question": "effect", "label": 1, "idx": 30, "changed": false}
+{"premise": "Sinema biletleri tükendi.", "choice1": "Filmin vizyona girdiği gündü.", "choice2": "Film kötü eleştiriler aldı.", "question": "effect", "label": 0, "idx": 31, "changed": false}
+{"premise": "Adam kilo verdi.", "choice1": "İnsanlar onu dışladı.", "choice2": "İnsanlar ona iltifat etti.", "question": "effect", "label": 1, "idx": 32, "changed": true}
+{"premise": "Kızın elleri kabarmıştı.", "choice1": "Mektup yazdı.", "choice2": "Bir ipe tırmandı.", "question": "effect", "label": 1, "idx": 33, "changed": false}
+{"premise": "Tek tekerlekli sirk bisikletine binerken sirk sanatçısı hokkabazlık yaptı.", "choice1": "Seyirciler şaşkınlıkla alkışladılar.", "choice2": "Akrobat bir trapezde döndü.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Sabrımı kaybettim.", "choice1": "Arkadaşım beni bekletmeye devam etti.", "choice2": "Arkadaşım zamanında geldi.", "question": "effect", "label": 0, "idx": 35, "changed": false}
+{"premise": "Savaşan ülkeler barış istiyorlardı.", "choice1": "Nükleer silah geliştirdiler.", "choice2": "Bir antlaşma müzakere ettiler.", "question": "effect", "label": 1, "idx": 36, "changed": false}
+{"premise": "Adam uyku ilacı aldı.", "choice1": "Uykusu geldi.", "choice2": "Ateşi çıktı.", "question": "effect", "label": 0, "idx": 37, "changed": false}
+{"premise": "Kadın kanepeye çarptı.", "choice1": "Kanepenin ayağı gevşedi.", "choice2": "Dizini morarttı.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "Çocuk balonu sıktı.", "choice1": "Balon patladı.", "choice2": "Balon uçtu.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Gezginler otel odalarına girdiler.", "choice1": "Valizlerini boşalttılar.", "choice2": "Havaalanına gittiler.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Şeftaliyi ısırdım.", "choice1": "Şeftali ezildi.", "choice2": "Su fışkırdı.", "question": "effect", "label": 1, "idx": 41, "changed": false}
+{"premise": "Ellerim yapışkan hale geldi.", "choice1": "Donut yedim.", "choice2": "Tatlı seviyordum.", "question": "effect", "label": 0, "idx": 42, "changed": false}
+{"premise": "Kapıyı ittim.", "choice1": "Kapı açıldı.", "choice2": "Kapı kilitliydi.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Aktivistler ürünleri boykot ettiler.", "choice1": "Ürünler kalite güvencesi için test edilmiştir.", "choice2": "Ürünler çocuk işçiliği ile üretildi.", "question": "effect", "label": 1, "idx": 44, "changed": false}
+{"premise": "Duvarda bir delik açtım.", "choice1": "Bir fare delikten sürünerek çıktı.", "choice2": "Delikten toz çıktı.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Kadın kız kardeşini kıskandı.", "choice1": "Kız kardeşi mutluydu.", "choice2": "Kardeşi boşandı.", "question": "effect", "label": 0, "idx": 46, "changed": false}
+{"premise": "Gömleğime şarap döktüm.", "choice1": "Bir önlük giydim.", "choice2": "Gömleğimi değiştirdim.", "question": "effect", "label": 1, "idx": 47, "changed": false}
+{"premise": "Kasiyer kasayı açtı.", "choice1": "Müşteri cüzdanını aradı.", "choice2": "Müşteri parasını uzattı.", "question": "effect", "label": 1, "idx": 48, "changed": false}
+{"premise": "Sokak müzisyeni bir kalabalık çekti.", "choice1": "İnsanlar ona madeni para verdi.", "choice2": "Kalabalığı dağıttı.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Küçük çocuk bakıcısına ağladı.", "choice1": "Ebeveynlerini özledi.", "choice2": "Atıştırmalık zamanıydı.", "question": "effect", "label": 0, "idx": 50, "changed": false}
+{"premise": "Pilotun radarı bir fırtına tespit etti.", "choice1": "Pilot fırtınadan uzaklaştı.", "choice2": "Pilot fırtınanın içinden uçtu.", "question": "effect", "label": 0, "idx": 51, "changed": false}
+{"premise": "Ağaç yapraklarını döktü.", "choice1": "Yapraklar renkleri değişti.", "choice2": "Yerlerde yapraklar birikti.", "question": "effect", "label": 1, "idx": 52, "changed": true}
+{"premise": "Çocuk yaramaz bir haldeydi.", "choice1": "Kız kardeşi ile bir kart oyunu oynamaya karar verdi.", "choice2": "Kız kardeşine bir şaka yapmaya karar verdi.", "question": "effect", "label": 1, "idx": 53, "changed": false}
+{"premise": "Çocuk tuvalete gitmek zorunda olduğundan şikayet etti.", "choice1": "Babası ona gazlı bir içecek verdi.", "choice2": "Babası bir benzin istasyonunda durdu.", "question": "effect", "label": 1, "idx": 54, "changed": false}
+{"premise": "Çocuk tanka balık yemi serpti.", "choice1": "Balık tanktan sıçradı.", "choice2": "Balık yeme doğru yüzdü.", "question": "effect", "label": 1, "idx": 55, "changed": false}
+{"premise": "Kadının politik görüşü değişti.", "choice1": "Parti üyeliğini değiştirdi.", "choice2": "Bir protesto gösterisine katıldı.", "question": "effect", "label": 0, "idx": 56, "changed": false}
+{"premise": "Banyo lavabosu tıkanmış.", "choice1": "Musluğu açtım.", "choice2": "Lavabo temizleyicisini içine döktüm.", "question": "effect", "label": 1, "idx": 57, "changed": false}
+{"premise": "Yolcular trenden indi.", "choice1": "Tren istasyona vardı.", "choice2": "Tren düdüğünü çaldı.", "question": "effect", "label": 0, "idx": 58, "changed": false}
+{"premise": "Adam zarfın nemli kapağına bastırdı.", "choice1": "Zarfın üzerine bir pul koydu.", "choice2": "Zarfı kapattı.", "question": "effect", "label": 1, "idx": 59, "changed": false}
+{"premise": "Arkadaşların teması kesildi.", "choice1": "Birbirleriyle zaman geçirmekten hoşlanıyorlardı.", "choice2": "Farklı şehirlere taşındılar.", "question": "effect", "label": 1, "idx": 60, "changed": false}
+{"premise": "Muhasebeci şirketin parasını yanlış yönetti.", "choice1": "Görevinden kovuldu.", "choice2": "Doğum iznine çıktı.", "question": "effect", "label": 0, "idx": 61, "changed": false}
+{"premise": "Saate baktım.", "choice1": "Saatin sesini duydum.", "choice2": "Zamanı kontrol etmek istedim.", "question": "effect", "label": 1, "idx": 62, "changed": false}
+{"premise": "Elime kramp girdi.", "choice1": "Elimle yazı yazdım.", "choice2": "Karımla el ele tutuştuk.", "question": "effect", "label": 0, "idx": 63, "changed": false}
+{"premise": "Cıvata sıkıldı.", "choice1": "Cıvatayı değiştirdim.", "choice2": "Anahtarı sıkıştırdım.", "question": "effect", "label": 1, "idx": 64, "changed": true}
+{"premise": "Çift bir daire için kira imzaladı.", "choice1": "Çift daireye taşındı.", "choice2": "Şehir apartmana el koydu.", "question": "effect", "label": 0, "idx": 65, "changed": false}
+{"premise": "Kadın dışarıda verandaya oturdu.", "choice1": "Gün batımını izlemek istedi.", "choice2": "Yıldırım gördüğünü sandı.", "question": "effect", "label": 0, "idx": 66, "changed": false}
+{"premise": "Adam su içindeyken can yeleği giyiyordu.", "choice1": "Yüzme bilmiyordu.", "choice2": "Su sığdı.", "question": "effect", "label": 0, "idx": 67, "changed": false}
+{"premise": "Kadın kelime işlemci bir yazım hatası yaptı.", "choice1": "Belgeyi sildi.", "choice2": "Geri tuşuna bastı.", "question": "effect", "label": 1, "idx": 68, "changed": false}
+{"premise": "Kız arkadaşlarına övündü.", "choice1": "Kötü bir not aldı.", "choice2": "Yarışmayı kazandı.", "question": "effect", "label": 1, "idx": 69, "changed": false}
+{"premise": "Bahçe çamurluydu.", "choice1": "Gece yağmur yağmıştı.", "choice2": "Otlarla doluydu.", "question": "effect", "label": 0, "idx": 70, "changed": false}
+{"premise": "Kadın uyuyakaldı.", "choice1": "Geceyi bir otelde geçirdi.", "choice2": "Çalar saatini kurmayı unuttu.", "question": "effect", "label": 1, "idx": 71, "changed": false}
+{"premise": "Adam güneş kremi sürdü.", "choice1": "Gölgede oturdu.", "choice2": "Sahile gitti.", "question": "effect", "label": 1, "idx": 72, "changed": false}
+{"premise": "Araştırmacılar teoriyi kanıtladı.", "choice1": "Araştırmacılar teoriyi geri çekti.", "choice2": "Bireyler teoriyi kabul etti.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Maçtaki taraftarlar yuhaladı.", "choice1": "Oyun uzatmalara kaldı.", "choice2": "Hakem yanlış karar verdi.", "question": "effect", "label": 1, "idx": 74, "changed": false}
+{"premise": "Şifremi kilide girdim.", "choice1": "Kilitledim.", "choice2": "Kilit açıldı.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "Kalabalık yoğunlaştı.", "choice1": "Baba oğluna biraz para verdi.", "choice2": "Baba oğlunun elini tuttu.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Kar yolu kapatıyordu.", "choice1": "Karları bir kartopuna topladım.", "choice2": "Yoldan karı temizledim.", "question": "effect", "label": 1, "idx": 77, "changed": false}
+{"premise": "Kanocular kürek çekti.", "choice1": "Kayık kıyıya ulaştı.", "choice2": "Kayık bir dalgaya çarptı.", "question": "effect", "label": 0, "idx": 78, "changed": false}
+{"premise": "Kız bisikletinin kontrolunu kaybetti.", "choice1": "Gidonları serbest bıraktı.", "choice2": "Bir çite çarptı.", "question": "effect", "label": 1, "idx": 79, "changed": false}
+{"premise": "Fanı açtım.", "choice1": "Tenime su sıçradı.", "choice2": "Soğuk havanın üstüme geldiğini hissettim.", "question": "effect", "label": 1, "idx": 80, "changed": false}
+{"premise": "Sörfçüler sahile döndü.", "choice1": "Sırılsıklam olmuşlardı.", "choice2": "Köpekbalığı gördüler.", "question": "effect", "label": 1, "idx": 81, "changed": false}
+{"premise": "Küvetteki tıpayı çektim.", "choice1": "Su, küvetten boşaltıldı.", "choice2": "Yere su sıçradı.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Adam karısını aldattığı için suçlu hissetti.", "choice1": "Onu sadakatsizlikle suçladı.", "choice2": "Sadakatsizliğini ona itiraf etti.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "Posterdeki mürekkep bulaştı.", "choice1": "Mürekkebin kurumasını bekledim.", "choice2": "Postere su döktüm.", "question": "effect", "label": 1, "idx": 84, "changed": false}
+{"premise": "Çocuk çığlık atarak uyandı.", "choice1": "Kabus gördü.", "choice2": "Yatağını ıslattı.", "question": "effect", "label": 0, "idx": 85, "changed": false}
+{"premise": "Çocuk ayaklarını masaya koydu.", "choice1": "Babası masaya oturdu.", "choice2": "Babası ona ders verdi.", "question": "effect", "label": 1, "idx": 86, "changed": false}
+{"premise": "Arkadaşım kafasını bana doğru çevirdi.", "choice1": "Adını bağırdım.", "choice2": "El salladım.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "Hükümet vatandaşlarına baskı yaptı.", "choice1": "Vatandaşlar isyan etti.", "choice2": "Vatandaşlar oy vermek için kayıt oldular.", "question": "effect", "label": 0, "idx": 88, "changed": false}
+{"premise": "Çocuk ormanda kayboldu.", "choice1": "Bir çadır kurdu.", "choice2": "Yardım için çığlık attı.", "question": "effect", "label": 1, "idx": 89, "changed": true}
+{"premise": "Kadın yurt dışına seyahat etti.", "choice1": "Nasıl çizim yapmayı öğrenmek istedi.", "choice2": "Diğer kültürleri öğrenmek istiyordu.", "question": "effect", "label": 1, "idx": 90, "changed": false}
+{"premise": "Adam iş arkadaşını kıskanıyordu.", "choice1": "İş arkadaşı terfi aldı.", "choice2": "İş arkadaşı geç saatlere kadar çalıştı.", "question": "effect", "label": 0, "idx": 91, "changed": false}
+{"premise": "Adam uzaylılara tanık oldu.", "choice1": "Halüsinasyon görüyordu.", "choice2": "Meditasyon yapıyordu.", "question": "effect", "label": 0, "idx": 92, "changed": false}
+{"premise": "Adamın saçı sarı oldu.", "choice1": "Saçını boyadı.", "choice2": "Şampuanladı.", "question": "effect", "label": 0, "idx": 93, "changed": false}
+{"premise": "Sanatçı yeni çalışmalar yaptı.", "choice1": "Önceki çalışmasını eleştirdi.", "choice2": "Kadına ilham geldi.", "question": "effect", "label": 1, "idx": 94, "changed": false}
+{"premise": "Çocuk evden uzağa taşındı.", "choice1": "Askerden taburcu edildi.", "choice2": "Üniversiteye gidiyordu.", "question": "effect", "label": 1, "idx": 95, "changed": false}
+{"premise": "Kitaplar kitaplıktan düştü.", "choice1": "Raflar tozla kaplıydı.", "choice2": "Bir deprem kitaplığı salladı.", "question": "effect", "label": 1, "idx": 96, "changed": false}
+{"premise": "Evimde elektrikler kesildi.", "choice1": "Işığı açtım.", "choice2": "Sigortayı yeniden açtım.", "question": "effect", "label": 1, "idx": 97, "changed": false}
+{"premise": "Lunapark treni sürdük.", "choice1": "Korkutucu görünüyordu.", "choice2": "Eğlenceli görünüyordu.", "question": "effect", "label": 1, "idx": 98, "changed": false}
+{"premise": "Patlamış mısır torbası patlamaya başladı.", "choice1": "Torbaya tereyağı döktüm.", "choice2": "Mikrodalgada ısıttım.", "question": "effect", "label": 1, "idx": 99, "changed": false}
+{"premise": "Elektrik hattının üzerine bir ağaç devrildi.", "choice1": "Semtteki elektrik gitti.", "choice2": "Hava tahmini ağır rüzgar tahminininde bulundu.", "question": "effect", "label": 0, "idx": 100, "changed": false}
+{"premise": "Konuşmacı politik olarak yanlış yorumlar yaptı.", "choice1": "O izleyicileri sıktı.", "choice2": "O izleyicleri rencide etti.", "question": "effect", "label": 1, "idx": 101, "changed": false}
+{"premise": "İğne ile kendimi yaraladım.", "choice1": "Bir tane ter damladı yüzümden.", "choice2": "Parmağımda bir kan damlası oluştu.", "question": "effect", "label": 1, "idx": 102, "changed": false}
+{"premise": "Balık deponun yüzeyinde duruyordu.", "choice1": "O açtı.", "choice2": "O ölmüştü.", "question": "cause", "label": 1, "idx": 103, "changed": true}
+{"premise": "Adamın sesi boğuktu.", "choice1": "Onun soğuk algınlığı vardı.", "choice2": "O sigarayı bıraktı.", "question": "cause", "label": 0, "idx": 104, "changed": false}
+{"premise": "Asansörün kapıları açıldı.", "choice1": "Asansör belirlenen kata varmıştı.", "choice2": "Asansör katlar arasında sıkışmıştı.", "question": "cause", "label": 0, "idx": 105, "changed": false}
+{"premise": "Ergen evden kaçtı.", "choice1": "O evebeynlerine yalan söyledi.", "choice2": "Evebeynleri onu dışarı çıkmasını yasaklamıştı.", "question": "cause", "label": 1, "idx": 106, "changed": true}
+{"premise": "Banyoyu su bastı.", "choice1": "Tuvalet taştı.", "choice2": "Su ısıtıcısı kırıldı.", "question": "cause", "label": 0, "idx": 107, "changed": false}
+{"premise": "Yavru köpek sahibinin yanında kaldı.", "choice1": "Sahibi köpeğe tasma taktı.", "choice2": "Sahibi köpeği tasmasından tuttu.", "question": "cause", "label": 1, "idx": 108, "changed": true}
+{"premise": "Adam kendi yansımasını yakaladı.", "choice1": "Geniş bir ağacın altında durdu.", "choice2": "Sakin gölün ününde durdu.", "question": "cause", "label": 1, "idx": 109, "changed": false}
+{"premise": "Kız arkadaşımın aramasını kaçırdım.", "choice1": "Onu geri aradım.", "choice2": "Onunlar akşam yemeğinde buluştuk.", "question": "effect", "label": 0, "idx": 110, "changed": false}
+{"premise": "Aile semti aradı.", "choice1": "Köpekleri evden kaçmıştı.", "choice2": "Pahalı mücevherleri evden kaybolmuştu.", "question": "cause", "label": 0, "idx": 111, "changed": false}
+{"premise": "Nefes verirken nefesimi gördüm.", "choice1": "Hava soğuktu.", "choice2": "Göğsüm sıkışmış hissettim.", "question": "cause", "label": 0, "idx": 112, "changed": false}
+{"premise": "İşçiler sendika kurdu.", "choice1": "Onlar daha iyi çalışma koşulları istiyorlardı.", "choice2": "İş verenleri onların maaşlarını yükseltti.", "question": "cause", "label": 0, "idx": 113, "changed": false}
+{"premise": "ELma pastası pişirdim.", "choice1": "Mutfağı bir çürüme kokusu doldurdu.", "choice2": "Taze bir arona mutfağı doldurdu.", "question": "effect", "label": 1, "idx": 114, "changed": false}
+{"premise": "Kadın yürümekte zorluk çekiyordu.", "choice1": "O yüksek topuklu ayakkabı giymişti.", "choice2": "O ayakkabılarını çıkarmıştı.", "question": "cause", "label": 0, "idx": 115, "changed": false}
+{"premise": "Su kabından buhar yükseldi.", "choice1": "Su kaynamıştı.", "choice2": "Kabı kapamıştım.", "question": "cause", "label": 0, "idx": 116, "changed": false}
+{"premise": "Bütün çoraplarım çamaşırhanede.", "choice1": "Sandaletlerimi giydim.", "choice2": "Botumu giydim.", "question": "effect", "label": 0, "idx": 117, "changed": false}
+{"premise": "Politikacının argümanı absürt bulundu.", "choice1": "O oy verenlerin desteğini kaybetti.", "choice2": "O yolsuzlukla suçlandı.", "question": "effect", "label": 0, "idx": 118, "changed": false}
+{"premise": "Herkes çiftin nişanından kayboldu.", "choice1": "Çift hamile kaldı.", "choice2": "Çift gizlice kaçtı.", "question": "effect", "label": 1, "idx": 119, "changed": false}
+{"premise": "Bina milyonere adandı.", "choice1": "Milyoner binayı yımak istedi.", "choice2": "Milyoner binanın yapımı için katkı yaptı.", "question": "cause", "label": 1, "idx": 120, "changed": false}
+{"premise": "Satış görevlisi kızı çalmakla suçladı.", "choice1": "Satış görevlisi kızı el çantasına ürün koyarken gördü.", "choice2": "Satış görevlisi  kıza istediği el çantasını bulmasında yardım etti.", "question": "cause", "label": 0, "idx": 121, "changed": false}
+{"premise": "Ülke komşu ülkeye savaş ilan etti.", "choice1": "Askerler savaşa gönderilidi.", "choice2": "Askerler aileleriyle bir araya getirildi.", "question": "effect", "label": 0, "idx": 122, "changed": false}
+{"premise": "Mhkeme tartışmalı kararı onayladı.", "choice1": "Mahmeke binası önünde isyan çıktı.", "choice2": "Bir çift mahkeme binası önünde evlendi.", "question": "effect", "label": 0, "idx": 123, "changed": false}
+{"premise": "Kız yanık kokusu aldı.", "choice1": "O kurabiyeleri kavanozdan çıkardı.", "choice2": "O kurabiyeleri fırnda bıraktı.", "question": "cause", "label": 1, "idx": 124, "changed": false}
+{"premise": "Yağmur yağıyordu.", "choice1": "Fırtına daha kötü oldu.", "choice2": "İçeri girmek için hızla koştum.", "question": "effect", "label": 1, "idx": 125, "changed": false}
+{"premise": "Bina tahliye edildi.", "choice1": "Asansör çalımayı durdurdu.", "choice2": "Yangın alarmı çaldı.", "question": "cause", "label": 1, "idx": 126, "changed": false}
+{"premise": "Baba oğlunun alkolikliğine sinirlendi.", "choice1": "Baba oğluna bir bira aldı.", "choice2": "Baba oğlunu evden kovdu.", "question": "effect", "label": 1, "idx": 127, "changed": false}
+{"premise": "Avukat ofisine mervidenlerden çıktı.", "choice1": "Sekreter eve gitmişti.", "choice2": "Asansör çalışmıyordu.", "question": "cause", "label": 1, "idx": 128, "changed": false}
+{"premise": "Adam arkadaşına sinirlendi.", "choice1": "Arkadaşı onun sözüne kesti.", "choice2": "Arkadaşı ona öğle yemeği aldı.", "question": "cause", "label": 0, "idx": 129, "changed": false}
+{"premise": "Kız parayı kasiyere verdi.", "choice1": "Kasiyer kıza para üstünü verdi.", "choice2": "Kasiyer kıza fiş vermeyi unuttu.", "question": "effect", "label": 0, "idx": 130, "changed": false}
+{"premise": "Kadın tekerlekli sandalyeye konuldu.", "choice1": "O kazada felç kaldı.", "choice2": "O hastaneye bir sedye içinde girdi.", "question": "cause", "label": 0, "idx": 131, "changed": false}
+{"premise": "Şehir sakinlei evlerinin dışına milli bayrak bayrak astı.", "choice1": "Ülke bağımsızlığını anıyordu.", "choice2": "Ülke economik zorluklarla yüzleşiyordu.", "question": "cause", "label": 0, "idx": 132, "changed": false}
+{"premise": "Takım turnuvayı kaybetti.", "choice1": "Onlar taraftarlarını hayal kırıklığına uğrattı.", "choice2": "Onlar taraftarlarına ilham oldu.", "question": "effect", "label": 0, "idx": 133, "changed": false}
+{"premise": "Arkadaşım dişimde yemek kaldığını belirtti.", "choice1": "Utanç duydum.", "choice2": "Gurur duydum.", "question": "effect", "label": 0, "idx": 134, "changed": false}
+{"premise": "Erkek çocuk tarih sınavından kaldı.", "choice1": "O derse dikkati verdi.", "choice2": "O çalışmayı unuttu.", "question": "cause", "label": 1, "idx": 135, "changed": false}
+{"premise": "Şehir merkezi binası yıkıldı.", "choice1": "Şehri deprem vurdu.", "choice2": "Suç oranları arttı.", "question": "cause", "label": 0, "idx": 136, "changed": false}
+{"premise": "Adamın kız arkadaşı ondan ayrıldı.", "choice1": "O onu geri alması için yalvardı.", "choice2": "Onu ailesine tanıttı.", "question": "effect", "label": 0, "idx": 137, "changed": false}
+{"premise": "İki çocuk aynı anda topu almak için aşağı uzandı.", "choice1": "Top uzağa yuvarlandı.", "choice2": "Başları birbirine çarptı.", "question": "effect", "label": 1, "idx": 138, "changed": false}
+{"premise": "Rakun çöp kutusunu karıştırdı.", "choice1": "Çöp kutusunda karton vardı.", "choice2": "Çöp kutusunun kapağı açıktı.", "question": "cause", "label": 1, "idx": 139, "changed": false}
+{"premise": "Erkek çocuk kalemi sivriltti.", "choice1": "Kalem ucuzdu.", "choice2": "Kalem körleşmişti.", "question": "cause", "label": 1, "idx": 140, "changed": false}
+{"premise": "Kasiyer kıyafetin iadesini reddetti.", "choice1": "O fişi kaybetmişti.", "choice2": "Kıyafet uymamıştı.", "question": "cause", "label": 0, "idx": 141, "changed": false}
+{"premise": "Derimdeki çizgi derindi.", "choice1": "Hızlıca iyileşti.", "choice2": "O yara izi bıraktı.", "question": "effect", "label": 1, "idx": 142, "changed": false}
+{"premise": "Adam trendeki yolcuların garip bakışlarıyla karşılaştı.", "choice1": "O yere bakıyodu.", "choice2": "O kendi kendine konuşuyordu.", "question": "cause", "label": 1, "idx": 143, "changed": false}
+{"premise": "Çocuk kırıntıları yerde bıraktı.", "choice1": "Karıncalar kırıntılara gittiler.", "choice2": "Çocuk ekmeği bir kenara koydu.", "question": "effect", "label": 0, "idx": 144, "changed": false}
+{"premise": "Kadın kardeşine bir peçete uzattı.", "choice1": "Kadının kardeşi ellerini büktü.", "choice2": "Kadının kız kardeşi ağlamaya başladı.", "question": "cause", "label": 1, "idx": 145, "changed": false}
+{"premise": "Adam bir nane şekeri aldı.", "choice1": "Onun dudakları çatladı.", "choice2": "O kötü nefes kokusundan endişe etti.", "question": "cause", "label": 1, "idx": 146, "changed": false}
+{"premise": "Çift şov için erken ayrıldı.", "choice1": "Onlar tiyatro çevresinde trafik tahmin ettiler.", "choice2": "Onlar tiyatroya giden yön tarifini edindiler.", "question": "cause", "label": 0, "idx": 147, "changed": false}
+{"premise": "Kadın işten evde kaldı.", "choice1": "Patronu onu övdü.", "choice2": "Meslektaşı onun için örtbas edildi.", "question": "effect", "label": 1, "idx": 148, "changed": false}
+{"premise": "Adam aktivistlerin dilekçesini imzaladı.", "choice1": "Onların amacını destekliyordu.", "choice2": "Onları deli olmakla eleştirdi.", "question": "cause", "label": 0, "idx": 149, "changed": false}
+{"premise": "Adamın kalbi performansından önce güm güm atıyordu.", "choice1": "Onun sahne korkusu vardı.", "choice2": "Kendi repliğini hatırladı.", "question": "cause", "label": 0, "idx": 150, "changed": false}
+{"premise": "Kaybolmuştum.", "choice1": "Paramı saydım.", "choice2": "Haritayı açtım.", "question": "effect", "label": 1, "idx": 151, "changed": false}
+{"premise": "Olgunlaşmış meyve güneşin altında kaldo.", "choice1": "Yendi.", "choice2": "İçi geçti.", "question": "effect", "label": 1, "idx": 152, "changed": false}
+{"premise": "Araba bozuldu.", "choice1": "Kontağı açtım.", "choice2": "Motor fazla ısındı.", "question": "cause", "label": 1, "idx": 153, "changed": false}
+{"premise": "Adam sırtını incitti.", "choice1": "O psikiyatristi görmeye gitti.", "choice2": "O birkaç gün yatakta kaldı.", "question": "effect", "label": 1, "idx": 154, "changed": false}
+{"premise": "Şömenide ateş yaktım.", "choice1": "Yakacak odununum yoktu.", "choice2": "Evin içi soğuktu.", "question": "cause", "label": 1, "idx": 155, "changed": false}
+{"premise": "Kadın koşuyu durdurdu.", "choice1": "Yan tarafına kramp girdi.", "choice2": "Kadın soluklanıp enerjisini tekrar topladı.", "question": "cause", "label": 0, "idx": 156, "changed": true}
+{"premise": "Komuşumun kapısını tıklattım.", "choice1": "Komşum beni içeri davet etti.", "choice2": "Komşum evini terk etmişti.", "question": "effect", "label": 0, "idx": 157, "changed": false}
+{"premise": "Kadın hayal kırıklığıyla iç çekti.", "choice1": "Kocası onun endişelerini yanlış anladı.", "choice2": "Kocası ona veda etti.", "question": "cause", "label": 0, "idx": 158, "changed": false}
+{"premise": "Öğretmen öğrenciyi övdü.", "choice1": "Öğrenci soruyu doğru cevapladı.", "choice2": "Öğrenci soruyu çevaplamakta tereddüt etti.", "question": "cause", "label": 0, "idx": 159, "changed": false}
+{"premise": "Kadının yumurtası kalmadı.", "choice1": "Kadın çiftliğe gitti.", "choice2": "Kadın süpermarkete gitti.", "question": "effect", "label": 1, "idx": 160, "changed": false}
+{"premise": "Eski bir arkadaşla karşılaştım.", "choice1": "Ona bir sır verdim.", "choice2": "Ona sarıldım.", "question": "effect", "label": 1, "idx": 161, "changed": false}
+{"premise": "Kadın göle girmekten kaçındı.", "choice1": "Kadın bir balık yakaladı.", "choice2": "O kirlenmiş görünüyordu.", "question": "cause", "label": 1, "idx": 162, "changed": false}
+{"premise": "Öğrenci sınıfa sırılsıklam vardı.", "choice1": "Şemsiyesi kırıldı.", "choice2": "Bisikleti çalındı.", "question": "cause", "label": 0, "idx": 163, "changed": false}
+{"premise": "Bilgisayar ekranındaki imleç hareket etti.", "choice1": "Kullanıcı fareye tıkladı.", "choice2": "Kullanıcı fareyi kaydırdı.", "question": "cause", "label": 1, "idx": 164, "changed": false}
+{"premise": "Sürücü dolambaçlı yoldan gitti.", "choice1": "Ana yolda bir kaza olmuştu.", "choice2": "O önündeki kamyonu takip etti.", "question": "cause", "label": 0, "idx": 165, "changed": false}
+{"premise": "Islak çarşafı dışarıdaki çamaşır ipine astım.", "choice1": "Çamaşır kurudu.", "choice2": "Çamaşır lekelendi.", "question": "effect", "label": 0, "idx": 166, "changed": false}
+{"premise": "Kadın gölgeliğini açtı.", "choice1": "Güneş parlaktı.", "choice2": "O taksi çağırdı.", "question": "cause", "label": 0, "idx": 167, "changed": false}
+{"premise": "Adam gece gökyüzüne baktı.", "choice1": "Yaz olmasını diledi.", "choice2": "Güzel olduğunu düşündü.", "question": "cause", "label": 1, "idx": 168, "changed": false}
+{"premise": "Yorgunluktan tükenmiş hissettim.", "choice1": "Yatağa erken gittim.", "choice2": "Bütün gece ayakta kaldım.", "question": "effect", "label": 0, "idx": 169, "changed": false}
+{"premise": "Adam berbere gitti.", "choice1": "O saçlarını uzatıyordu.", "choice2": "Saçları uzamıştı.", "question": "cause", "label": 1, "idx": 170, "changed": false}
+{"premise": "Çocuk yeni sınıf arkadışına kötü numaralar yaptı.", "choice1": "Çocuk yeni sınıf arkadışını hoş karşıladı.", "choice2": "Çocuk yeni sınıf arkadışını sevmedi.", "question": "cause", "label": 1, "idx": 171, "changed": false}
+{"premise": "Canım bir bardak süt çekti.", "choice1": "Kurabiye yiyordum.", "choice2": "Ekmek yapıyordum.", "question": "cause", "label": 0, "idx": 172, "changed": false}
+{"premise": "Yağmur yağmaya başladı.", "choice1": "Sürücü farları açtı.", "choice2": "Sürücü arabayı geriye vitese aldı.", "question": "effect", "label": 0, "idx": 173, "changed": false}
+{"premise": "Binanın park yeri boştu.", "choice1": "Sokağın karşısına park ettim.", "choice2": "Girişin yanına park ettim.", "question": "effect", "label": 1, "idx": 174, "changed": false}
+{"premise": "Yazar taslak teslimi için olan son tarihi kaçırdı.", "choice1": "Yazar yazamadı.", "choice2": "O taslağı düzenledi.", "question": "cause", "label": 0, "idx": 175, "changed": true}
+{"premise": "İş arkadaşım bana kafayı taktı.", "choice1": "Yöneticiyle konuşmak istedim.", "choice2": "Kimlik numaramı verdim.", "question": "cause", "label": 0, "idx": 176, "changed": false}
+{"premise": "Rüzgar açık pencereden içeri esti.", "choice1": "Kapı zili çaldı.", "choice2": "Perdeler titredi.", "question": "effect", "label": 1, "idx": 177, "changed": false}
+{"premise": "Evimdeki elektirik gitti.", "choice1": "Lambayı fişten çıkardım.", "choice2": "Sigortayı attırdım.", "question": "cause", "label": 1, "idx": 178, "changed": false}
+{"premise": "Halter homurdandı.", "choice1": "Ayna karşısında kaslarını esnetti.", "choice2": "Barı kafasının üzerine kaldırdı.", "question": "cause", "label": 1, "idx": 179, "changed": false}
+{"premise": "Öğrenci  hesabı kafasından yapmayı denedi.", "choice1": "Hesap makinesini çıkardı.", "choice2": "Onun kafası karıştı.", "question": "effect", "label": 1, "idx": 180, "changed": false}
+{"premise": "Bebek uykuya daldı.", "choice1": "Bbası bebeğin bezini değiştirdi.", "choice2": "Babası bebeği yavaşça salladı.", "question": "cause", "label": 1, "idx": 181, "changed": false}
+{"premise": "Kız oğlana su balonu attı.", "choice1": "Oğlan sarsıldı.", "choice2": "Oğlan ıslandı.", "question": "effect", "label": 1, "idx": 182, "changed": false}
+{"premise": "Fotoğrafçı kameradaki flaşı kullanmayı unuttu.", "choice1": "Fotoğraflar bulanık çıktı.", "choice2": "Fotoğraftaki herkes gülmeyi reddetti.", "question": "effect", "label": 0, "idx": 183, "changed": false}
+{"premise": "Doğum günü partisin davetini geri çevirdim.", "choice1": "Yalnızdım.", "choice2": "Şehir dışındaydım.", "question": "cause", "label": 1, "idx": 184, "changed": false}
+{"premise": "Egzersiz yaptım.", "choice1": "Enerjik hissettim.", "choice2": "Korktum.", "question": "cause", "label": 0, "idx": 185, "changed": false}
+{"premise": "Islak süngeri sıktım.", "choice1": "Suyu içine çekti.", "choice2": "İçinden su sızdı.", "question": "effect", "label": 1, "idx": 186, "changed": false}
+{"premise": "Tatilciler tatil yeri için vapur kullandılar.", "choice1": "Tatil yeri rezerve edilmişti.", "choice2": "Tatil yeri adadaydı.", "question": "cause", "label": 1, "idx": 187, "changed": false}
+{"premise": "Ergen dövme yaptırdı.", "choice1": "O iğnelerden korktu.", "choice2": "Asilik yapmak istedi.", "question": "cause", "label": 1, "idx": 188, "changed": false}
+{"premise": "Alışılmadık bir araba evimin dışına park etti.", "choice1": "Şüphelendim.", "choice2": "Polisi aradım.", "question": "effect", "label": 0, "idx": 189, "changed": true}
+{"premise": "Suçlu teslim oldu.", "choice1": "Deliller onu işaret ediyordu.", "choice2": "Onun aleyhine delil yoktu.", "question": "cause", "label": 0, "idx": 190, "changed": false}
+{"premise": "İri ve ağır adam kilo vermeye karar verdi.", "choice1": "Tatlıyı kesti.", "choice2": "Kafeğinden kaçındı.", "question": "effect", "label": 0, "idx": 191, "changed": false}
+{"premise": "Kız buza bastı.", "choice1": "O kaydı.", "choice2": "O titredi.", "question": "effect", "label": 0, "idx": 192, "changed": false}
+{"premise": "Kadının gözlerinin altında halkaları var.", "choice1": "O bütün gece ayakta kaldı.", "choice2": "O oğlunu yatağa koydu.", "question": "cause", "label": 0, "idx": 193, "changed": false}
+{"premise": "Lav volkandan aktı.", "choice1": "Volkan patladı.", "choice2": "Volkan aktif değildi.", "question": "cause", "label": 0, "idx": 194, "changed": false}
+{"premise": "Kadın ayakkabılarını giydi.", "choice1": "O partideki herkesi biliyordu..", "choice2": "O partiden erken ayrıldı.", "question": "cause", "label": 1, "idx": 195, "changed": false}
+{"premise": "Gişe görevlisine ödedim.", "choice1": "Gişeden geçmeme izin verdi.", "choice2": "O beni gişede tuttu.", "question": "effect", "label": 0, "idx": 196, "changed": false}
+{"premise": "Yönetici iflas etti.", "choice1": "O şirket hissesini sattı.", "choice2": "O şansını harcadı.", "question": "cause", "label": 1, "idx": 197, "changed": false}
+{"premise": "Adam doktora gitti.", "choice1": "Doktor izindeydi.", "choice2": "Adam hasta hissetti.", "question": "cause", "label": 1, "idx": 198, "changed": false}
+{"premise": "Yatak odamı pencereden terk ettim.", "choice1": "Ev yanıyordu.", "choice2": "Ev boştu.", "question": "cause", "label": 0, "idx": 199, "changed": false}
+{"premise": "Çocuğun parmakları buruşuk oldu.", "choice1": "O uzun bir duş aldı.", "choice2": "Ellerini sabunla köpürttü.", "question": "cause", "label": 0, "idx": 200, "changed": false}
+{"premise": "Sütü tükürdüm.", "choice1": "Süt tadı ekşiydi.", "choice2": "Ağzım kuruydu.", "question": "cause", "label": 0, "idx": 201, "changed": false}
+{"premise": "Otobüsü kaçırdım.", "choice1": "İşe erken geldim.", "choice2": "İşe geç kaldım.", "question": "effect", "label": 1, "idx": 202, "changed": false}
+{"premise": "Kamyon arabayla çarpıştı.", "choice1": "Kamyon hızlandı.", "choice2": "Araba paramparça oldu.", "question": "effect", "label": 1, "idx": 203, "changed": false}
+{"premise": "Takım yarışmayı kendi lehine  düzenledi.", "choice1": "Onlar kazandı.", "choice2": "Onlar bıraktılar.", "question": "effect", "label": 0, "idx": 204, "changed": false}
+{"premise": "Soda şişesi tısladı.", "choice1": "Şişeyi devirdim.", "choice2": "Kapağı çevirip açtım.", "question": "cause", "label": 1, "idx": 205, "changed": false}
+{"premise": "Oğlan evde kitli kaldı.", "choice1": "O açık pencereden sürünerek ilerledi.", "choice2": "O çatıya çıktı.", "question": "effect", "label": 0, "idx": 206, "changed": false}
+{"premise": "Kapı zili çaldı.", "choice1": "Ziyaretçi kapıdaki tokmağa dokundu.", "choice2": "Kadın kapı deliğinden baktı.", "question": "effect", "label": 1, "idx": 207, "changed": true}
+{"premise": "Adam takım elbisesini leke yaptı.", "choice1": "Ona kuruma temizleme yaptırdı.", "choice2": "Dolabına astı.", "question": "effect", "label": 0, "idx": 208, "changed": false}
+{"premise": "Kız diş macunu tüpünü sıktı.", "choice1": "Diş macunu tüpten fışkırdı.", "choice2": "Kız diş macununu tükürdü.", "question": "effect", "label": 0, "idx": 209, "changed": false}
+{"premise": "Savaştaki sivil ölümler hızlıca çok arttı.", "choice1": "Savaş karşıtları  protesto  düzenlediler.", "choice2": "Savaş karşıtları geçit düzenlediler.", "question": "effect", "label": 0, "idx": 210, "changed": false}
+{"premise": "Kız kurdeleyi saçından çekti.", "choice1": "O kurdeleyi bağladı.", "choice2": "Kurdele çocuksu görünüyordu.", "question": "cause", "label": 1, "idx": 211, "changed": false}
+{"premise": "Adam estetik ameliyatı oldu.", "choice1": "O yaşlandı.", "choice2": "O genç görünüyor.", "question": "effect", "label": 1, "idx": 212, "changed": false}
+{"premise": "Bir civciv yumurtadan çıktı.", "choice1": "Yumurta çatladı.", "choice2": "Yumurtayı çatlattım.", "question": "cause", "label": 0, "idx": 213, "changed": false}
+{"premise": "Mahkum çok açlık çekti.", "choice1": "O öldü.", "choice2": "O kaçtı.", "question": "effect", "label": 0, "idx": 214, "changed": false}
+{"premise": "Adam merdivende dengesini kaybetti.", "choice1": "O merdivene tırmandı.", "choice2": "O medivenden düştü.", "question": "effect", "label": 1, "idx": 215, "changed": false}
+{"premise": "Çocuk geğirdi.", "choice1": "O sodadan bir yudum aldı.", "choice2": "O soda kapağını açtı.", "question": "cause", "label": 0, "idx": 216, "changed": false}
+{"premise": "Penceren soğuk bir hava geldi.", "choice1": "Rahatladım.", "choice2": "Titredim.", "question": "effect", "label": 1, "idx": 217, "changed": false}
+{"premise": "Öğrenci üniversiteye gitmek için burs aldı.", "choice1": "Sınıf arkadaşları ona saygı duydu.", "choice2": "İyi notlar aldı.", "question": "cause", "label": 1, "idx": 218, "changed": false}
+{"premise": "Kız oğlanla alay etti.", "choice1": "O onun yanındaki evde yaşıyordu.", "choice2": "Ona aşık oldu.", "question": "cause", "label": 1, "idx": 219, "changed": false}
+{"premise": "Aç berduş yemek çaldı.", "choice1": "Merhamete ilham verdi.", "choice2": "Parası yoktu.", "question": "cause", "label": 1, "idx": 220, "changed": false}
+{"premise": "Arkadaşımı sohbet etmeye çağırdım.", "choice1": "Mahremiyet istedim.", "choice2": "Yalnız hissettim.", "question": "cause", "label": 1, "idx": 221, "changed": false}
+{"premise": "Adam elini bana uzattı.", "choice1": "Elini sıktım.", "choice2": "Onu tokatladım.", "question": "effect", "label": 0, "idx": 222, "changed": false}
+{"premise": "Başımı hızlıca eğdim.", "choice1": "Havai fişekler yukarı çıkmaya başladı.", "choice2": "Frizbi kafama doğru yükseldi.", "question": "cause", "label": 1, "idx": 223, "changed": false}
+{"premise": "Kız tırnaklarını yedi.", "choice1": "O endişelendi.", "choice2": "O şaşırdı.", "question": "cause", "label": 0, "idx": 224, "changed": false}
+{"premise": "Takvimdeki sayfayı çevirdim.", "choice1": "Takvime bir randevu işaretledim.", "choice2": "Yeni ayın başlangıcıydı.", "question": "cause", "label": 1, "idx": 225, "changed": false}
+{"premise": "Koca eşinin başkasıyla birlikte olduğunu keşfetti.", "choice1": "O avukatını kovdu.", "choice2": "O boşanma davası açtı.", "question": "effect", "label": 1, "idx": 226, "changed": false}
+{"premise": "Kız plastik topu düşürdü.", "choice1": "Top sekti.", "choice2": "Top parladı.", "question": "effect", "label": 0, "idx": 227, "changed": false}
+{"premise": "Kız sınavda bir hata yaptı.", "choice1": "O cevabı tahmin etti.", "choice2": "O cevabını sildi.", "question": "effect", "label": 1, "idx": 228, "changed": false}
+{"premise": "Oyuncu rakibi ile mücadele etti.", "choice1": "Rakibi pası yakaladı.", "choice2": "Rakibi yere düştü.", "question": "effect", "label": 1, "idx": 229, "changed": false}
+{"premise": "Domatesleri asmadan aldım.", "choice1": "Onlar olgunlaşmıştı.", "choice2": "Onları yıkadım.", "question": "cause", "label": 0, "idx": 230, "changed": false}
+{"premise": "Adam romantik davranmak istedi.", "choice1": "O eski kız arkadaşıyla öğle yemeği için buluştu.", "choice2": "O kız arkadaşına çikolatalar aldı.", "question": "effect", "label": 1, "idx": 231, "changed": false}
+{"premise": "Termometredeki civa yükseldi.", "choice1": "Termometreyi düşürdüm.", "choice2": "Hava ısındı.", "question": "cause", "label": 1, "idx": 232, "changed": false}
+{"premise": "Bir kasırga kasabadan geçti.", "choice1": "Adliyenin çatısı uçtu.", "choice2": "Otoyol tehlikeli derecede buzlu oldu.", "question": "effect", "label": 0, "idx": 233, "changed": false}
+{"premise": "Öğrenci özel ders aldı.", "choice1": "Notları iyileşti.", "choice2": "O sınavda kopya çekti.", "question": "effect", "label": 0, "idx": 234, "changed": false}
+{"premise": "Rahat hissediyorum.", "choice1": "Yere diz çöktüm.", "choice2": "Kendimi battaniye ile sardım.", "question": "cause", "label": 1, "idx": 235, "changed": false}
+{"premise": "Taşı cilaladım.", "choice1": "Kaygan oldu.", "choice2": "Parlak oldu.", "question": "effect", "label": 1, "idx": 236, "changed": false}
+{"premise": "Kahveye şeker ekledim.", "choice1": "Kahve güçlü kokuyordu.", "choice2": "Kahve tatlı oldu.", "question": "effect", "label": 1, "idx": 237, "changed": false}
+{"premise": "Adam kağıtları karıştırdı.", "choice1": "Ona kağıt kesiği oldu.", "choice2": "O kağıtları parçaladı.", "question": "effect", "label": 0, "idx": 238, "changed": false}
+{"premise": "Çiviyi çekiçle çaktım.", "choice1": "Çivi oduna girdi.", "choice2": "Çivi paslandı.", "question": "effect", "label": 0, "idx": 239, "changed": false}
+{"premise": "Balık oltayı ısırdı.", "choice1": "Balıkçı balığı çekti.", "choice2": "Balıkçı oltayı yeniden attı.", "question": "effect", "label": 0, "idx": 240, "changed": false}
+{"premise": "Ergen okula getmeye utanmıştı.", "choice1": "Onun sivilcesi vardı.", "choice2": "O diş tellerini çıkardı.", "question": "cause", "label": 0, "idx": 241, "changed": false}
+{"premise": "Yüz ifadem aydınlandı.", "choice1": "İyi haberler aldım.", "choice2": "Sabrımı kaybettim.", "question": "cause", "label": 0, "idx": 242, "changed": false}
+{"premise": "Ellerimi havlu ile sildim.", "choice1": "Havlu ıslaktı.", "choice2": "Ellerim ıslaktı.", "question": "cause", "label": 1, "idx": 243, "changed": false}
+{"premise": "Adam oturak üzerindeki dengesini kaybetti.", "choice1": "Oturak altında sallandı.", "choice2": "Tabureye boya döktü.", "question": "cause", "label": 0, "idx": 244, "changed": false}
+{"premise": "Takımarkadaşları  suçlamaya birbirlerine yönelttiler.", "choice1": "Oyunu kaybettiler.", "choice2": "Koçları çalışmayı iptal etti.", "question": "cause", "label": 0, "idx": 245, "changed": false}
+{"premise": "Affetmesini istedim.", "choice1": "Hatamdam pişman oldum.", "choice2": "Amacıma ulaştım.", "question": "cause", "label": 0, "idx": 246, "changed": false}
+{"premise": "Kadın flört ettiği kişiden sıkıldı.", "choice1": "Onun hakkında sorular sordu.", "choice2": "O aralıksız kendi hakkında konuştu.", "question": "cause", "label": 1, "idx": 247, "changed": false}
+{"premise": "Kız gülümsedi.", "choice1": "Yanakları kızardı.", "choice2": "Gamzeleri göründü.", "question": "effect", "label": 1, "idx": 248, "changed": false}
+{"premise": "Düşman gemisi havaya uçtu.", "choice1": "Madenin üzerinden geçti.", "choice2": "O limana yelken açtı.", "question": "cause", "label": 0, "idx": 249, "changed": false}
+{"premise": "Adam ayağını deldi.", "choice1": "Su birikintisine girdi.", "choice2": "O kırıklmış cama bastı.", "question": "cause", "label": 1, "idx": 250, "changed": false}
+{"premise": "Detektifler parmak izi için suç mahallinin tozunu aldılar.", "choice1": "Suçlunun kimliğini keşfettiler.", "choice2": "Onlar suç mahallinde silah buldular.", "question": "effect", "label": 0, "idx": 251, "changed": true}
+{"premise": "Otoyolda çok trafik vardı.", "choice1": "Farklı bir yola saptım.", "choice2": "Arabayla gezmek  istedim.", "question": "effect", "label": 0, "idx": 252, "changed": false}
+{"premise": "Ülkenin ekonomisi inişe geçti.", "choice1": "Birçok insan hastalandı.", "choice2": "Birçok insan işsizlikle yüzleşti.", "question": "effect", "label": 1, "idx": 253, "changed": false}
+{"premise": "Geçiş görevlisi çocuklara düdüğünü çaldı.", "choice1": "Onlar yaklaşmakta olan trafiğe girmek üzereydiler.", "choice2": "Onları kendi semtinden tanıdı.", "question": "cause", "label": 0, "idx": 254, "changed": false}
+{"premise": "Gözlerimi arkadışıma devirdim.", "choice1": "Bana doğruyu söyledi.", "choice2": "Alaycı bir açıklama yaptı.", "question": "cause", "label": 1, "idx": 255, "changed": false}
+{"premise": "Arabada benzin bitti.", "choice1": "Sürücü yolda mahsur kaldı.", "choice2": "Sürücü bir otostopçu aldı.", "question": "effect", "label": 0, "idx": 256, "changed": false}
+{"premise": "Kadın doğum yaptı.", "choice1": "Bebek doğdu.", "choice2": "Kadının sabah bulantısı vardı.", "question": "effect", "label": 0, "idx": 257, "changed": false}
+{"premise": "Adamın şapkası uçtu.", "choice1": "O şapkasını çıkardı.", "choice2": "Dışarısı rüzgarlıydı.", "question": "cause", "label": 1, "idx": 258, "changed": false}
+{"premise": "Kız sınıf arkadaşının doğum günü partisine katıldı.", "choice1": "O bir davetiye aldı.", "choice2": "O bir hediye aldı.", "question": "cause", "label": 0, "idx": 259, "changed": false}
+{"premise": "Oğlanın alnı sıcaktı.", "choice1": "Annesi ateşine baktı.", "choice2": "Annesi onu parka götürdü.", "question": "effect", "label": 0, "idx": 260, "changed": true}
+{"premise": "Adam kendisine parfüm sıktı.", "choice1": "Flörtünü etkilemek istedi.", "choice2": "O saçına jole sürdü.", "question": "cause", "label": 0, "idx": 261, "changed": false}
+{"premise": "Evdeki elektirikler kesildi.", "choice1": "Bir el feneri aradım.", "choice2": "Bir kürek aldım.", "question": "effect", "label": 0, "idx": 262, "changed": false}
+{"premise": "Aile daha büyük bir eve taşındı.", "choice1": "Oğlan liseden mezun oldu.", "choice2": "Ane ikiz doğurdu.", "question": "cause", "label": 1, "idx": 263, "changed": false}
+{"premise": "Maratoncu yavaş temposunu korudu.", "choice1": "O enerjisini korumak istiyordu.", "choice2": "O bitiş çizgisini gördü.", "question": "cause", "label": 0, "idx": 264, "changed": false}
+{"premise": "Çocuk otomatı tekmeledi.", "choice1": "Makine para üstünü fırlattı.", "choice2": "Cips kutusu sıkıştı.", "question": "cause", "label": 1, "idx": 265, "changed": false}
+{"premise": "Arkadaşımın köpeği öldü.", "choice1": "Gözlerimi ona devirdim.", "choice2": "Ona sarıldım.", "question": "effect", "label": 1, "idx": 266, "changed": false}
+{"premise": "İş adamının kredi kartı kabul edilmedi.", "choice1": "O bir borç senedi yazdı.", "choice2": "O nakit ile ödedi.", "question": "effect", "label": 1, "idx": 267, "changed": false}
+{"premise": "Adam lanet etti.", "choice1": "O tırnaklarını kesti.", "choice2": "O ayak parmağını vurdu.", "question": "cause", "label": 1, "idx": 268, "changed": false}
+{"premise": "Adam kardeşiyle gurur duydu.", "choice1": "Kardeşi evebeynleri ile tartışmaya girdi.", "choice2": "Kardeşi hukuk fakültesine kabul edildi.", "question": "cause", "label": 1, "idx": 269, "changed": false}
+{"premise": "Kız güneş sistemi hakkında öğrenmek istedi.", "choice1": "Kütüphaneye gitti.", "choice2": "Yıldızlara baktı.", "question": "effect", "label": 0, "idx": 270, "changed": false}
+{"premise": "Poster duvara yapıştı.", "choice1": "Posteri kapının üstüne yerleştirdim.", "choice2": "Posterin arkasına bant koydum.", "question": "cause", "label": 1, "idx": 271, "changed": false}
+{"premise": "Müşteri mimarın bina için planını onayladı.", "choice1": "Mimar binayı inşa etti.", "choice2": "Mimar planı düzenledi.", "question": "effect", "label": 0, "idx": 272, "changed": true}
+{"premise": "Adam kaşığını düşürdü.", "choice1": "Elleri titriyordu.", "choice2": "Kaşığı yaladı.", "question": "cause", "label": 0, "idx": 273, "changed": false}
+{"premise": "Şirketin ceosu istifa etti.", "choice1": "Yönetim kurulu şirketi feshetti.", "choice2": "Yönetim kurulu onun yerine birini buldu.", "question": "effect", "label": 1, "idx": 274, "changed": false}
+{"premise": "Derse geç vardım.", "choice1": "Arka sıraya oturdum.", "choice2": "Podyuma yaklaştım.", "question": "effect", "label": 0, "idx": 275, "changed": false}
+{"premise": "Adam hapisten salındı.", "choice1": "Ailesi kefaletini ödedi.", "choice2": "O mahkuma saldırdı.", "question": "cause", "label": 0, "idx": 276, "changed": false}
+{"premise": "Aile bütün sahip olduklarını kaybetti.", "choice1": "Onlar evlerini sattılar.", "choice2": "Onların evi ateş aldı.", "question": "cause", "label": 1, "idx": 277, "changed": false}
+{"premise": "Aleminyum kutuyu ayağımla ezdim.", "choice1": "Kutu geri dönüştürüldü.", "choice2": "Kutu ezildi.", "question": "effect", "label": 1, "idx": 278, "changed": false}
+{"premise": "Kız münazara takımına katıldı.", "choice1": "O bilgisayar kullnmayı öğrendi.", "choice2": "O iletişim becerileri öğrendi.", "question": "effect", "label": 1, "idx": 279, "changed": false}
+{"premise": "Ruh halim iyileşti.", "choice1": "Müzik dinledim.", "choice2": "Yemekleri yaptım.", "question": "cause", "label": 0, "idx": 280, "changed": false}
+{"premise": "Hayır kuruluşu para toplamayı amaçladı.", "choice1": "Onlar evsizleri beslediler.", "choice2": "Onlar bir açık artırma düzenlediler.", "question": "effect", "label": 1, "idx": 281, "changed": false}
+{"premise": "Lunaparktaki hız treni dik bir şekilde aşşağı hızla indi.", "choice1": "Yolcular kıkırdadılar.", "choice2": "Yolcular çığlık attılar.", "question": "effect", "label": 1, "idx": 282, "changed": false}
+{"premise": "Öfkeliydim.", "choice1": "Evden ayrılırken posta kutusunu kontrol ettim.", "choice2": "Evi terk ederken kapıyı çarptım.", "question": "effect", "label": 1, "idx": 283, "changed": false}
+{"premise": "Adam güneşin doğuşunu seyretmek istedi.", "choice1": "O kuzeye yolculuk etti.", "choice2": "O erken kalktı.", "question": "effect", "label": 1, "idx": 284, "changed": false}
+{"premise": "Kağıdı katladım.", "choice1": "Kağıdı geri dönüştürdüm.", "choice2": "Kağıt buruştu.", "question": "effect", "label": 1, "idx": 285, "changed": false}
+{"premise": "Ulus doğal felakete katlandı.", "choice1": "Diğer ülkelerin liderleri bir birlik kurdu.", "choice2": "Diğer ülkelerin liderleri acil durum yardım gönderdi.", "question": "effect", "label": 1, "idx": 286, "changed": false}
+{"premise": "Oğlanın kıyafetleri ıslandı.", "choice1": "O havuzdan çıktı.", "choice2": "O havuza düştü.", "question": "cause", "label": 1, "idx": 287, "changed": false}
+{"premise": "Öğrenci kitabı bitirmek için acele etti.", "choice1": "Onun kütüphaneye iade edilmesi gerekiyordu.", "choice2": "Onu bir arkadaşından ödünç aldı.", "question": "cause", "label": 0, "idx": 288, "changed": false}
+{"premise": "Suçlu idam edildi.", "choice1": "O hapse atıldı.", "choice2": "Cinayetten hüküm giydi.", "question": "cause", "label": 1, "idx": 289, "changed": false}
+{"premise": "Güneş ışığı odaya girdi.", "choice1": "Perdeleri açtım.", "choice2": "Kapının kilidini açtım.", "question": "cause", "label": 0, "idx": 290, "changed": false}
+{"premise": "Sahtekarın saçını çektim.", "choice1": "Peruğu çıktı.", "choice2": "O kel oldu.", "question": "effect", "label": 0, "idx": 291, "changed": false}
+{"premise": "Editör metindeki bir cümleyi yeniden düzenledi.", "choice1": "Makaleyi etkili buldu.", "choice2": "O cümleyi karışık buldu.", "question": "cause", "label": 1, "idx": 292, "changed": false}
+{"premise": "Kadın kredi kartı hesabını iptal etti.", "choice1": "O kartının kaybolduğunu fark etti.", "choice2": "O kartının süresinin dolmuş olduğunu fark etti.", "question": "cause", "label": 0, "idx": 293, "changed": false}
+{"premise": "Adam ve kadın aşık oldu.", "choice1": "Üniversiteye gittiler.", "choice2": "Evlendiler.", "question": "effect", "label": 1, "idx": 294, "changed": false}
+{"premise": "Müziğin sesi duymak için çok zayıftı.", "choice1": "Sesi açtım.", "choice2": "Kendi şarkımı besteledim.", "question": "effect", "label": 0, "idx": 295, "changed": false}
+{"premise": "Oğlanın saçı yukarı kalktı.", "choice1": "Kız onu kabarttı.", "choice2": "Kız onu çekti.", "question": "cause", "label": 0, "idx": 296, "changed": false}
+{"premise": "Böcek ezildi.", "choice1": "Kendime böceksavar spyreyledim.", "choice2": "Böceğin üzerinde bastım.", "question": "cause", "label": 1, "idx": 297, "changed": false}
+{"premise": "Gözlerimi açtım.", "choice1": "Uyandım.", "choice2": "Rahatladım.", "question": "cause", "label": 0, "idx": 298, "changed": false}
+{"premise": "Komşumun müziği yüksek sesliydi.", "choice1": "Ondan kısmasını istedim.", "choice2": "Ona CD ödünç almak için sordum.", "question": "effect", "label": 0, "idx": 299, "changed": false}
+{"premise": "Adamın ailesi yoksulluk içinde yaşıyordu.", "choice1": "Küpelerine değer veriyordu.", "choice2": "Asgari maaşın altında kazanıyordu.", "question": "cause", "label": 1, "idx": 300, "changed": false}
+{"premise": "Öğrenci, üniversiteden mezun oldu.", "choice1": "İş aradı.", "choice2": "Bir hobi edindi.", "question": "effect", "label": 0, "idx": 301, "changed": false}
+{"premise": "Sanatçı, sarı boyayı mavi boya ile karıştırdı.", "choice1": "Boya her yere bulaştı.", "choice2": "Boya yeşile dönüştü.", "question": "effect", "label": 1, "idx": 302, "changed": false}
+{"premise": "Sohbetin konusunu değiştirdim.", "choice1": "Konuşacak bir şeyim kalmadı.", "choice2": "Sohbet gergin bir hale geldi.", "question": "cause", "label": 1, "idx": 303, "changed": true}
+{"premise": "Kardeşim taburcu edildi.", "choice1": "Onu evde karşıladım.", "choice2": "Ona soğuk davrandım.", "question": "effect", "label": 0, "idx": 304, "changed": false}
+{"premise": "Sahne perdesi kalktı.", "choice1": "Açılış sahnesi başladı.", "choice2": "Oyuncular sahneyi terk etti.", "question": "effect", "label": 0, "idx": 305, "changed": false}
+{"premise": "Rehine, onu kaçıran kişinin eline düştü.", "choice1": "Onu kaçıran kişi rehineyi canını yakmakla tehdit etti.", "choice2": "Onu kaçıran kişi rehineyi kendi haline bıraktı.", "question": "cause", "label": 0, "idx": 306, "changed": false}
+{"premise": "Sahnede bir gümbürtü yankılandı.", "choice1": "Müziyen ayağını yere vurdu.", "choice2": "Müzisyen davula vurdu.", "question": "cause", "label": 1, "idx": 307, "changed": false}
+{"premise": "Ebeveynleri çocuklarının odasına koştu.", "choice1": "Çocuk çığlık içinde kabusundan uyandı.", "choice2": "Çocuk yatağının altına bakmaktan korkuyordu.", "question": "cause", "label": 0, "idx": 308, "changed": false}
+{"premise": "Kadın işaret diliyle iletişim kuruyordu.", "choice1": "Kadın erken doğum sonucu dünyaya gelmişti.", "choice2": "Kadın doğuştan sağırdı.", "question": "cause", "label": 1, "idx": 309, "changed": false}
+{"premise": "Bölgede bir kuraklık meydana geldi.", "choice1": "Su zehirlendi.", "choice2": "Ekinler mahvoldu.", "question": "effect", "label": 1, "idx": 310, "changed": false}
+{"premise": "Kedi, kuşu kovaladı.", "choice1": "Kuş uçup gitti.", "choice2": "Kuş bir solucan yakaladı.", "question": "effect", "label": 0, "idx": 311, "changed": false}
+{"premise": "Kız okul değiştirdi.", "choice1": "Okul yaz tatiline girdi.", "choice2": "Kız başka bir şehire taşındı.", "question": "cause", "label": 1, "idx": 312, "changed": false}
+{"premise": "Fabrika sahibi çalışanlarına zam yapmayı reddetti.", "choice1": "Patron yeni bir idareci atadı.", "choice2": "Çalışanlar greve gitti.", "question": "effect", "label": 1, "idx": 313, "changed": false}
+{"premise": "Lider ülkesindeki radikalleri kendine düşman edindi.", "choice1": "Radikaller onu etkisi altına aldı.", "choice2": "Radikaller ona suikast düzenledi.", "question": "effect", "label": 1, "idx": 314, "changed": false}
+{"premise": "Sahilde yalın ayak yürüdüm.", "choice1": "Ayağıma kum yapıştı.", "choice2": "Dalgalar sahil boyunca kıyıya vurdu.", "question": "effect", "label": 0, "idx": 315, "changed": false}
+{"premise": "Gecenin bir yarısı üşüyerek uyandım.", "choice1": "Eşofman altı giydim.", "choice2": "Bir bardak su içtim.", "question": "effect", "label": 0, "idx": 316, "changed": false}
+{"premise": "Anne çocuğunu susturdu.", "choice1": "Çocuk sırıttı.", "choice2": "Çocuk mızmızlandı.", "question": "cause", "label": 1, "idx": 317, "changed": false}
+{"premise": "Pantalonumda bir delik açıldı.", "choice1": "Pantalonumun fermuarını çektim.", "choice2": "Kaldırımda ayağım taşa takıldı.", "question": "cause", "label": 1, "idx": 318, "changed": false}
+{"premise": "Çocuk diş teli takıyordu.", "choice1": "Dişinde bir oyuk oluştu.", "choice2": "Dişleri düzleşti.", "question": "effect", "label": 1, "idx": 319, "changed": false}
+{"premise": "Dün spor salonunda çalıştım.", "choice1": "Bugün kas ağrılarıyla uyandım.", "choice2": "Bugün boğazım acıyarak uyandım.", "question": "effect", "label": 0, "idx": 320, "changed": false}
+{"premise": "Kızlar yemek masasında birbirilerine fısıldadı.", "choice1": "Diğer öğrenciler yemek masasına oturdu.", "choice2": "Yemek masasındaki diğer öğrenciler masadan kalktı.", "question": "effect", "label": 1, "idx": 321, "changed": false}
+{"premise": "Çocuk tramboline indi.", "choice1": "Tekrar havaya uçtu.", "choice2": "Havada takla atmayı denemeye karar verdi.", "question": "effect", "label": 0, "idx": 322, "changed": false}
+{"premise": "Mektubu posta kutusuna bıraktım.", "choice1": "Postacı mektubu teslim etti.", "choice2": "Posta ofisi mektubun işlenmesini hızlandırdı.", "question": "effect", "label": 0, "idx": 323, "changed": false}
+{"premise": "Kumarbaz kendinden emindi.", "choice1": "Tüm parasıyla bahse girdi.", "choice2": "Eve meteliksiz döndü.", "question": "effect", "label": 0, "idx": 324, "changed": false}
+{"premise": "Orman yangını yayıldı.", "choice1": "Rüzgar güçlendi.", "choice2": "Kundakçı yakalandı.", "question": "cause", "label": 0, "idx": 325, "changed": false}
+{"premise": "Çocuk dizini yaraladı.", "choice1": "Annesi onu odasına gönderdi.", "choice2": "Annesi yarasını sardı.", "question": "effect", "label": 1, "idx": 326, "changed": false}
+{"premise": "Adam ölümcül hastalığı atlattı.", "choice1": "Vasiyetini imzaladı.", "choice2": "Adama organ nakli yapıldı.", "question": "cause", "label": 1, "idx": 327, "changed": false}
+{"premise": "Kaynar kahveden bir yudum aldım.", "choice1": "Dilimi ısırdım.", "choice2": "Dilimi yaktım.", "question": "effect", "label": 1, "idx": 328, "changed": false}
+{"premise": "Editör yazarı kovdu.", "choice1": "Yazar hikayelerinde taraflı olmaktan kaçındı.", "choice2": "Yazar önemli son teslim tarihlerini kaçırdı.", "question": "cause", "label": 1, "idx": 329, "changed": false}
+{"premise": "Yorgun hissettim.", "choice1": "Tüm gün uyudum.", "choice2": "Tüm gün çalıştım.", "question": "cause", "label": 1, "idx": 330, "changed": false}
+{"premise": "Doktor hastaya tanı koydu.", "choice1": "Hastanın hastalık belirtilerini tanımladı.", "choice2": "Hastaya hap reçeteleri verdi.", "question": "cause", "label": 0, "idx": 331, "changed": false}
+{"premise": "Derimi kaşıdım.", "choice1": "Terliydi.", "choice2": "Kaşıntı hissettim.", "question": "cause", "label": 1, "idx": 332, "changed": false}
+{"premise": "Adam acil bir ameliyat geçirdi.", "choice1": "Sinirleri bozuldu.", "choice2": "Kalp krizi geçirdi.", "question": "cause", "label": 1, "idx": 333, "changed": false}
+{"premise": "Adamın kol kasları şişti.", "choice1": "Kollarını kastı.", "choice2": "Kollarını ovaladı.", "question": "cause", "label": 0, "idx": 334, "changed": false}
+{"premise": "Adam kaşlarını kaldırdı.", "choice1": "Adam şaşırdı.", "choice2": "Adamın cesareti kırılmıştı.", "question": "cause", "label": 0, "idx": 335, "changed": false}
+{"premise": "İş arkadaşımın yaptığı gafı görmezden geldim.", "choice1": "İyi niyetli olduğunu düşünüyordum.", "choice2": "Daha düşünceli olması gerektiğini düşünüyordum.", "question": "cause", "label": 0, "idx": 336, "changed": false}
+{"premise": "Adam sigara içmeyi bıraktı.", "choice1": "Daha çok egzersiz yapmaya başladı.", "choice2": "Daha erken uyanmaya başladı.", "question": "effect", "label": 0, "idx": 337, "changed": false}
+{"premise": "Kadın saldırganın burnuna yumruk attı.", "choice1": "Saldırgan hareketsiz kaldı.", "choice2": "Saldırgan kanamaya başladı.", "question": "effect", "label": 1, "idx": 338, "changed": false}
+{"premise": "Dart tam isabet edemedi.", "choice1": "Adam düzgün nişan alamadı.", "choice2": "Adam oyunu kaybediyordu.", "question": "cause", "label": 0, "idx": 339, "changed": false}
+{"premise": "Ev sahibi evinin böceklere karşı ilaçlanmasını istedi.", "choice1": "Bodrumda fareler gördü.", "choice2": "Odasında karınca çiftliği tutuyordu.", "question": "cause", "label": 0, "idx": 340, "changed": false}
+{"premise": "Misafirime dışarda yemek yemeyi teklif ettim.", "choice1": "Bir şey hazırlamak için çok yorgundum.", "choice2": "Misafirim evde beklediğimden fazla kaldı.", "question": "cause", "label": 0, "idx": 341, "changed": false}
+{"premise": "Kız, erkek kardeşini günlüğünü okurken yakaladı.", "choice1": "Günlüğünü saklamaya başladı.", "choice2": "Yeni bir günlük aldı.", "question": "effect", "label": 0, "idx": 342, "changed": false}
+{"premise": "Kadın kirayı denk getiremedi.", "choice1": "Fazladan mesai yapmaya başladı.", "choice2": "İstifa etti.", "question": "effect", "label": 0, "idx": 343, "changed": false}
+{"premise": "Çocuk elini aniden geri çekti.", "choice1": "Sıcak ocağa dokundu.", "choice2": "Köpeğin başını okşadı.", "question": "cause", "label": 0, "idx": 344, "changed": false}
+{"premise": "Şirket müşteri memnuniyetini ölçmek istedi.", "choice1": "Yeni müşterilerine indirim teklif ettiler.", "choice2": "Müşterilerine anket gönderdiler.", "question": "effect", "label": 1, "idx": 345, "changed": false}
+{"premise": "Tahta zemin çizilmeye başladı.", "choice1": "Genç, koltuktaki yastıkları kaldırdı.", "choice2": "Genç, bir sandalyeyi zeminde sürükledi.", "question": "cause", "label": 1, "idx": 346, "changed": false}
+{"premise": "Suratımı korudum.", "choice1": "Rakibim benimle alay etti.", "choice2": "Rakibim bir yumruk salladı.", "question": "cause", "label": 1, "idx": 347, "changed": false}
+{"premise": "Ünlü heykel yandı.", "choice1": "Üzerine yıldırım düştü.", "choice2": "İnsanlar ona saygı göstermek için geldiler.", "question": "cause", "label": 0, "idx": 348, "changed": false}
+{"premise": "Meyveyi masanın üstünde bıraktım.", "choice1": "Meyve tohumlarını döktü.", "choice2": "Meyvenin etrafını sinekler sardı.", "question": "effect", "label": 1, "idx": 349, "changed": false}
+{"premise": "Balerinin bağ dokularından biri koptu.", "choice1": "Ayak parmaklarını sivrileştirdi.", "choice2": "Bileğini burktu.", "question": "cause", "label": 1, "idx": 350, "changed": false}
+{"premise": "Çocuğun ayakkabı bağcıkları çözüldü.", "choice1": "Nasıl düğüm atılacağını öğrendi.", "choice2": "Çocuk parkında koşuşturdu.", "question": "cause", "label": 1, "idx": 351, "changed": false}
+{"premise": "Kitaptan büyülendim.", "choice1": "Kitabı iade ettim.", "choice2": "Zaman nasıl geçti anlamadım.", "question": "effect", "label": 1, "idx": 352, "changed": false}
+{"premise": "Adam ailesiyle benzer inanışlara sahipti.", "choice1": "Ailesi onu etkiledi.", "choice2": "Aile onu evlatlıktan reddetti.", "question": "cause", "label": 0, "idx": 353, "changed": false}
+{"premise": "Araba yavaşça durdu.", "choice1": "Benzini bitmişti.", "choice2": "Şoför uyuya kaldı.", "question": "cause", "label": 0, "idx": 354, "changed": false}
+{"premise": "Adam güneş altında dondurmasını yedi.", "choice1": "Dondurmanın tadı kayboldu.", "choice2": "Dondurma külahtan eridi.", "question": "effect", "label": 1, "idx": 355, "changed": false}
+{"premise": "Odaya sanat eserleri astım.", "choice1": "Halı pis duruyordu.", "choice2": "Duvar çok boş duruyordu.", "question": "cause", "label": 1, "idx": 356, "changed": false}
+{"premise": "İşten erken çıktım.", "choice1": "Başım ağrıyordu.", "choice2": "Patron toplantı düzenledi.", "question": "cause", "label": 0, "idx": 357, "changed": false}
+{"premise": "Köpek yavrusu halıya pisledi.", "choice1": "Sahibi köpeğini azarladı.", "choice2": "Sahibi köpeğine bir ödül verdi.", "question": "effect", "label": 0, "idx": 358, "changed": false}
+{"premise": "Arkadaşıma özür diledim.", "choice1": "Arkadaşım beni affetti.", "choice2": "Arkadaşım öfkelendi.", "question": "effect", "label": 0, "idx": 359, "changed": false}
+{"premise": "Adam kabalıkta çok belli oluyordu.", "choice1": "Sort çantası taşıyordu.", "choice2": "Adam neon bir ceket giyiyordu.", "question": "cause", "label": 1, "idx": 360, "changed": false}
+{"premise": "Görgü tanığı yeminliyken yalan söyledi.", "choice1": "İfadesini tamamladı.", "choice2": "Yalancı şahitlikle suçlandı.", "question": "effect", "label": 1, "idx": 361, "changed": false}
+{"premise": "Kadın saçını boyadı.", "choice1": "Yeni bir görünüş istedi.", "choice2": "Araya karışmak istedi.", "question": "cause", "label": 0, "idx": 362, "changed": false}
+{"premise": "Mülteciler yasa dışı şekilde yaşarken yakalandı.", "choice1": "İş buldular.", "choice2": "Sınır dışı edildiler.", "question": "effect", "label": 1, "idx": 363, "changed": false}
+{"premise": "Konuşmacı bir espri patlattı.", "choice1": "Dinleyiciler güldü.", "choice2": "Dinleyiciler ayağa kalktı.", "question": "effect", "label": 0, "idx": 364, "changed": false}
+{"premise": "Güneşe baktım.", "choice1": "Güneş gözümü aldı.", "choice2": "Güneş beni bronzlaştırdı.", "question": "effect", "label": 0, "idx": 365, "changed": false}
+{"premise": "Sıkıldığımı hissettim.", "choice1": "Horladım.", "choice2": "Esnedim.", "question": "effect", "label": 1, "idx": 366, "changed": false}
+{"premise": "Bifteği kesmesi zordu.", "choice1": "Bıçak körelmişti.", "choice2": "Biftek çiğdi.", "question": "cause", "label": 0, "idx": 367, "changed": false}
+{"premise": "Kadın iflasını açıkladı.", "choice1": "Nafaka almaya başladı.", "choice2": "Çok büyük borçlandı.", "question": "cause", "label": 1, "idx": 368, "changed": false}
+{"premise": "Arkadaşımın evindeki ışıklar açıktı.", "choice1": "Acaba dışarda mı diye düşündüm.", "choice2": "Onu ziyaret etmeye karar verdim.", "question": "effect", "label": 1, "idx": 369, "changed": false}
+{"premise": "Çiçeği burnumun altına koydum.", "choice1": "Çiçeğin yaprakları döküldü.", "choice2": "Çiçeğin kokusunu aldım.", "question": "effect", "label": 1, "idx": 370, "changed": false}
+{"premise": "Kadın nostaljik hissetti.", "choice1": "Çocukluk arkadaşıyla karşılaştı.", "choice2": "Çocuklarına bağırdı.", "question": "cause", "label": 0, "idx": 371, "changed": false}
+{"premise": "Öğrenci yazı ödevini yapmayı erteledi.", "choice1": "Kağıdını erken gönderdi.", "choice2": "Kağıdını tamamlamadan gönderdi.", "question": "effect", "label": 1, "idx": 372, "changed": false}
+{"premise": "Arabam bozuldu.", "choice1": "Alışveriş merkezine gittim.", "choice2": "Araba tamircisi çağırdım.", "question": "effect", "label": 1, "idx": 373, "changed": false}
+{"premise": "Notu görmezden geldim.", "choice1": "Sahibi belirsizdi.", "choice2": "Okunabilir değildi.", "question": "cause", "label": 1, "idx": 374, "changed": false}
+{"premise": "Kuş kanatlarını çırptı.", "choice1": "Yumurtladı.", "choice2": "Yükselmeye başladı.", "question": "effect", "label": 1, "idx": 375, "changed": false}
+{"premise": "Yol kenarına park ettim.", "choice1": "Garaj açıktı.", "choice2": "Garaj doluydu.", "question": "cause", "label": 1, "idx": 376, "changed": false}
+{"premise": "Suçlu silahını mağdura yöneltti.", "choice1": "Suçlu silahını indirdi.", "choice2": "Mağdur ellerini kaldırdı.", "question": "effect", "label": 1, "idx": 377, "changed": false}
+{"premise": "Haftasonunu dört gözle bekliyordum.", "choice1": "Amcamın cenazesine katılma planım vardı.", "choice2": "Arkadaşımın düğününe katılma planım vardı.", "question": "cause", "label": 1, "idx": 378, "changed": false}
+{"premise": "Zaman nasıl geçti bilemedim.", "choice1": "Hayal kuruyordum.", "choice2": "Midem bulanıyordu.", "question": "cause", "label": 0, "idx": 379, "changed": false}
+{"premise": "Aldığım çıktı okunaklı değildi.", "choice1": "Yazıcının kartuşu bitmişti.", "choice2": "Yazıcıda kağıt kalmamıştı.", "question": "cause", "label": 0, "idx": 380, "changed": false}
+{"premise": "Stadyum milli marşı çaldı.", "choice1": "Fanlar bayrağa döndü.", "choice2": "Fanlar sahaya atladı.", "question": "effect", "label": 0, "idx": 381, "changed": false}
+{"premise": "Sos hafif geldi.", "choice1": "Onu servis ettim.", "choice2": "Tuz ekledim.", "question": "effect", "label": 1, "idx": 382, "changed": false}
+{"premise": "Dökülen şeyin üzerine kağıt havlu koydum.", "choice1": "Havlu sıvıyı emdi.", "choice2": "Sıvı yapışkan bir iz bıraktı.", "question": "effect", "label": 0, "idx": 383, "changed": false}
+{"premise": "Kadını kitabının ortasındayken böldüler.", "choice1": "Okuduğu sayfaya işaret koydu.", "choice2": "Kitabı baştan okudu.", "question": "effect", "label": 0, "idx": 384, "changed": false}
+{"premise": "Uçak türbilansa girdi.", "choice1": "Adam emniyet kemerini sıktı.", "choice2": "Adam camdan dışarı baktı.", "question": "effect", "label": 0, "idx": 385, "changed": false}
+{"premise": "Çocuk ürktü.", "choice1": "Kız onu görmezden geldi.", "choice2": "Kız onu dürttü.", "question": "cause", "label": 1, "idx": 386, "changed": false}
+{"premise": "Doktorlar hastaya protez taktılar.", "choice1": "Bacağını ampute ettiler.", "choice2": "Yaşam belirtilerini incelediler.", "question": "cause", "label": 0, "idx": 387, "changed": false}
+{"premise": "Çocuk kızın dirseğini cimcikledi.", "choice1": "Kız çocuğa omuz silkmeledi.", "choice2": "Kız kolunu ondan uzağa çekti.", "question": "effect", "label": 1, "idx": 388, "changed": false}
+{"premise": "Arkadaşımdan tavsiye istedim.", "choice1": "Görüşüne değer veriyordum.", "choice2": "Haklı olduğunu biliyordum.", "question": "cause", "label": 0, "idx": 389, "changed": false}
+{"premise": "Çocuk çamura bastı.", "choice1": "Ayakkabısına çamur yapıştı.", "choice2": "Çamur suratına sıçradı.", "question": "effect", "label": 0, "idx": 390, "changed": false}
+{"premise": "Kasabaya birkaç inç kar yağdı.", "choice1": "Okullar tatil oldu.", "choice2": "İnsanlar yeraltında sakladı.", "question": "effect", "label": 0, "idx": 391, "changed": false}
+{"premise": "Çalışanların mesaisi bitti.", "choice1": "Eve döndüler.", "choice2": "İstifa etmekle tehdit etti.", "question": "effect", "label": 0, "idx": 392, "changed": false}
+{"premise": "Ağaç eve zarar verdi.", "choice1": "Ağaç evin çatısına düştü.", "choice2": "Ağaç bahçeye gölge yapıyordu.", "question": "cause", "label": 0, "idx": 393, "changed": false}
+{"premise": "Kütük ikiye bölündü.", "choice1": "Şömineye odunları dizdim.", "choice2": "Baltayı oduna vurdum.", "question": "cause", "label": 1, "idx": 394, "changed": false}
+{"premise": "Aile çifti tebrik etti.", "choice1": "Çift boşanacağını duyurdu.", "choice2": "Çift bebekleri olacağını duyurdu.", "question": "cause", "label": 1, "idx": 395, "changed": false}
+{"premise": "Kız çocuğa bir aşk mektubu gönderdi.", "choice1": "Kız ondan hoşlanıyordu.", "choice2": "Kız onu öptü.", "question": "cause", "label": 0, "idx": 396, "changed": false}
+{"premise": "Kafamı sallayarak arkadaşıma katıldığımı gösterdim.", "choice1": "Kafam karışmıştı.", "choice2": "Onunla aynı fikirdeydim.", "question": "cause", "label": 1, "idx": 397, "changed": false}
+{"premise": "Arkadaşlar yazı tura attı.", "choice1": "Orta yol bulmak istiyorlardı.", "choice2": "Bir karar vermek istediler.", "question": "cause", "label": 1, "idx": 398, "changed": false}
+{"premise": "Mutfaktaki sayaç ötmeye başladı.", "choice1": "Adam buzdolabından malzeeleri çıkardı.", "choice2": "Adam fırından pizzayı çıkardı.", "question": "effect", "label": 1, "idx": 399, "changed": false}
+{"premise": "Kadın hırslı bir hedef belirledi.", "choice1": "Tembellik yaptı.", "choice2": "Çok çalıştı.", "question": "effect", "label": 1, "idx": 400, "changed": false}
+{"premise": "Zengin adam yaşlılıktan vefat etti.", "choice1": "Oğlunun başı yasalarla belaya girdi.", "choice2": "Oğlu onun mirasına sahip çıktı.", "question": "effect", "label": 1, "idx": 401, "changed": false}
+{"premise": "Kadın alevin üzerine bastı.", "choice1": "Alev söndü.", "choice2": "Alevden duman çıktı.", "question": "effect", "label": 0, "idx": 402, "changed": false}
+{"premise": "Kadının arabası tamirdedi.", "choice1": "Ehlyetine el koyulmuşyu.", "choice2": "Bir kazaya karışmıştı.", "question": "cause", "label": 1, "idx": 403, "changed": false}
+{"premise": "Alarmıma uyanmadım.", "choice1": "Kahvaltı hazırladım.", "choice2": "Kahvaltıyı kaçırdım.", "question": "effect", "label": 1, "idx": 404, "changed": false}
+{"premise": "Ünlü, limuzinden çıktı.", "choice1": "Kameraların flaşları onun yönünde patladı.", "choice2": "Ailesi basın toplantısına katıldı.", "question": "effect", "label": 0, "idx": 405, "changed": false}
+{"premise": "Kadın küvette oyalandı.", "choice1": "Küvet suyu ılıklaştı.", "choice2": "Küvet suyu küvetten taştı.", "question": "effect", "label": 0, "idx": 406, "changed": false}
+{"premise": "Üniversite öğrencisi kampüste diğerleriyle tanışmak istedi.", "choice1": "Okul birliğine katıldı.", "choice2": "Mühendislik okudu.", "question": "effect", "label": 0, "idx": 407, "changed": false}
+{"premise": "Kanepe yastıklarını kaldırdım.", "choice1": "Bozuk para arıyordum.", "choice2": "Salonu yeniden düzenliyordum.", "question": "cause", "label": 0, "idx": 408, "changed": false}
+{"premise": "Arı çocuğa doğru uçtu.", "choice1": "Çocuk kaçtı.", "choice2": "Çocuk bir çiçek kopardı.", "question": "effect", "label": 0, "idx": 409, "changed": false}
+{"premise": "Kadın bir suçtan hüküm giydi.", "choice1": "Toplum hizmeti cezası aldı.", "choice2": "İdam cezası aldı.", "question": "effect", "label": 0, "idx": 410, "changed": false}
+{"premise": "Sıcak çayla şekeri karıştırdım.", "choice1": "Çay duman çıkardı.", "choice2": "Şeker eridi.", "question": "effect", "label": 1, "idx": 411, "changed": false}
+{"premise": "Gazi sekerek yürüyordu.", "choice1": "Savaşa çağırılmıştı.", "choice2": "Savaşta yaralanmıştı.", "question": "cause", "label": 1, "idx": 412, "changed": false}
+{"premise": "Suçlu polisten kaçtı.", "choice1": "Polis mağdurla ilgilendi.", "choice2": "Polis suçluyu takip etti.", "question": "effect", "label": 1, "idx": 413, "changed": false}
+{"premise": "Laptop açılmıyordu.", "choice1": "Onu düşürdüm.", "choice2": "Onu şarj ettim.", "question": "cause", "label": 0, "idx": 414, "changed": true}
+{"premise": "Kadının dolabında yer kalmadı.", "choice1": "Büyük bir dolap edindi.", "choice2": "Çamaşırlarını katladı.", "question": "cause", "label": 0, "idx": 415, "changed": false}
+{"premise": "Adamın kalbi kırıldı.", "choice1": "Karısı doğum yaptı.", "choice2": "Karısı onu terk etti.", "question": "cause", "label": 1, "idx": 416, "changed": false}
+{"premise": "Adam lisans aldı.", "choice1": "İstediği iş için kalifiye duruma geldi.", "choice2": "İş teklifi iptal oldu.", "question": "effect", "label": 0, "idx": 417, "changed": false}
+{"premise": "Adamın sesi koferans salonunda çok iyi iletiliyordu.", "choice1": "Dinleyicileri selamladı.", "choice2": "Mikrofona konuştu.", "question": "cause", "label": 1, "idx": 418, "changed": false}
+{"premise": "Kuyuya bozuk para attım.", "choice1": "Bozuk para dibe battı.", "choice2": "Bozuk para ikiye bölündü.", "question": "effect", "label": 0, "idx": 419, "changed": false}
+{"premise": "Oyuncu topu deliğe doğru vurdu.", "choice1": "Top deliğe girdi.", "choice2": "Top oyuncuya geri geldi.", "question": "effect", "label": 0, "idx": 420, "changed": false}
+{"premise": "Çatı katında toz yuttum.", "choice1": "Hıçkırdım.", "choice2": "Hapşurdum.", "question": "effect", "label": 1, "idx": 421, "changed": false}
+{"premise": "Kasiyer güvenliği çağırdı.", "choice1": "Müşteri sahte para kullandu.", "choice2": "Müşteri farlarını açık unuttu.", "question": "cause", "label": 0, "idx": 422, "changed": false}
+{"premise": "Çöpü dışarıya çıkardım.", "choice1": "Çöp mutfağı kötü kokuttu.", "choice2": "Yanlışlıkla alışveriş listemi çöpe attım.", "question": "cause", "label": 0, "idx": 423, "changed": false}
+{"premise": "Aile hayvanat bahçesine gitti.", "choice1": "Çocuklar hayvanları hayranlıkla izledi.", "choice2": "Çocuklar hayvanları kovaladı.", "question": "effect", "label": 0, "idx": 424, "changed": false}
+{"premise": "Adamın nefes alışı çok sesliydi.", "choice1": "Böbrekleri iflas ediyordu.", "choice2": "Akciğerleri sıkışmıştı.", "question": "cause", "label": 1, "idx": 425, "changed": false}
+{"premise": "Konsere fazladan bir biletim vardı.", "choice1": "Arkadaşımdan mekanın yol tarifini istedim.", "choice2": "Arkadaşıma gelmek isteyip istemeyeceğini sordum.", "question": "effect", "label": 1, "idx": 426, "changed": false}
+{"premise": "Evdeki klima bozuldu.", "choice1": "Yorganları çıkardım.", "choice2": "Camları açtım.", "question": "effect", "label": 1, "idx": 427, "changed": false}
+{"premise": "Çocuğun sırtı ağrıyordu.", "choice1": "Çantası açıktı.", "choice2": "Çantası ağırdı.", "question": "cause", "label": 1, "idx": 428, "changed": false}
+{"premise": "Anneme bir hediye aldım.", "choice1": "Ona pasta pişirdim.", "choice2": "Onun doğum günüydü.", "question": "cause", "label": 1, "idx": 429, "changed": false}
+{"premise": "Bahçedeki nergisler mahvolmuştu.", "choice1": "Bahçıvanı arı soktu.", "choice2": "Sincaplar bitkilerin soğanını kazıdı.", "question": "cause", "label": 1, "idx": 430, "changed": false}
+{"premise": "Bir kibrit yaktım.", "choice1": "Ateş söndü.", "choice2": "Kibrit ateş yaktı.", "question": "effect", "label": 1, "idx": 431, "changed": false}
+{"premise": "Tartışan gruplar uzlaştı.", "choice1": "Mahkemede tartışmak istemiyorlardı.", "choice2": "Aralarındaki ilişkiyi tamir etmek istiyorlardı.", "question": "cause", "label": 0, "idx": 432, "changed": false}
+{"premise": "Çocuklar yetimhaneye gönderildi.", "choice1": "Aileleri vefat etti.", "choice2": "Aileleri onları şımarttı.", "question": "cause", "label": 0, "idx": 433, "changed": false}
+{"premise": "Okyanusa bir meteor düştü.", "choice1": "Bir tsunami oluştu.", "choice2": "Dolu yağmaya başladı.", "question": "effect", "label": 0, "idx": 434, "changed": false}
+{"premise": "Yürüyüştü zehirli bir yılana rastladı.", "choice1": "Susamıştı.", "choice2": "Panik yaptı.", "question": "effect", "label": 1, "idx": 435, "changed": false}
+{"premise": "Fırın ısındı.", "choice1": "Fırını açtım.", "choice2": "Yemeği fırına koydum.", "question": "cause", "label": 0, "idx": 436, "changed": false}
+{"premise": "Limon dilimini sıktım.", "choice1": "Limon küflendi.", "choice2": "Limonun suyu çıktı.", "question": "effect", "label": 1, "idx": 437, "changed": false}
+{"premise": "Üle yeni karalar keştti.", "choice1": "Ülke toprakları terk etti.", "choice2": "Ülke toprakları kolonileştirdi.", "question": "effect", "label": 1, "idx": 438, "changed": false}
+{"premise": "Bardak masadan düştü.", "choice1": "Yerde param parça oldu.", "choice2": "Bir kıyafet yığını üzerine düştü.", "question": "effect", "label": 0, "idx": 439, "changed": false}
+{"premise": "Masa yalpalıyordu.", "choice1": "Zemin düz değildi.", "choice2": "Zemin kaygandı.", "question": "cause", "label": 0, "idx": 440, "changed": false}
+{"premise": "Baba çocuğunu yalan söylerken yakaladı.", "choice1": "Çocuğu doğruyu itiraf etti.", "choice2": "Baba çocuğuna güvendi.", "question": "effect", "label": 0, "idx": 441, "changed": false}
+{"premise": "Adamın kafası acı içinde zonkladı.", "choice1": "Öksürük şurubu aldı.", "choice2": "Aspirin içti.", "question": "effect", "label": 1, "idx": 442, "changed": false}
+{"premise": "Tren yavaşladı.", "choice1": "İstasyona yaklaşıyordu.", "choice2": "Planın gerisinde kalmıştı.", "question": "cause", "label": 0, "idx": 443, "changed": false}
+{"premise": "Adam terapi süreci geçirdi.", "choice1": "Zihinsel hastalık kalıtsaldı.", "choice2": "Depresyon tanısı koyuldu.", "question": "cause", "label": 1, "idx": 444, "changed": false}
+{"premise": "Kadın boğazını tuttu.", "choice1": "Lokmasını yuttu.", "choice2": "Lokmasında boğuldu.", "question": "cause", "label": 1, "idx": 445, "changed": false}
+{"premise": "Kadının boğazı acıyordu.", "choice1": "Sesi gıcırtılıydı.", "choice2": "Aksanlı konuşuyordu.", "question": "effect", "label": 0, "idx": 446, "changed": false}
+{"premise": "Köpek masadaki sulu bifteğe bakıyordu.", "choice1": "Ağzı sulandı.", "choice2": "Yere yattı.", "question": "effect", "label": 0, "idx": 447, "changed": false}
+{"premise": "Kadının işi başarılı oldu.", "choice1": "Çalışanlarını kovdu.", "choice2": "Zengin oldu.", "question": "effect", "label": 1, "idx": 448, "changed": false}
+{"premise": "Öğrenciler sınıfı terk etti.", "choice1": "Zil çaldı.", "choice2": "Öğretmen ödev verdi.", "question": "cause", "label": 0, "idx": 449, "changed": false}
+{"premise": "Kadın bir hayalet gördüğünü söyledi.", "choice1": "Tanıdıkları şühelerini belirtti.", "choice2": "Tanıdıkları bu olayı yakın buldu.", "question": "effect", "label": 0, "idx": 450, "changed": false}
+{"premise": "Adam duyma yetisini kaybetti.", "choice1": "Okyanusta neredeyse boğuluyordu.", "choice2": "Bir patlamada neredeyse ölüyordu.", "question": "cause", "label": 1, "idx": 451, "changed": false}
+{"premise": "Çocuk balonun ipini bıraktı.", "choice1": "Balon söndü.", "choice2": "Balon havaya uçtu.", "question": "effect", "label": 1, "idx": 452, "changed": false}
+{"premise": "Adam konuşma yetisini kaybetti.", "choice1": "İnme geçirdi.", "choice2": "Derin bir nefes aldı.", "question": "cause", "label": 0, "idx": 453, "changed": false}
+{"premise": "Kadının kaldırımda ayağı takıldı.", "choice1": "Betonda bir çatlak vardı.", "choice2": "Birinin ona seslendiğini duydu.", "question": "cause", "label": 0, "idx": 454, "changed": false}
+{"premise": "Adam havuza bombalama atladı.", "choice1": "Cankurtaran arkasından atladı.", "choice2": "Cankurtaranı ıslattı.", "question": "effect", "label": 1, "idx": 455, "changed": false}
+{"premise": "Antibiyotik aldım.", "choice1": "Enfeksiyonum temizlendi.", "choice2": "Enfeksiyonum yayıldı.", "question": "effect", "label": 0, "idx": 456, "changed": false}
+{"premise": "Trafik ışığı sarıya döndü.", "choice1": "Şoför frene bastı.", "choice2": "Şoför kornaya bastı.", "question": "effect", "label": 0, "idx": 457, "changed": false}
+{"premise": "Plastik kap eridi.", "choice1": "Kabı ılık suya batırdım.", "choice2": "Kabı sıcak ocağın üstüne koydum.", "question": "cause", "label": 1, "idx": 458, "changed": false}
+{"premise": "Arabada vuruk oluştu.", "choice1": "Şoför bir telefon kulübesine vurdu.", "choice2": "Şoför kırmızı ışıta geçti.", "question": "cause", "label": 0, "idx": 459, "changed": false}
+{"premise": "Çocuk gece boyu çalıştı.", "choice1": "Sınava girmedi.", "choice2": "Sınavı geçti.", "question": "effect", "label": 1, "idx": 460, "changed": false}
+{"premise": "Çocuk havuzun kenarına tutundu.", "choice1": "Yüzmeyi öğrenmekten korkuyordu.", "choice2": "Cankurtaran hazır bekliyordu.", "question": "cause", "label": 0, "idx": 461, "changed": false}
+{"premise": "Elimi göğsüme koydum.", "choice1": "Kalp atışımı hissettim.", "choice2": "Kalp atışım hızlandı.", "question": "effect", "label": 0, "idx": 462, "changed": false}
+{"premise": "Ofisimin dibindeki binada inşaat vardı.", "choice1": "Ofisim kalabalıktı.", "choice2": "Ofisim gürültülüydü.", "question": "effect", "label": 1, "idx": 463, "changed": false}
+{"premise": "Aile komşularını tanımak istiyordu.", "choice1": "Aile komşılarını yemeğe çağırdı.", "choice2": "Aile bahçeden komşularına el salladı.", "question": "effect", "label": 0, "idx": 464, "changed": false}
+{"premise": "Havuzdan su sıçradı.", "choice1": "Yüzücü havuza daldı.", "choice2": "Yüzücü havuzda su yüzüne çıktı.", "question": "cause", "label": 0, "idx": 465, "changed": false}
+{"premise": "Bir dilim karpuz ısırdım.", "choice1": "Yanlışlıkla çekirdek yuttum.", "choice2": "Yanlışlıkla dişimi kırdım.", "question": "effect", "label": 0, "idx": 466, "changed": false}
+{"premise": "Çocuğun ayağı takıldı.", "choice1": "Montunun fermuarı kapatılmamıştı.", "choice2": "Bağcıkları bağlı değildi.", "question": "cause", "label": 1, "idx": 467, "changed": false}
+{"premise": "Kadın kulak tıkaçlarını taktı.", "choice1": "Sesten dikkati dağıldu.", "choice2": "Kulaklarını deldirdi.", "question": "cause", "label": 0, "idx": 468, "changed": false}
+{"premise": "Su şişemi yeniden doldurdum.", "choice1": "İçindeki tüm suyu içtim.", "choice2": "Onu buzdolabında tuttum.", "question": "cause", "label": 0, "idx": 469, "changed": false}
+{"premise": "Televizyon programı sansürlendi.", "choice1": "Sert bir dil içeriyordu.", "choice2": "Karışık bir konusu vardı.", "question": "cause", "label": 0, "idx": 470, "changed": false}
+{"premise": "Gemi battı.", "choice1": "Mürettebat boğuldu.", "choice2": "Mürettebat korsanlarla karşılaştı.", "question": "effect", "label": 0, "idx": 471, "changed": false}
+{"premise": "Çocuk bilmeceyi zor buldu.", "choice1": "Bilmeceyi çözdü.", "choice2": "Bir ipucu istedi.", "question": "effect", "label": 1, "idx": 472, "changed": false}
+{"premise": "Telefon çaldı.", "choice1": "Adam telefonu kapattı.", "choice2": "Adam telefonu kaldırdı.", "question": "effect", "label": 1, "idx": 473, "changed": false}
+{"premise": "Kadın bana bakıyordu.", "choice1": "Ona sarıldım.", "choice2": "Rahatsız hissettim.", "question": "effect", "label": 1, "idx": 474, "changed": false}
+{"premise": "Grup müzeyi terk etti.", "choice1": "Sergilerin fotoğraflarını çektiler.", "choice2": "Tüm sergileri gezdiler.", "question": "cause", "label": 1, "idx": 475, "changed": false}
+{"premise": "Adam benimle tartışmaya başladı.", "choice1": "Arkadaşım beni adamla tanıştırdı.", "choice2": "Arkadaşım beni korudu.", "question": "effect", "label": 1, "idx": 476, "changed": false}
+{"premise": "Bisikletimin tekerleği indi.", "choice1": "Tekerleğe hava bastım.", "choice2": "Bisiklette vites değiştirdim.", "question": "effect", "label": 0, "idx": 477, "changed": false}
+{"premise": "Kız solgun gözüküyordu.", "choice1": "Babası ona bir hikaye okudu.", "choice2": "Babası alnını kontrol etti.", "question": "effect", "label": 1, "idx": 478, "changed": false}
+{"premise": "Kalemin mürekkebi bitti.", "choice1": "Kurşun kalem kullandım.", "choice2": "İmzamı attım.", "question": "effect", "label": 0, "idx": 479, "changed": false}
+{"premise": "Adamın kredi talebi reddedildi.", "choice1": "Adam borçluydu.", "choice2": "Adam bir iş başlattı.", "question": "cause", "label": 0, "idx": 480, "changed": false}
+{"premise": "Kız okula gitmedi.", "choice1": "Suçiçeği olmuştu.", "choice2": "Matematik öğrenmeyi seviyordu.", "question": "cause", "label": 0, "idx": 481, "changed": false}
+{"premise": "Çöp kutusu tamamen dolmuştu.", "choice1": "Çöpe boşalttım.", "choice2": "Lavabodan döktüm.", "question": "effect", "label": 0, "idx": 482, "changed": false}
+{"premise": "Halıyı süpürdüm.", "choice1": "Oda arkadaşım içeceğini döktü.", "choice2": "Köpeğim saç döktü.", "question": "cause", "label": 1, "idx": 483, "changed": false}
+{"premise": "Adamın sinirleri bozuldu.", "choice1": "Bilgisayarını kapattı.", "choice2": "Sandalyeyi odanın diğer ucuna fırlattı.", "question": "effect", "label": 1, "idx": 484, "changed": false}
+{"premise": "Kız kamp ateşine bir dal fırlattı.", "choice1": "Dal yandı.", "choice2": "Ateş söndü.", "question": "effect", "label": 0, "idx": 485, "changed": false}
+{"premise": "Adam duştan çıktı.", "choice1": "Sıcak su akmıyordu.", "choice2": "Havlu bulamadı.", "question": "cause", "label": 0, "idx": 486, "changed": false}
+{"premise": "Ailesi çocuklarının üniversiteye gitmesini istiyordu.", "choice1": "Üniversite ücretini biriktirdiler.", "choice2": "Çocuklarını dışarda oynamaya teşvik ettiler.", "question": "effect", "label": 0, "idx": 487, "changed": false}
+{"premise": "Adam ayakkabılarının bağcıklarını söktü.", "choice1": "Ayakkabı bollaştı.", "choice2": "Ayakkabı aşındı.", "question": "effect", "label": 0, "idx": 488, "changed": false}
+{"premise": "Adam antrenin yarısını yedi.", "choice1": "Kalanları buzdolabına koydu.", "choice2": "Yemek tarifini kaydetti.", "question": "effect", "label": 0, "idx": 489, "changed": false}
+{"premise": "Bileğim şişti.", "choice1": "Üzerine buz koydum.", "choice2": "Üzerini kremledim.", "question": "effect", "label": 0, "idx": 490, "changed": false}
+{"premise": "Ofis kapım açıktı.", "choice1": "Masadan iş arkadaşımla konultum.", "choice2": "Koridorda konuşulanlara kulak misafiri oldum.", "question": "effect", "label": 1, "idx": 491, "changed": false}
+{"premise": "Sırada beklemek zorundaydım.", "choice1": "Oturdum.", "choice2": "Bir dergiye göz attım.", "question": "effect", "label": 1, "idx": 492, "changed": true}
+{"premise": "Adam sineğe doğru kolunu salladı.", "choice1": "Sinek uçtu.", "choice2": "Sinek olduğu gibi durdu.", "question": "effect", "label": 0, "idx": 493, "changed": false}
+{"premise": "Adam vasiyetini yazdı.", "choice1": "Ölüyordu.", "choice2": "Duldu.", "question": "cause", "label": 0, "idx": 494, "changed": false}
+{"premise": "Koşucu rakibinin ona yaklaştığını hissetti.", "choice1": "Yarıştan çekildi.", "choice2": "Hızlandı.", "question": "effect", "label": 1, "idx": 495, "changed": false}
+{"premise": "Problemi taraflıca düşündüm.", "choice1": "Tavsiye istedim.", "choice2": "Bir çözüm aklıma geldi.", "question": "effect", "label": 1, "idx": 496, "changed": false}
+{"premise": "Yolcu sallanan asmalı köprüde yürüdü.", "choice1": "Korkmuş hissetti.", "choice2": "Çok mutlu hissetti.", "question": "effect", "label": 0, "idx": 497, "changed": false}
+{"premise": "Adam takımının kazanacağını tahmin etmişti.", "choice1": "Maçı izlemek için arkadaşlarıyla buluştu.", "choice2": "Arkadaşlarıyla iddiaya girdi.", "question": "effect", "label": 1, "idx": 498, "changed": false}
+{"premise": "Çocuk uyuyamıyordu.", "choice1": "Alarm kurdu.", "choice2": "Kuzuları saymaya başladı.", "question": "effect", "label": 1, "idx": 499, "changed": false}

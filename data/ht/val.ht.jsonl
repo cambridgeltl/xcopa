@@ -1,0 +1,100 @@
+{"premise": "Msye a te louvri tiyo a.", "choice1": "Twalèt la te ranpli ak dlo.", "choice2": "Dlo a te soti nan bouch tiyo a.", "question": "effect", "label": 1, "idx": 0, "changed": false}
+{"premise": "Fi a te jwenn yon pinèz nan sereyal li.", "choice1": "Li te vide lèt la nan bòl la.", "choice2": "Li te pèdi apeti li.", "question": "effect", "label": 1, "idx": 1, "changed": false}
+{"premise": "Madan m nan te pran retrèt.", "choice1": "Li te resevwa pansyon li.", "choice2": "Li te fin peye lajan sou kay li.", "question": "effect", "label": 0, "idx": 2, "changed": false}
+{"premise": "M te vle konsève enèji.", "choice1": "Mwen te fin baleye chanm lib la.", "choice2": "Mwen te femen limyè nan chanm lib la.", "question": "effect", "label": 1, "idx": 3, "changed": false}
+{"premise": "Amègè a te pran koulè.", "choice1": "Kwizinyè a te mete'l nan frizè.", "choice2": "Kwizinyè a te fè l griye.", "question": "cause", "label": 1, "idx": 4, "changed": false}
+{"premise": "M'pat kwè aguman vandè a.", "choice1": "Mwen te refize of li.", "choice2": "Li te konvenk mwen achte pwodwui a.", "question": "effect", "label": 0, "idx": 5, "changed": false}
+{"premise": "Mwen te deside rete lakay mwen.", "choice1": "Yo te prevwa move tan.", "choice2": "Zanmi-m ankouraje m soti.", "question": "cause", "label": 0, "idx": 6, "changed": false}
+{"premise": "Je mwen te vin rouj e gonfle.", "choice1": "Mwen t'ap kriye.", "choice2": "Mwen t'ap ri.", "question": "cause", "label": 0, "idx": 7, "changed": false}
+{"premise": "Flam bouji a te etenn.", "choice1": "Mwen te soufle bouji a.", "choice2": "Mwen te limen mèch bouji a.", "question": "cause", "label": 0, "idx": 8, "changed": false}
+{"premise": "Msye a te bwè anpil nan fèt la.", "choice1": "Li te gen maltèt landemen.", "choice2": "Li te gen nen k'ap koule landemen.", "question": "effect", "label": 0, "idx": 9, "changed": false}
+{"premise": "Boul bowling la te frape kiy yo.", "choice1": "Msye a te roule boul bowling la nan ale a.", "choice2": "Msye a te lage boul bowling la sou pye l.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "Kominote a te aprann lanmò msye a.", "choice1": "Fanmi li te antere l nan simtyè.", "choice2": "Anons lanmò parèt nan jounal la.", "question": "cause", "label": 1, "idx": 11, "changed": false}
+{"premise": "Odinatè m te tonbe an pan.", "choice1": "Mwen te enstale nouvo hopalè.", "choice2": "Mwen te pèdi tout done yo.", "question": "effect", "label": 1, "idx": 12, "changed": false}
+{"premise": "Madanm nan te demisyone travay li.", "choice1": "Li te vle gen yon pozisyon exekitif nan biznis la.", "choice2": "Li te kwè patron yo t'ap kopòte yo mal.", "question": "cause", "label": 1, "idx": 13, "changed": false}
+{"premise": "Jouè-a te atrape ballon an.", "choice1": "Koekipye li te voye li ballon an.", "choice2": "Advèse a te eseye entèsepte li.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "Jij la te frape mato li.", "choice1": "Moun yo te koumanse rele nan tribinal la.", "choice2": "Jiri a te anonse jijman li.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "Madanm nan te fè timoun yo soti sou propriete li.", "choice1": "Timoun yo te choute ballon an nan lakou li.", "choice2": "Timoun yo te pietinen jaden li.", "question": "cause", "label": 1, "idx": 16, "changed": false}
+{"premise": "Kidnapè yo te lage otaj yo.", "choice1": "Yo te aksepte lajan ranson an.", "choice2": "Yo te chape prizon.", "question": "cause", "label": 0, "idx": 17, "changed": false}
+{"premise": "Je kwizinye a te fè dlo.", "choice1": "Li te fini ak zonyon yo.", "choice2": "Li te koupe yon zonyon.", "question": "cause", "label": 1, "idx": 18, "changed": false}
+{"premise": "Madanm nan te mete dwèt li sou dlo frèt la.", "choice1": "Li te boule dwèt li nan griy-pen a.", "choice2": "Li mete yo bag diaman sou dwèt li.", "question": "cause", "label": 0, "idx": 19, "changed": false}
+{"premise": "Elèv la  a te mal ekri mo a.", "choice1": "Metrès la te korije li.", "choice2": "Metrès la te rejte li.", "question": "effect", "label": 0, "idx": 20, "changed": false}
+{"premise": "Mwen te reprann kalm mwen aprè m te fè kolè.", "choice1": "Kè mwen t'ap sote.", "choice2": "Mwen te pran kèk gwo souf.", "question": "cause", "label": 1, "idx": 21, "changed": false}
+{"premise": "Mwen te met menm anba tiyo ki t'ap koule a.", "choice1": "Savon a te soti nan menm.", "choice2": "Dlo a te tonbe sou figi m.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "Msye te mete pi bon kostim ni.", "choice1": "Li te pran randevou ak yon klian enpòtan.", "choice2": "Madanm ni te ashte l yon kravat nèf.", "question": "cause", "label": 0, "idx": 23, "changed": false}
+{"premise": "Msye a te konfese lanmou li pou madanm nan.", "choice1": "Madanm nan te rejte li.", "choice2": "Madanm nan te anvye li.", "question": "effect", "label": 0, "idx": 24, "changed": false}
+{"premise": "Shofè a te pran pan kaoutchou.", "choice1": "Li te depase limit vitès la.", "choice2": "Li te kouri sou yon klou.", "question": "cause", "label": 1, "idx": 25, "changed": false}
+{"premise": "Vi mwen sou ekran an te bloke.", "choice1": "Koup ki te chita deye mwen t'ap chichote.", "choice2": "Yon moun wo t'ap chita devan mwen.", "question": "cause", "label": 1, "idx": 26, "changed": false}
+{"premise": "Shofè a te limen limyè devan yo.", "choice1": "Li te tande loraj.", "choice2": "Solèy la te kouche.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "Fi a te refize manje legim li.", "choice1": "Papa li te di il bwè lèt li.", "choice2": "Papa'l te wete dèsè li.", "question": "effect", "label": 1, "idx": 28, "changed": false}
+{"premise": "Madanm nan te kouvri bouch li ak men li.", "choice1": "Li te bay souf.", "choice2": "Li te etènye.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "Sekretè a te mete korespondan an ann atant.", "choice1": "Telefòn moun k'ap rele a te pèdi koneksyon.", "choice2": "Korespondan an te tann sou liy la.", "question": "effect", "label": 1, "idx": 30, "changed": false}
+{"premise": "Madanm nan te mashe ak beki.", "choice1": "Li te raze janm ni.", "choice2": "Li te kase janm ni.", "question": "cause", "label": 1, "idx": 31, "changed": false}
+{"premise": "Mwen te touse.", "choice1": "Mwen te respire lafimen.", "choice2": "Mwen te pale pi dousman.", "question": "cause", "label": 0, "idx": 32, "changed": false}
+{"premise": "Pandul la te sonnen.", "choice1": "Se te debu lè a.", "choice2": "Lè a te sanble trenen.", "question": "cause", "label": 0, "idx": 33, "changed": false}
+{"premise": "Kwizinye a te frape ze a sou bò bòl la.", "choice1": "Ze a te kase.", "choice2": "Ze a te pouri.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Lapolis la te fouye machin kriminèl la.", "choice1": "Yo t'ap eseye fòse yon konfesyon.", "choice2": "Yo t'ap chashe drog.", "question": "cause", "label": 1, "idx": 35, "changed": false}
+{"premise": "Koup la te vwayaje nan sid pou ivè a.", "choice1": "Yo te nan retrèt.", "choice2": "Yo te separe.", "question": "cause", "label": 0, "idx": 36, "changed": false}
+{"premise": "Msye te santi l oblije asiste nan evènman an.", "choice1": "Li te refize envitasyon zanmi li pou li vin asiste.", "choice2": "Li te pwomèt zanmi li ke li prale.", "question": "cause", "label": 1, "idx": 37, "changed": false}
+{"premise": "Lamarye te pran pè anvan mariaj la.", "choice1": "Envite yo te mennen kado.", "choice2": "Li te anile mariaj la.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "Msye a te vin granmoun.", "choice1": "Chevel te tounen gri.", "choice2": "Li te vann efè pèsonèl li.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Zanmi yo te deside pataje anmbègè a.", "choice1": "Yo koupe te anmbègè a an de.", "choice2": "Yo te komande frit ak anmbègè a.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Mwen te devise boushon boutèy kola a.", "choice1": "Kola a te petiye.", "choice2": "Kola a te fwite.", "question": "effect", "label": 0, "idx": 41, "changed": false}
+{"premise": "De elèv yo te vin sou siveyans profese a.", "choice1": "Tou le de elèv yo te resevwa nòt ekselan.", "choice2": "Repons yo sou devwa yo te parey.", "question": "cause", "label": 1, "idx": 42, "changed": false}
+{"premise": "Elèv la te prese pou rive lekòl la a lè.", "choice1": "Li te kite devwa l lakay li.", "choice2": "Li te pote manje li lekòl.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Jounalis la te ekri yon biografi sou lavi imanitè a.", "choice1": "Imanitè a te difisil pou jounalis la fè entèvyou.", "choice2": "Jounalis la te kapte pa travay imanitè a.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "Msye a te defye otorite legliz la.", "choice1": "Li te bay legliz la lajan.", "choice2": "Li te exkomuniye de legliz la.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Cheve madanm nan te tonbe nan figi li.", "choice1": "Li te tashe cheveli ak yon barèt.", "choice2": "Li te savonnen chanpou  nan cheve li.", "question": "effect", "label": 0, "idx": 46, "changed": false}
+{"premise": "Bag ki sou dwèt mwen te kole.", "choice1": "Dwet mwen te gonfle.", "choice2": "Mwen te kase zong mwen.", "question": "cause", "label": 0, "idx": 47, "changed": false}
+{"premise": "Mwen te tire elastik la.", "choice1": "Li te voltije a travè sal la.", "choice2": "Li te lonje.", "question": "effect", "label": 1, "idx": 48, "changed": false}
+{"premise": "Mwen te prese men mwen nan siman mouye a.", "choice1": "Anprent men mwen te seshe nan siman a.", "choice2": "Fisu te vin parèt nan siman a.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Po mwen te develope yon gratèl.", "choice1": "Mwen te touche fèy lagratèl nan lakou mwen.", "choice2": "Mwen te rashe lagratèl la soti lakou mwen.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "Abonman mwen pou magazin nan te fini.", "choice1": "Mwen te mete nimero sa a de kote.", "choice2": "Mwen te arete resevwa nouvo nimero.", "question": "effect", "label": 1, "idx": 51, "changed": false}
+{"premise": "Detektif la te revele yon bagay ki pa nòmal nan ka a.", "choice1": "Li te konplete teori li.", "choice2": "Li te kite teori li tonbe.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "Ti gason an te pike yon kolè.", "choice1": "Frè li te pran jwèt li.", "choice2": "Li te pataje jwèt li ak frè li.", "question": "cause", "label": 0, "idx": 53, "changed": false}
+{"premise": "Timoun nan te apprann li.", "choice1": "Li te koumanse ale lekòl.", "choice2": "Li te sote yon class nan lekòl la.", "question": "cause", "label": 0, "idx": 54, "changed": false}
+{"premise": "Ti gason an pa t manje dine li.", "choice1": "Manman li te prepare manje prefere li.", "choice2": "Li te manje yon gran repa midi.", "question": "cause", "label": 1, "idx": 55, "changed": false}
+{"premise": "Madanm nan te kouvri zanmi ni ak ti sousou.", "choice1": "Li te vle mande li yon favè.", "choice2": "Li te gen ase ak kriyadò zanmi ni.", "question": "cause", "label": 0, "idx": 56, "changed": false}
+{"premise": "Kle yo te disparèt nan posh pantalon mwen.", "choice1": "Posh la te gen yon trou.", "choice2": "Pantalon yo te nèf.", "question": "cause", "label": 0, "idx": 57, "changed": false}
+{"premise": "Msye a te endispoze.", "choice1": "Li te ale domi.", "choice2": "Li te kouri yon maraton.", "question": "cause", "label": 1, "idx": 58, "changed": false}
+{"premise": "Msye a te pèdi konpetisyon an.", "choice1": "Konpetisyon an te sabote.", "choice2": "Li te entimide kopetitè li yo.", "question": "cause", "label": 0, "idx": 59, "changed": false}
+{"premise": "Manman an te rele yon anbilans.", "choice1": "Pitit gaso li te pèdi shat li.", "choice2": "Pitit gason li te sòt tonbe nan kabann li.", "question": "cause", "label": 1, "idx": 60, "changed": true}
+{"premise": "Chofè a te kraze fren yo.", "choice1": "Yon bish te parèt sou wout la.", "choice2": "Radio machin nan te femen.", "question": "cause", "label": 0, "idx": 61, "changed": false}
+{"premise": "Seri a te louvri.", "choice1": "Mwen te tounen kle a nan seri a.", "choice2": "Mwen te fè yon kopi de kle a.", "question": "cause", "label": 0, "idx": 62, "changed": false}
+{"premise": "Mwen te mete gan kaoutshou.", "choice1": "Mwe t ap pare pou lave men mwen.", "choice2": "Mwen t ap pare pou netwaye sal dlo a.", "question": "cause", "label": 1, "idx": 63, "changed": false}
+{"premise": "Espès bèt sa yo te vin an danje disparisyon.", "choice1": "Abita natirèl yo te detrui.", "choice2": "Predatè yo te disparèt.", "question": "cause", "label": 0, "idx": 64, "changed": false}
+{"premise": "Msye te apèsevwa ke madanm nan sanble diferan.", "choice1": "Madanm nan te fè koupe cheve li.", "choice2": "Madanm nan te mete yon braslè.", "question": "cause", "label": 0, "idx": 65, "changed": false}
+{"premise": "Elèv la te bliye fè devwa li.", "choice1": "Li pare yon eskiz pou bay metrès la.", "choice2": "Metrès fè li pase nan pwochen klas la.", "question": "effect", "label": 0, "idx": 66, "changed": false}
+{"premise": "Shyen an te jape.", "choice1": "Shat la te chita sou divan an.", "choice2": "Nou te tande frape sou pòt la.", "question": "cause", "label": 1, "idx": 67, "changed": false}
+{"premise": "Yo te anonse plan pou yo ranplase yon park lokal ak yon sant komèsial.", "choice1": "Ekolojis yo te koumanse yon petisyon.", "choice2": "Ekolojis yo te pwodwi yon fim dokimantè.", "question": "effect", "label": 0, "idx": 68, "changed": false}
+{"premise": "Koup la te kontan wè youn lòt.", "choice1": "Yo te bo.", "choice2": "Yo te repose.", "question": "effect", "label": 0, "idx": 69, "changed": false}
+{"premise": "Madanm nan te mande Msye a degèpi.", "choice1": "Li te joure li.", "choice2": "Li te remèsye li.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "Branch pyebwa a te tonbe nan rivyè a.", "choice1": "Branch la te ale an aval nan dlo a.", "choice2": "Kouran rivyè a te vin pi fò.", "question": "effect", "label": 0, "idx": 71, "changed": false}
+{"premise": "Metrès la te bay timoun yo devwa.", "choice1": "Elèv yo te fè pase nòt.", "choice2": "Elèv yo te plenyen.", "question": "effect", "label": 1, "idx": 72, "changed": false}
+{"premise": "Sezon yo te shanje de ete a otòn.", "choice1": "Moun yo te vide kay yo.", "choice2": "Fèy yo te sòt tonbe sou pyebwa yo.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Politisyen an te kodane pou frod.", "choice1": "Li te fè kanpay pou li vin re-elu.", "choice2": "Yo te fè li sòti nan pouvwa.", "question": "effect", "label": 1, "idx": 74, "changed": false}
+{"premise": "Mwen te pouse sharyo a.", "choice1": "Materièl ki te nan sharyo a sòt tonbe.", "choice2": "Wou sharyo yo te roule an avan.", "question": "effect", "label": 1, "idx": 75, "changed": true}
+{"premise": "Lobiist la te pèsuade legislativ la sipote pwoposisyon lwa a.", "choice1": "Prezidan met veto sou lwa a.", "choice2": "Legislativ la fe pase lwa a.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Lamwa mwen te an dezòd.", "choice1": "Mwen te met lòd.", "choice2": "Mwen te dekore li.", "question": "effect", "label": 0, "idx": 77, "changed": false}
+{"premise": "Mwen te rete kanpe ta.", "choice1": "Mwen te fe de rev vif swa sa a.", "choice2": "Mwen te fatige nan maten.", "question": "effect", "label": 1, "idx": 78, "changed": false}
+{"premise": "Posh Msye a te fe ti bri lè li t ap mashe.", "choice1": "Posh li te plen monnen.", "choice2": "Li te koud trou nan posh li.", "question": "cause", "label": 0, "idx": 79, "changed": false}
+{"premise": "Tout moun nan klas la te vire gade elèv la.", "choice1": "Telefon elèv la te sonnen.", "choice2": "Elèv la te pran nòt.", "question": "cause", "label": 0, "idx": 80, "changed": false}
+{"premise": "Shwal la te tresote.", "choice1": "Yon mouch te mode shwal la.", "choice2": "Kavalye a te karese shwal la.", "question": "cause", "label": 0, "idx": 81, "changed": false}
+{"premise": "Volè bijou yo te atrape.", "choice1": "Yo te bay proprietè a bijou yo te volè a.", "choice2": "Valè bijou yo volè a te kalkile.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Violans politik te fin debake nan peyi a.", "choice1": "Anpil nan sitwayen yo te transfere nan kapital la.", "choice2": "Anpil nan sitwayen yo pran refij nan lòt teritwa.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "Madanm nan te arete.", "choice1": "Li te anrejistre tèt li nan yon sant reabilitasyon.", "choice2": "Li te komèt yon agresyon.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "Madanm nan te li jounal la.", "choice1": "Li te jwenn rezilta eleksyon yo.", "choice2": "Li te vote nan eleksyon a.", "question": "effect", "label": 0, "idx": 85, "changed": false}
+{"premise": "Timoun malad la te touse sou zanmi li.", "choice1": "Zanmi li te pran malad.", "choice2": "Zanmi li te etenye.", "question": "effect", "label": 0, "idx": 86, "changed": false}
+{"premise": "Koup la te fiyanse.", "choice1": "Yo te planifie yon mariaj.", "choice2": "Yo te pran tan apa.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "Madanm nan te pran kontak ak  ajan imobilye a.", "choice1": "Madanm nan te vle ashte yon apatman.", "choice2": "Madanm nan te bezwen netwaye kay li.", "question": "cause", "label": 0, "idx": 88, "changed": false}
+{"premise": "Msye a te ganye Loto a.", "choice1": "Li te vin rish.", "choice2": "Li te dwe lajan.", "question": "effect", "label": 0, "idx": 89, "changed": false}
+{"premise": "Mwen te limen bouji a.", "choice1": "Si te sòt degoute sou bouji a.", "choice2": "Si a te vin pi di.", "question": "effect", "label": 0, "idx": 90, "changed": false}
+{"premise": "Mwen te pase jounen nan pisin.", "choice1": "Mwen te foule sheviy mwen.", "choice2": "Figi m te pran soley.", "question": "effect", "label": 1, "idx": 91, "changed": false}
+{"premise": "Msye a te resevwa yon kotravansyon.", "choice1": "Li te mal estasyonen sou wout la.", "choice2": "Met pakin la te fini.", "question": "cause", "label": 1, "idx": 92, "changed": true}
+{"premise": "Madanm nan te vin selèb.", "choice1": "Fotograf yo te suiv li.", "choice2": "Fanmi ni te evite li.", "question": "effect", "label": 0, "idx": 93, "changed": false}
+{"premise": "Fi a te vle mete bouk dorey.", "choice1": "Li te pese zorey li.", "choice2": "Li te fe yon tatouaj.", "question": "effect", "label": 0, "idx": 94, "changed": false}
+{"premise": "Zorey mwen t ap sonnen.", "choice1": "Mwen te ale nan yon mize.", "choice2": "Mwen te ale nan yon konsè.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "Mwen te fè menaj nan kay mwen.", "choice1": "Mwen te gen twop travay.", "choice2": "Mwen t ap tann envite.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "Kopany avion an te mal okipe valiz mwen.", "choice1": "Yo te ofrim yon dedomajman.", "choice2": "Yo te anile vol la.", "question": "effect", "label": 0, "idx": 97, "changed": false}
+{"premise": "Konpitè a te koute shè pou repare.", "choice1": "Mwen te fe repare li.", "choice2": "Mwen te ashte youn nèf.", "question": "effect", "label": 1, "idx": 98, "changed": false}
+{"premise": "Madanm nan te gen move san.", "choice1": "Li te koze ak zanmi li.", "choice2": "Li te di zanmi li kite li trankil.", "question": "effect", "label": 1, "idx": 99, "changed": false}

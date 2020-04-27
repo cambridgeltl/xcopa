@@ -1,0 +1,500 @@
+{"premise": "Ese oli mullikilesse mässitud.", "choice1": "See oli õrn.", "choice2": "See oli väike.", "question": "cause", "label": 0, "idx": 0, "changed": false}
+{"premise": "Ma tühjendasin oma taskud.", "choice1": "Ma leidsin pileti tüki.", "choice2": "Ma leidsin relva.", "question": "effect", "label": 0, "idx": 1, "changed": false}
+{"premise": "Termiidid tungisid majja sisse.", "choice1": "Termiidid kadusid majast.", "choice2": "Termiidid sõid läbi majas oleva puidu.", "question": "effect", "label": 1, "idx": 2, "changed": true}
+{"premise": "Reisidjad jõudsid piirini.", "choice1": "Piirikontroll kontrollis nende passe.", "choice2": "Piirikontroll süüdistas neid smuugeldamises.", "question": "effect", "label": 0, "idx": 3, "changed": false}
+{"premise": "Kontor oli kinni.", "choice1": "Oli puhkus.", "choice2": "Oli suvi.", "question": "cause", "label": 0, "idx": 4, "changed": false}
+{"premise": "Tüdrukul sai energia otsa.", "choice1": "Ta mängis kabet.", "choice2": "Ta hüppas hüppenööriga.", "question": "cause", "label": 1, "idx": 5, "changed": false}
+{"premise": "Naine kaotas oma koha järjekorras.", "choice1": "Veel inimesi liitus järjekorraga.", "choice2": "Ta astus järjekorrast välja.", "question": "cause", "label": 1, "idx": 6, "changed": false}
+{"premise": "Tüdruk hoidis oma nina kinni.", "choice1": "Beebi ilastas oma põlle peale.", "choice2": "Beebi tegi oma mähkme täis.", "question": "cause", "label": 1, "idx": 7, "changed": false}
+{"premise": "Bänd mängis oma hittlugu.", "choice1": "Publik plaksutas muusikaga kaasa.", "choice2": "Publik kuulas vaikuses.", "question": "effect", "label": 0, "idx": 8, "changed": false}
+{"premise": "Tüdruk tahtis oma matemaatikaõpetajat tänada.", "choice1": "Tüdruk jäeti peale tunde.", "choice2": "Tüdruk tõi õpetajale õuna.", "question": "effect", "label": 1, "idx": 9, "changed": false}
+{"premise": "Väikesed matkajad olid hirmul.", "choice1": "Laagrivanem rääkis neile õudusjuttu.", "choice2": "Nad grillisid lõkkel vahukomme.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "Mees lõi pea ära.", "choice1": "Tal läks mõte sassi.", "choice2": "Ta sai peapõrutuse.", "question": "effect", "label": 1, "idx": 11, "changed": false}
+{"premise": "Tšekk, mille kirjutasin, ei läinud läbi.", "choice1": "Mu pangakonto oli tühi.", "choice2": "Ma sain palgatõusu.", "question": "cause", "label": 0, "idx": 12, "changed": false}
+{"premise": "Mehe e-postkast oli rämpsposti täis.", "choice1": "Ta kustutas rämpsposti.", "choice2": "Ta saatis laiali massimeili.", "question": "effect", "label": 0, "idx": 13, "changed": false}
+{"premise": "Meremees pandi karantiini.", "choice1": "Ta puutus haigusega kokku.", "choice2": "Ta paranes haigusest.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "Tüdruk jättis koodi meelde.", "choice1": "Ta luges seda endale ette.", "choice2": "Ta unustas selle üles kirjutada.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "Ma valasin vett klaasi.", "choice1": "Vesi kustutas mu janu.", "choice2": "Klaas sai täis.", "question": "effect", "label": 1, "idx": 16, "changed": false}
+{"premise": "Mees oli vaikselt, kui tema sõber rääkimise lõpetas.", "choice1": "Ta tahtis oma sõpra toetada.", "choice2": "Ta mõtles oma sõbra sõnadele.", "question": "cause", "label": 1, "idx": 17, "changed": false}
+{"premise": "Õnnetus oli minu süü.", "choice1": "Ma tundsin end süüdi.", "choice2": "Ma esitasin süüdistuse.", "question": "effect", "label": 0, "idx": 18, "changed": false}
+{"premise": "Kett lagunes tükkideks.", "choice1": "Kett oli kummi ümber mässitud.", "choice2": "Ketis oli katkine lüli.", "question": "cause", "label": 1, "idx": 19, "changed": false}
+{"premise": "Paarike otsustas kompromissile minna.", "choice1": "Nad väsisid vaidlemisest.", "choice2": "Nad vältisid probleemi arutamist.", "question": "cause", "label": 0, "idx": 20, "changed": false}
+{"premise": "Naine otsustas riigiametisse kandideerida.", "choice1": "Ta palkas kampaaniamänedžeri.", "choice2": "Ta tunnistas kohtus.", "question": "effect", "label": 0, "idx": 21, "changed": false}
+{"premise": "Mees nägi ette, et tema reisi ajal tuleb külm ilm.", "choice1": "Ta pakkis soojad riided oma kohvrisse.", "choice2": "Ta reisis suure kohvriga.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "Õpilane teadis küsimusele vastust.", "choice1": "Ta tõstis oma käe.", "choice2": "Ta viilis.", "question": "effect", "label": 0, "idx": 23, "changed": false}
+{"premise": "Mehe silmad jooksid vett.", "choice1": "Talle läks tolm silma.", "choice2": "Ta pani kaitseprillid oma silmadele.", "question": "cause", "label": 0, "idx": 24, "changed": false}
+{"premise": "Mängija võitis viis mängu järjest.", "choice1": "Vastane süüdistas teda sohitegemises.", "choice2": "Vastasel oli temast kahju.", "question": "effect", "label": 0, "idx": 25, "changed": false}
+{"premise": "Õpetaja rebis õpilase eksami pooleks.", "choice1": "Ta tabas õpilase spikerdamast.", "choice2": "Õpilase vastused olid valed.", "question": "cause", "label": 0, "idx": 26, "changed": false}
+{"premise": "Ma tegin pausi, et rääkimine lõpetada.", "choice1": "Mul läsk hääl ära.", "choice2": "Mul sai õhk otsa.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "Külmutatud toit sulas üles.", "choice1": "Ma panin selle mikrolaineahju.", "choice2": "Ma katsin selle plastik kilega.", "question": "cause", "label": 0, "idx": 28, "changed": false}
+{"premise": "Töötaja teeskles haigust.", "choice1": "Tal olid kõhukrambid.", "choice2": "Ta tahtis vaba päeva.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "Tüdruk maandus basseinis.", "choice1": "Ta jooksis basseini tekil.", "choice2": "Ta hüppas hüppelaualt alla.", "question": "cause", "label": 1, "idx": 30, "changed": false}
+{"premise": "Filmipiletid müüsid välja.", "choice1": "See oli filmi esilinastus.", "choice2": "Film sai kehvad arvustused.", "question": "cause", "label": 0, "idx": 31, "changed": false}
+{"premise": "Mees võttis kaalust alla.", "choice1": "Inimesed isoleerisid ta.", "choice2": "Inimesed tegid talle komplimente.", "question": "effect", "label": 1, "idx": 32, "changed": false}
+{"premise": "Tüdruku käed läksid villi.", "choice1": "Ta trükkis kirja.", "choice2": "Ta ronis köit mööda üles.", "question": "cause", "label": 1, "idx": 33, "changed": false}
+{"premise": "Tsirkuseartist žonglööris üherattalisega sõites.", "choice1": "Public hõiskas imestuses.", "choice2": "Akrobaat kiikus trapetsil.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Mu kannatlikkus katkes.", "choice1": "Ootasin oma sõbra järel.", "choice2": "Mu sõber saabus õigeaegselt.", "question": "cause", "label": 0, "idx": 35, "changed": false}
+{"premise": "Sõdivad riigid tahtsid rahu.", "choice1": "Nad arendasid tuumarelvad.", "choice2": "Nad rääkisid lepingu osas läbi.", "question": "effect", "label": 1, "idx": 36, "changed": false}
+{"premise": "Mees võttis unerohtu.", "choice1": "Ta muutus uimaseks.", "choice2": "Tal tõusis palavik.", "question": "effect", "label": 0, "idx": 37, "changed": false}
+{"premise": "Naine kõndis diivanile otsa.", "choice1": "Diivanijalg tuli lahti.", "choice2": "Ta sai põlvele sinika.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "Poiss pigistas õhupalli.", "choice1": "Õhupall läks katki.", "choice2": "Õhupall lendas ära.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Reisijad registeerisid end oma hotellituppa.", "choice1": "Nad pakkisid oma kohvrid lahti.", "choice2": "Nad läksid lennujaama.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Ma võtsin virsikust ampsu.", "choice1": "Virisik sai mujutud.", "choice2": "Mahl purskas välja.", "question": "effect", "label": 1, "idx": 41, "changed": false}
+{"premise": "Mu käed hakkasid kleepuma.", "choice1": "Ma sõin sõõrikut.", "choice2": "Ma olin maiasmokk.", "question": "cause", "label": 0, "idx": 42, "changed": false}
+{"premise": "Ma lükkasin ust.", "choice1": "Uks avanes.", "choice2": "Uks oli lukus.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Aktivistid boikoteerisid toodet.", "choice1": "Tooteid testiti kvaliteedi tagamiseks.", "choice2": "Tooted olid valmistatud lapstööjõudu kasutades.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "Ma puurisin seina augu.", "choice1": "Hiir roomas august välja.", "choice2": "Tolm lendas august välja.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Naine tundis oma õe vastu kadedust.", "choice1": "Ta õde oli õnnelik.", "choice2": "Ta õde lahutas.", "question": "cause", "label": 0, "idx": 46, "changed": false}
+{"premise": "Ma ajasin veini omale särgi peale.", "choice1": "Ma panin põlle ette.", "choice2": "Ma vahetasin särki.", "question": "effect", "label": 1, "idx": 47, "changed": false}
+{"premise": "Kassapidaja avas kassaaparaadi.", "choice1": "Ostja otsis oma rahakotti läbi.", "choice2": "Ostja ulatas talle raha.", "question": "cause", "label": 1, "idx": 48, "changed": false}
+{"premise": "Tänavamuusik erutas rahvast.", "choice1": "Inimesed andsid talle peenraha.", "choice2": "Ta saatis rahva laiali.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Väike poiss nuttis oma lapsehoidjale.", "choice1": "Ta igatses oma vanemaid.", "choice2": "Oli snäkiaeg.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "Piloodi radar avastas tormi.", "choice1": "Piloot navigeeris tormist eemale.", "choice2": "Piloot sõitis läbi tormi.", "question": "effect", "label": 0, "idx": 51, "changed": false}
+{"premise": "Puu heitis oma lehed.", "choice1": "Lehed muutsid värvi.", "choice2": "Lehed kogunesid maha.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "Poiss oli üleannetus tujus.", "choice1": "Ta otsustas oma õega kaardimängu mängida.", "choice2": "Ta otsustas oma õele vingerpussi mängida.", "question": "effect", "label": 1, "idx": 53, "changed": false}
+{"premise": "Laps kaebas, et ta peab tualettruumi minema.", "choice1": "Ta isa andis talle joomiseks limonaadi.", "choice2": "Ta isa peatas bensiinijaamas auto.", "question": "effect", "label": 1, "idx": 54, "changed": false}
+{"premise": "Laps puistas kalatoitu akvaariumisse.", "choice1": "Kalad hüppasid akvaariumist välja.", "choice2": "Kalad ujusid toidu suunas.", "question": "effect", "label": 1, "idx": 55, "changed": false}
+{"premise": "Naise poliitilised vaated muutusid.", "choice1": "Ta vahetas oma erakondlikku kuuluvust.", "choice2": "Ta osales protestis.", "question": "effect", "label": 0, "idx": 56, "changed": false}
+{"premise": "Vannitoa kraanikauss oli umbes.", "choice1": "Ma keerasin kraani lahti.", "choice2": "Ma kallasin äravoolu puhastusvahendit sinna sisse.", "question": "effect", "label": 1, "idx": 57, "changed": false}
+{"premise": "Reisija tuli rongi pealt maha.", "choice1": "Rong saabus jaama.", "choice2": "Rong andis vilet.", "question": "cause", "label": 0, "idx": 58, "changed": false}
+{"premise": "Mees vajutas ümbrikul oleva niiske kleepriba peale.", "choice1": "Ta pani ümbrikule margi.", "choice2": "Ta pitseeris ümbriku kinni.", "question": "effect", "label": 1, "idx": 59, "changed": false}
+{"premise": "Sõbrad kaotasid ühenduse.", "choice1": "Nad nautisid üksteise seltsi.", "choice2": "Nad kolisid eri linnadesse.", "question": "cause", "label": 1, "idx": 60, "changed": false}
+{"premise": "Raamatupidaja haldas firma rahalisi vahendeid valesti.", "choice1": "Ta vallandati oma töökohalt.", "choice2": "Ta läks emapuhkusele.", "question": "effect", "label": 0, "idx": 61, "changed": false}
+{"premise": "Ma vaatasin kella.", "choice1": "Ma kuulsin kella tiksumist.", "choice2": "Ma thatsin keelaaega kontrollida.", "question": "cause", "label": 1, "idx": 62, "changed": false}
+{"premise": "Mul läks käsi krampi.", "choice1": "Ma kirjutasin essee käsitsi.", "choice2": "Mu naine ja mina hoidsime käest kinni.", "question": "cause", "label": 0, "idx": 63, "changed": false}
+{"premise": "Polt pinguldus.", "choice1": "Ma vahetasin poldi välja.", "choice2": "Ma pöörasin mutrivõtit.", "question": "cause", "label": 1, "idx": 64, "changed": false}
+{"premise": "Paarike allkirjastas korteri üürilepingu.", "choice1": "Paar kolis korterisse sisse.", "choice2": "Linn tunnistas korteri kõlbmatuks.", "question": "effect", "label": 0, "idx": 65, "changed": false}
+{"premise": "Naine istus väljas verandal.", "choice1": "Ta tahtis päikeseloojangut vaadata.", "choice2": "Ta arvas, et nägi äikest.", "question": "cause", "label": 0, "idx": 66, "changed": false}
+{"premise": "Mees kandis vees päästevesti.", "choice1": "Ta ei osanud ujuda.", "choice2": "Vesi oli madal.", "question": "cause", "label": 0, "idx": 67, "changed": false}
+{"premise": "Naine tegi tekstitöötlusseadmes trükivea.", "choice1": "Ta kustutas dokumendi.", "choice2": "Ta vajutas tagasisammuklahvi.", "question": "effect", "label": 1, "idx": 68, "changed": false}
+{"premise": "Tüdruk uhkustas oma sõbrale.", "choice1": "Ta sai halva hinde.", "choice2": "Ta võitis võistluse.", "question": "cause", "label": 1, "idx": 69, "changed": false}
+{"premise": "Muru oli mudane.", "choice1": "Öö läbi sadas.", "choice2": "See oli umbrohtu täis.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "Naine magas sisse.", "choice1": "Ta veetis öö hotellis.", "choice2": "Ta unustas äratuskella panna.", "question": "cause", "label": 1, "idx": 71, "changed": false}
+{"premise": "Mees pani päikesekreemi peale.", "choice1": "Ta istus varjus.", "choice2": "Ta läks randa.", "question": "cause", "label": 1, "idx": 72, "changed": false}
+{"premise": "Teadlased tõestasid teooria.", "choice1": "Teadlased võtisd teooria tagasi.", "choice2": "Üksikisikud aktsepteerisid teooria.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Fännid mängul hüüdsid halvakspanevalt.", "choice1": "Mäng läks lisaajale.", "choice2": "Kohtunik tegi halva otsuse.", "question": "cause", "label": 1, "idx": 74, "changed": false}
+{"premise": "Ma sisestasin oma luku kombinatsiooni.", "choice1": "Ma keerasin luku kinni.", "choice2": "Lukk avanes.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "Rahvas intensiivistus.", "choice1": "Isa andis pojale natuke raha.", "choice2": "Isa krabas oma poja käest.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Lumi blokeeris sissesõiduteed.", "choice1": "Ma tegin lumest lumepalli.", "choice2": "Ma kühveldasin lume tee pealt ära.", "question": "effect", "label": 1, "idx": 77, "changed": false}
+{"premise": "Kajakisõitjad aerutasid oma aerudega.", "choice1": "Kajakk jõudis kaldale.", "choice2": "Kajakk sõitis tabas lainet.", "question": "effect", "label": 0, "idx": 78, "changed": false}
+{"premise": "Tüdruk kaotas oma ratta üle kontrolli.", "choice1": "Ta lasi lenkstangist lahti.", "choice2": "Ta sõitis aeda sisse.", "question": "effect", "label": 1, "idx": 79, "changed": false}
+{"premise": "Ma panin puhuri tööle.", "choice1": "Mu nahale pritsis vett.", "choice2": "Ma tundsin, kuidas külm õhk minust üle läks.", "question": "effect", "label": 1, "idx": 80, "changed": false}
+{"premise": "Surfarid naasesid randa.", "choice1": "Nad olid läbi ligunenud.", "choice2": "Nad nägid haid.", "question": "cause", "label": 1, "idx": 81, "changed": false}
+{"premise": "Ma tõmbasin vanni äravoolukorki.", "choice1": "Vesi voolas vannist ära.", "choice2": "Vesi pritsis põrandale.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Mees tundis end naise petmise pärast süüdi.", "choice1": "Ta süüdistas teda truudusetuses.", "choice2": "Ta tunnistas oma truudusetust talle.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "Trükivärv postril määris.", "choice1": "Ma ootasin, kuni trükivärv kuivab.", "choice2": "Ma ajasin vett postri peale.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "Laps ärkas karjudes üles.", "choice1": "Ta nägi õudusunenägu.", "choice2": "Ta tegi voodi märjaks.", "question": "cause", "label": 0, "idx": 85, "changed": false}
+{"premise": "Poiss pani oma jalad lauale.", "choice1": "Ta isa istus laua taha maha.", "choice2": "Ta isa pidas talle loengu.", "question": "effect", "label": 1, "idx": 86, "changed": false}
+{"premise": "Mu sõber pööras pea minu poole.", "choice1": "Ma hõikasin ta nime.", "choice2": "Ma lehvitasin oma käsi.", "question": "cause", "label": 0, "idx": 87, "changed": false}
+{"premise": "Valitsus surus oma kodanikke alla.", "choice1": "Kodanikud korraldasid ülestõusu.", "choice2": "Kodanikud registreerisid hääletama.", "question": "effect", "label": 0, "idx": 88, "changed": false}
+{"premise": "Poiss oli metsa eksinud.", "choice1": "Ta pani telgi püsti.", "choice2": "Ta hüüdis abi järele.", "question": "effect", "label": 1, "idx": 89, "changed": false}
+{"premise": "Naine reisis välismaale.", "choice1": "Ta tahtis joonistama õppida.", "choice2": "Ta tahtis teiste kultuuride kohta õppida.", "question": "cause", "label": 1, "idx": 90, "changed": false}
+{"premise": "Mees oli oma töökaaslase peale kade.", "choice1": "Ta töökaaslane edutati.", "choice2": "Ta töökaaslane töötas hilja.", "question": "cause", "label": 0, "idx": 91, "changed": false}
+{"premise": "Mees nägi tulnukaid.", "choice1": "Ta nägi viirastusi.", "choice2": "Ta mediteeris.", "question": "cause", "label": 0, "idx": 92, "changed": false}
+{"premise": "Mehe juuksed muutusid blondiks.", "choice1": "Ta pani neisse valgendit.", "choice2": "Ta pani neisse shampooni.", "question": "cause", "label": 0, "idx": 93, "changed": false}
+{"premise": "Kunstnik lõi uue töö.", "choice1": "Ta kritiseeris oma eelnevat tööd.", "choice2": "Ta tundis inspiratsioonihoogu.", "question": "cause", "label": 1, "idx": 94, "changed": false}
+{"premise": "Poeg kolis kodust ära.", "choice1": "Ta vabastati sõjaväest.", "choice2": "Ta läks kõrgkooli.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "Raamatud kukkusid raamaturiilust välja.", "choice1": "Riiulid olid tolmuga kaetud.", "choice2": "Maavärin raputas raamaturiiulit.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "Mu kodus läks elekter ära.", "choice1": "Ma panin lambi põlema.", "choice2": "Ma lähtestasin automaatkorgi.", "question": "effect", "label": 1, "idx": 97, "changed": false}
+{"premise": "Me sõitsime Ameerika mägedel.", "choice1": "See tundus hirmus.", "choice2": "See tundus lõbus.", "question": "cause", "label": 1, "idx": 98, "changed": false}
+{"premise": "Kotitäis popkorni hakkas praksuma.", "choice1": "Ma kallasin võid kotti.", "choice2": "Ma kuumutasin seda mikrolaineahjus.", "question": "cause", "label": 1, "idx": 99, "changed": false}
+{"premise": "Puu kukkus elektriliinile.", "choice1": "Naabruskonnas läks elekter ära.", "choice2": "Ilmateade ennustas tugevaid tuuli.", "question": "effect", "label": 0, "idx": 100, "changed": false}
+{"premise": "Esineja tegi poliitiliselt ebakorrektseid kommentaare.", "choice1": "Ta tüütas publikut.", "choice2": "Ta solvas publikut.", "question": "effect", "label": 1, "idx": 101, "changed": false}
+{"premise": "Ma torkasin ennast oraga.", "choice1": "Mu näolt tilkus higipiisk.", "choice2": "Mu sõrmel moodustus veretilk.", "question": "effect", "label": 1, "idx": 102, "changed": false}
+{"premise": "Kala hulpis akvaariumi pinnal.", "choice1": "Ta oli näljane.", "choice2": "Ta oli surnud.", "question": "cause", "label": 1, "idx": 103, "changed": false}
+{"premise": "Mehe hääl kõlas kähe.", "choice1": "Tal oli külmetus.", "choice2": "Ta jättis suitsetamise maha.", "question": "cause", "label": 0, "idx": 104, "changed": false}
+{"premise": "Liftiuksed avanesid.", "choice1": "Lift jõudis määratud korrusele.", "choice2": "Lift jäi korruste vahel kinni.", "question": "cause", "label": 0, "idx": 105, "changed": false}
+{"premise": "Teismeline hiilis majast välja.", "choice1": "Ta valetas oma vanematele.", "choice2": "Ta vanemad panid ta koduaresti.", "question": "cause", "label": 1, "idx": 106, "changed": false}
+{"premise": "Vannituba ujutas üle.", "choice1": "Tualett ajas üle.", "choice2": "Boiler läks katki.", "question": "cause", "label": 0, "idx": 107, "changed": false}
+{"premise": "Kutsikas püsis omaniku lähedal.", "choice1": "Omanik pani kutsikale kaelarihma.", "choice2": "Omanik hoidis kutsikat jalutusrihma otsas.", "question": "cause", "label": 1, "idx": 108, "changed": false}
+{"premise": "Mees nägi oma peegeldust.", "choice1": "Ta seisis laialivalguva puu all.", "choice2": "Ta seisis rahuliku järve ääres.", "question": "cause", "label": 1, "idx": 109, "changed": false}
+{"premise": "Ma magasin oma tüdruksõbra telefonikõne maha.", "choice1": "Ma helistasin talle tagasi.", "choice2": "Ma sain temaga õhtusöögiks kokku.", "question": "effect", "label": 0, "idx": 110, "changed": false}
+{"premise": "Perekond otsis naabruskonna läbi.", "choice1": "Nende koer jooksis kodust ära.", "choice2": "Kallid ehted olid nende kodust kadunud.", "question": "cause", "label": 0, "idx": 111, "changed": false}
+{"premise": "Ma nägin oma hingeõhku, kui ma välja hindasin.", "choice1": "Ilm oli jahe.", "choice2": "Mul oli rinnus kitsas.", "question": "cause", "label": 0, "idx": 112, "changed": false}
+{"premise": "Töötajad moodustasid ühingu.", "choice1": "Nad tahtsid paremaid töötingimusi.", "choice2": "Nende tööandja tõstis nende palku.", "question": "cause", "label": 0, "idx": 113, "changed": false}
+{"premise": "Ma küpsetasin õunapiruka.", "choice1": "Mädanev lõhn täitis köögi.", "choice2": "Soe aroom täitis köögi.", "question": "effect", "label": 1, "idx": 114, "changed": false}
+{"premise": "Naisel oli raske kõndida.", "choice1": "Ta kandis kõrgeid kontsi.", "choice2": "Ta võttis oma kingad ära.", "question": "cause", "label": 0, "idx": 115, "changed": false}
+{"premise": "Veepotist tõusis aur.", "choice1": "Vesi kees.", "choice2": "Ma katsin poti.", "question": "cause", "label": 0, "idx": 116, "changed": false}
+{"premise": "Kõik mu sokid olid pesus.", "choice1": "Ma kandsin sandaale.", "choice2": "Ma kandsin saapaid.", "question": "effect", "label": 0, "idx": 117, "changed": false}
+{"premise": "Poliitiku argumenti peeti absurdseks.", "choice1": "Ta kaotas valijate toetuse.", "choice2": "Teda süüdistati korruptsioonis.", "question": "effect", "label": 0, "idx": 118, "changed": false}
+{"premise": "Kõik panid paarikese kihlumist pahaks.", "choice1": "Paar jäi rasedaks.", "choice2": "Paar põgenes.", "question": "effect", "label": 1, "idx": 119, "changed": false}
+{"premise": "Hoone pühendati miljonärile.", "choice1": "Miljonär tahtis, et hoone lammutataks.", "choice2": "Miljonär panustas selle ehitamiseks.", "question": "cause", "label": 1, "idx": 120, "changed": false}
+{"premise": "Müüja süüüdistas tüdrukut varastamises.", "choice1": "Müüja nägi, kuidas tüdruk kaupa oma käekotti pani.", "choice2": "Müüja aitas tüdrukul leida käekotti, mis talle meeldis.", "question": "cause", "label": 0, "idx": 121, "changed": false}
+{"premise": "Riik kuulutas naabruses asuvale territooriumile sõja.", "choice1": "Sõdurid saadeti välja võitlema.", "choice2": "Sõdurid taasühinesid oma peredega.", "question": "effect", "label": 0, "idx": 122, "changed": false}
+{"premise": "Kohus toetas vastuoluliset kohtuotsust.", "choice1": "Kohtuhoone ees puhkes mäss.", "choice2": "Paarike vahetas kohtuhoone ees vandeid.", "question": "effect", "label": 0, "idx": 123, "changed": false}
+{"premise": "Tüdruk haistis midagi põlemas.", "choice1": "Ta võttis küpsised purgist välja.", "choice2": "Ta jättis küpsised ahju.", "question": "cause", "label": 1, "idx": 124, "changed": false}
+{"premise": "Vihma kallas alla.", "choice1": "Torm läks halvemaks.", "choice2": "Ma tormasin, et sisse jõuda.", "question": "effect", "label": 1, "idx": 125, "changed": false}
+{"premise": "Hoone evakueeriti.", "choice1": "Lift lõpetas töötamise.", "choice2": "Tulekahjualarm läks tööle.", "question": "cause", "label": 1, "idx": 126, "changed": false}
+{"premise": "Isa pani poja alkoholismi pahaks.", "choice1": "Isa ostis pojale õlle.", "choice2": "Isa viskas oma poja kodust välja.", "question": "effect", "label": 1, "idx": 127, "changed": false}
+{"premise": "Kohtunik läks trepist üles oma kontorisse.", "choice1": "Sekretär läks selleks päevaks koju.", "choice2": "Lift oli katki.", "question": "cause", "label": 1, "idx": 128, "changed": false}
+{"premise": "Mees sai oma sõbra peale pahaseks.", "choice1": "Ta sõber katkestas teda.", "choice2": "Ta sõber ostis talle lõuna.", "question": "cause", "label": 0, "idx": 129, "changed": false}
+{"premise": "Tüdruk andis oma raha kassapidajale.", "choice1": "Kassapidaja andis tüdrukule vahetusraha.", "choice2": "Kassapidaja unustas tüdrukule tšeki anda.", "question": "effect", "label": 0, "idx": 130, "changed": false}
+{"premise": "Naine pandi ratastooli.", "choice1": "Ta jäi õnnetuses halvatuks.", "choice2": "Ta sisenes haiglasse kanderaamil.", "question": "cause", "label": 0, "idx": 131, "changed": false}
+{"premise": "Kodanikud heiskasid oma kodudel riigilipu.", "choice1": "Riik tähistas oma iseseisvust.", "choice2": "Riik seisis silmitsi majanduslike raskustega.", "question": "cause", "label": 0, "idx": 132, "changed": false}
+{"premise": "Tiim kaotas turniiri.", "choice1": "Nad valmistasid oma fännidele pettumuse.", "choice2": "Nad inspireerisid oma fänne.", "question": "effect", "label": 0, "idx": 133, "changed": false}
+{"premise": "Mu sõber juhtis tähelepanu sellele, et mul oli toit hammaste vahel.", "choice1": "Ma tundsin piinlikkust.", "choice2": "Ma tundsin uhkust.", "question": "effect", "label": 0, "idx": 134, "changed": false}
+{"premise": "Poiss kukkus oma ajaloo eksami läbi.", "choice1": "Ta pani tunnis tähele.", "choice2": "Ta unustas õppida.", "question": "cause", "label": 1, "idx": 135, "changed": false}
+{"premise": "Kesklinna hoone varises kokku.", "choice1": "Linna tabas maavärin.", "choice2": "Kuritegevus linnas kasvas.", "question": "cause", "label": 0, "idx": 136, "changed": false}
+{"premise": "Mehe tüdruksõber jättis ta maha.", "choice1": "Ta palus, et ta ta tagasi võtaks.", "choice2": "Ta tutvustas teda oma vanematele.", "question": "effect", "label": 0, "idx": 137, "changed": false}
+{"premise": "Kaks last kummardusid üheaegselt, et maast pall võtta.", "choice1": "Pall veeres ära.", "choice2": "Nad lõid pead kokku.", "question": "effect", "label": 1, "idx": 138, "changed": false}
+{"premise": "Pesukaru tuhnis prügikasti läbi.", "choice1": "Prügikastis oi pappi.", "choice2": "Prügikastil oli kaas pealt ära.", "question": "cause", "label": 1, "idx": 139, "changed": false}
+{"premise": "Poiss teritas pliiatsit.", "choice1": "See oli odav.", "choice2": "See oli nüri.", "question": "cause", "label": 1, "idx": 140, "changed": false}
+{"premise": "Kassapidaja keeldus naisele kleidi raha tagasi maksmast.", "choice1": "Ta kaotas oma tšeki ära.", "choice2": "Kleit ei istunud talle.", "question": "cause", "label": 0, "idx": 141, "changed": false}
+{"premise": "Kriimustus mu nahal oli sügav.", "choice1": "See paranes kiiresti.", "choice2": "See jättis armi.", "question": "effect", "label": 1, "idx": 142, "changed": false}
+{"premise": "Mees sai rongis reisijatelt imelikke pilke.", "choice1": "Ta vaatas maha.", "choice2": "Ta rääkis endaga.", "question": "cause", "label": 1, "idx": 143, "changed": false}
+{"premise": "Laps jättis puru põrandale.", "choice1": "Sipelgad roomasid puru juurde.", "choice2": "Laps pani leiva ära.", "question": "effect", "label": 0, "idx": 144, "changed": false}
+{"premise": "Naine ulatas oma õele salvrätiku.", "choice1": "Naise õde pani käed risti.", "choice2": "Naise õde hakkas nutma.", "question": "cause", "label": 1, "idx": 145, "changed": false}
+{"premise": "Mees võttis münti.", "choice1": "Ta huuled olid lõhenenud.", "choice2": "Ta muretses halva hingeõhu pärast.", "question": "cause", "label": 1, "idx": 146, "changed": false}
+{"premise": "Paarike lahkus etendusele vara.", "choice1": "Nad aimasid, et teatri ümber on tihe liiklus.", "choice2": "Nad said juhised teatrisse minemiseks.", "question": "cause", "label": 0, "idx": 147, "changed": false}
+{"premise": "Naine jäi töölt koju.", "choice1": "Ta ülemus kiitis teda.", "choice2": "Ta töökaaslane võttis tema vahetuse üle.", "question": "effect", "label": 1, "idx": 148, "changed": false}
+{"premise": "Mees allkirjastas aktivisti petitsiooni.", "choice1": "Ta toetas nende üritust.", "choice2": "Ta tembeldas nad hulluks.", "question": "cause", "label": 0, "idx": 149, "changed": false}
+{"premise": "Näitleja süda peksis enne etendust.", "choice1": "Tal oli lavahirm.", "choice2": "Ta jättis oma ridu meelde.", "question": "cause", "label": 0, "idx": 150, "changed": false}
+{"premise": "Ma olin eksinud.", "choice1": "Ma lugesin oma sularaha üre.", "choice2": "Ma voltisin kaardi lahti.", "question": "effect", "label": 1, "idx": 151, "changed": false}
+{"premise": "Küps puuvili rippus päikse käes.", "choice1": "See söödi ära.", "choice2": "See tõmbus krimpsu.", "question": "effect", "label": 1, "idx": 152, "changed": false}
+{"premise": "Auto läks katki.", "choice1": "Ma keerasin süüdet.", "choice2": "Mootor kuumenes üle.", "question": "cause", "label": 1, "idx": 153, "changed": false}
+{"premise": "Mees tegi oma seljale haiget.", "choice1": "Ta läks psühhiaatri juurde.", "choice2": "Ta jäi mõneks päevaks voodisse.", "question": "effect", "label": 1, "idx": 154, "changed": false}
+{"premise": "Ma tegin kaminasse tule.", "choice1": "Mul olid küttepuud otsas.", "choice2": "Majas oli külm.", "question": "cause", "label": 1, "idx": 155, "changed": false}
+{"premise": "Naine lõpetas sörkimise.", "choice1": "Tal  läks külg krampi.", "choice2": "Ta sai uue jõupuhangu.", "question": "cause", "label": 0, "idx": 156, "changed": false}
+{"premise": "Ma koputasin oma naabri uksele.", "choice1": "Mu naaber kutsus mind sisse.", "choice2": "Mu naaber läks kodust ära.", "question": "effect", "label": 0, "idx": 157, "changed": false}
+{"premise": "Naine ohkas frustreeritult.", "choice1": "Ta abikaasa ei mõistnud ta muresid.", "choice2": "Ta abikaasa suudles teda hüvastijätuks.", "question": "cause", "label": 0, "idx": 158, "changed": false}
+{"premise": "Õpetaja kiitis õpilast.", "choice1": "Õpilane vastas küsimustele õigesti.", "choice2": "Õpilane kahtles, kas küsimusele vastata.", "question": "cause", "label": 0, "idx": 159, "changed": false}
+{"premise": "Naisel said munad otsa.", "choice1": "Ta läks farmi.", "choice2": "Ta läks supermarketisse.", "question": "effect", "label": 1, "idx": 160, "changed": false}
+{"premise": "Ma kohtusin vana sõbraga.", "choice1": "Ma avaldasin talle saladuse.", "choice2": "Ma tegin talle kalli.", "question": "effect", "label": 1, "idx": 161, "changed": false}
+{"premise": "Naine vältis järve minemist.", "choice1": "Ta püüdis kala.", "choice2": "See nägi saastunud välja.", "question": "cause", "label": 1, "idx": 162, "changed": false}
+{"premise": "Õpilane ilmus klassi läbimärjana.", "choice1": "Ta vihmavari oli katki.", "choice2": "Ta ratas oli ära varastatud.", "question": "cause", "label": 0, "idx": 163, "changed": false}
+{"premise": "Kursor liikus arvutiekraanil.", "choice1": "Kasutaja klikkis hiirega.", "choice2": "Kasutaja liigutas hiirt.", "question": "cause", "label": 1, "idx": 164, "changed": false}
+{"premise": "Juht tegi ümbersõidu.", "choice1": "Peateel oli õnnetus.", "choice2": "Ta järgnes tema ees sõitvale veokile.", "question": "cause", "label": 0, "idx": 165, "changed": false}
+{"premise": "Ma riputasin märjad linad õue pesunöörile.", "choice1": "Linad kuivasid.", "choice2": "Linad määrdusid.", "question": "effect", "label": 0, "idx": 166, "changed": false}
+{"premise": "Naine pani päikeseprillid ette.", "choice1": "Päike oli ere.", "choice2": "Ta püüdis taksot.", "question": "cause", "label": 0, "idx": 167, "changed": false}
+{"premise": "Mees silmitses öist taevast.", "choice1": "Ta soovis, et oleks suvi.", "choice2": "Ta arvas, et see oli ilus.", "question": "cause", "label": 1, "idx": 168, "changed": false}
+{"premise": "Ma tundsin end rampväsinult.", "choice1": "Ma läksin varakult voodisse.", "choice2": "Ma olin terve öö üleval.", "question": "effect", "label": 0, "idx": 169, "changed": false}
+{"premise": "Mees läks juuksuri juurde.", "choice1": "Ta kasvatas oma juukseid välja.", "choice2": "Ta juuksed olid pikaks kasvanud.", "question": "cause", "label": 1, "idx": 170, "changed": false}
+{"premise": "Poiss tegi oma uuele klassikaaslasele kurjasid tempe.", "choice1": "Poiss tervitas oma uut klassikaaslast.", "choice2": "Poisile ei meeldinud uus klassikaaslane.", "question": "cause", "label": 1, "idx": 171, "changed": false}
+{"premise": "Ma ihaldasin klaasi piima.", "choice1": "Ma sõin küpsiseid.", "choice2": "Ma küpsetasin leiba.", "question": "cause", "label": 0, "idx": 172, "changed": false}
+{"premise": "Hakkas sadama.", "choice1": "Juht pani esituled põlema.", "choice2": "Juht pani tagurpidikäigu sisse.", "question": "effect", "label": 0, "idx": 173, "changed": false}
+{"premise": "Hoone parkimisplats oli tühi.", "choice1": "Ma parkisin üle tee.", "choice2": "Ma parkisin sissepääsu juude.", "question": "effect", "label": 1, "idx": 174, "changed": false}
+{"premise": "Kirjanik ei pidanud mustandi esitamise tähtajast kinni.", "choice1": "Tal oli kirjaniku blokk.", "choice2": "Ta redigeeris mustandit.", "question": "cause", "label": 0, "idx": 175, "changed": false}
+{"premise": "Partner katkestas mu kõne.", "choice1": "Ma tahtsin ülevaatajaga rääkida.", "choice2": "Ma andsin oma eraldusnumbri.", "question": "cause", "label": 0, "idx": 176, "changed": false}
+{"premise": "Tuul puhus lahtisest aknast sisse.", "choice1": "Uksekell helises.", "choice2": "Kardinad liikusid.", "question": "effect", "label": 1, "idx": 177, "changed": false}
+{"premise": "Mu majas läks elekter ära.", "choice1": "Ma võtsin lambi seinast välja.", "choice2": "Ma põletasin kaitsme läbi.", "question": "cause", "label": 1, "idx": 178, "changed": false}
+{"premise": "Tõstja röhatas.", "choice1": "Ta painutas peegli ees oma muskleid.", "choice2": "Ta tõstis kangi oma pea kohale.", "question": "cause", "label": 1, "idx": 179, "changed": false}
+{"premise": "Õpilane proovis peast arvutada.", "choice1": "Ta võttis kalkulaatori välja.", "choice2": "Ta sattus segadusse.", "question": "effect", "label": 1, "idx": 180, "changed": false}
+{"premise": "Tita jäi magama.", "choice1": "Isa vahetas tita mähkmeid.", "choice2": "Isa kiigutas titat tasakesi.", "question": "cause", "label": 1, "idx": 181, "changed": false}
+{"premise": "Tüdruk viskas poissi veepommiga.", "choice1": "Pois sai peapõrutuse.", "choice2": "Poiss sai läbimärjaks.", "question": "effect", "label": 1, "idx": 182, "changed": false}
+{"premise": "Fotograaf unustas kaamera välku kasutada.", "choice1": "Pildid tulid udused.", "choice2": "Kõik keeldusid pildil naeratamast.", "question": "effect", "label": 0, "idx": 183, "changed": false}
+{"premise": "Ma ütlesin sünnipäevakutse ära.", "choice1": "Ma oli üksik.", "choice2": "Ma olin linnast väljas.", "question": "cause", "label": 1, "idx": 184, "changed": false}
+{"premise": "Ma tegin trenni.", "choice1": "Ma tundsin end energiliselt.", "choice2": "Ma kartsin.", "question": "cause", "label": 0, "idx": 185, "changed": false}
+{"premise": "Ma pigistasin niisket svammi.", "choice1": "See imas vett sisse.", "choice2": "Vesi nõrgus sellest välja.", "question": "effect", "label": 1, "idx": 186, "changed": false}
+{"premise": "Puhkajad läksid praamiga puhkekeskusse.", "choice1": "Puhkekeskus oli broneeritud.", "choice2": "Puhkekeskus oli saare peal.", "question": "cause", "label": 1, "idx": 187, "changed": false}
+{"premise": "Teismeline tegi tätoveeringu.", "choice1": "Ta kartis nõelu.", "choice2": "Ta tahtis mässata.", "question": "cause", "label": 1, "idx": 188, "changed": false}
+{"premise": "Võõras auto parkis mu maja ees.", "choice1": "Ma muutusin kahtlustavaks.", "choice2": "Ma kutsusin politsei.", "question": "effect", "label": 0, "idx": 189, "changed": false}
+{"premise": "Kurjategija andis end üles.", "choice1": "Tõendid segasid ta asjasse.", "choice2": "Tema vastu ei olnud tõendeid.", "question": "cause", "label": 0, "idx": 190, "changed": false}
+{"premise": "Turske mees otsustas kaalus alla võtta.", "choice1": "Ta lõpetas magusa söömise.", "choice2": "Ta vältis kofeiini.", "question": "effect", "label": 0, "idx": 191, "changed": false}
+{"premise": "Tüdruk astus jääle.", "choice1": "Ta libises.", "choice2": "Ta värises.", "question": "effect", "label": 0, "idx": 192, "changed": false}
+{"premise": "Naisel olid rõngad silmade all.", "choice1": "Ta oli terve öö üleval.", "choice2": "Ta pani oma poja magama.", "question": "cause", "label": 0, "idx": 193, "changed": false}
+{"premise": "Laava voolas vulkaanist.", "choice1": "Vulkaan purskas.", "choice2": "Vulkaan oli uinunud.", "question": "cause", "label": 0, "idx": 194, "changed": false}
+{"premise": "Naine pani kingad jalga.", "choice1": "Ta teadis kõiki peol.", "choice2": "Ta tahtis peolt lahkuda.", "question": "cause", "label": 1, "idx": 195, "changed": false}
+{"premise": "Ma maksin tolliputka teenindajale.", "choice1": "Ta lasi mind tolliputkast läbi.", "choice2": "Ta pidas mind tolliputkas kinni.", "question": "effect", "label": 0, "idx": 196, "changed": false}
+{"premise": "Juhataja läks pankrotti.", "choice1": "Ta müüs oma firma atsiaid.", "choice2": "Ta raiskas oma varanduse.", "question": "cause", "label": 1, "idx": 197, "changed": false}
+{"premise": "Mees läks arsti juurde.", "choice1": "Arst oli puhkusel.", "choice2": "Mees tundis end haiglaselt.", "question": "cause", "label": 1, "idx": 198, "changed": false}
+{"premise": "Ma väljusin oma magamistoast akna kaudu.", "choice1": "Maja põles.", "choice2": "Maja oli tühi.", "question": "cause", "label": 0, "idx": 199, "changed": false}
+{"premise": "Poisi sõrmed läksid kortsu.", "choice1": "Ta oli pikalt duši all.", "choice2": "Ta määris oma käsi seebiga.", "question": "cause", "label": 0, "idx": 200, "changed": false}
+{"premise": "Ma sülitasin piima välja.", "choice1": "Piim maitses hapu.", "choice2": "Mu suu oli kuiv.", "question": "cause", "label": 0, "idx": 201, "changed": false}
+{"premise": "Ma jäin bussist maha.", "choice1": "Ma jõudsin vara tööle.", "choice2": "Ma jäin tööle hiljaks.", "question": "effect", "label": 1, "idx": 202, "changed": false}
+{"premise": "Veok põrkas autoga kokku.", "choice1": "Veok kiirendas.", "choice2": "Auto purunes.", "question": "effect", "label": 1, "idx": 203, "changed": false}
+{"premise": "Võistkond sahkerdas, et neil võistlusel paremini läheks.", "choice1": "Nad võitsid.", "choice2": "Nad langesid välja.", "question": "effect", "label": 0, "idx": 204, "changed": false}
+{"premise": "Sooda pudel sisises.", "choice1": "Ma pöörasin pudeli ümber.", "choice2": "Ma keerasin korgi maha.", "question": "cause", "label": 1, "idx": 205, "changed": true}
+{"premise": "Poiss oli oma majast välja lukustatud.", "choice1": "Ta roomas läbi lahtise akna.", "choice2": "Ta ronis üles katusele.", "question": "effect", "label": 0, "idx": 206, "changed": false}
+{"premise": "Uksekell helises.", "choice1": "Külaline koputas uksekoputit.", "choice2": "Naine piilus läbi ukse võtmeaugu.", "question": "effect", "label": 1, "idx": 207, "changed": false}
+{"premise": "Mees tegi oma ülikonna plekiliseks.", "choice1": "Ta lasi selle keemiliselt puhastada.", "choice2": "Ta riputas selle oma kappi.", "question": "effect", "label": 0, "idx": 208, "changed": false}
+{"premise": "Tüdruk pigistas hambapastatuubi.", "choice1": "Hambapasta purskas joana tuubist välja.", "choice2": "Tüdruk sülitas hambapasta välja.", "question": "effect", "label": 0, "idx": 209, "changed": false}
+{"premise": "Eraisikud surmad sõjas tõusid hüppeliselt.", "choice1": "Patsifistid korraldasid protesti.", "choice2": "Patsifistid pidasid paraadi.", "question": "effect", "label": 0, "idx": 210, "changed": false}
+{"premise": "Tüdruk tõmbas äkitselt paela oma peast.", "choice1": "Ta sidus paela.", "choice2": "Pael nägi lapsik välja.", "question": "cause", "label": 1, "idx": 211, "changed": false}
+{"premise": "Mees käis iluoperatsioonil.", "choice1": "Ta vananes.", "choice2": "Ta nägi noorem välja.", "question": "effect", "label": 1, "idx": 212, "changed": false}
+{"premise": "Munast tuli beebikana välja.", "choice1": "Muna koorus.", "choice2": "Ma lõin muna katki.", "question": "cause", "label": 0, "idx": 213, "changed": false}
+{"premise": "Vang nälgis.", "choice1": "Ta suri.", "choice2": "Ta põgenes.", "question": "effect", "label": 0, "idx": 214, "changed": false}
+{"premise": "Mees kaotas redelil tasakaalu.", "choice1": "Ta ronis redelist üles.", "choice2": "Ta kukkus redelilt alla.", "question": "effect", "label": 1, "idx": 215, "changed": false}
+{"premise": "Laps krooksus.", "choice1": "Ta võttis sõõmu soodat.", "choice2": "Ta avas soodapurgi.", "question": "cause", "label": 0, "idx": 216, "changed": false}
+{"premise": "Külm tuuletõmbus tuli aknast sisse.", "choice1": "Ma lõõgastusin.", "choice2": "Ma värisesin.", "question": "effect", "label": 1, "idx": 217, "changed": false}
+{"premise": "Õpilane sai kolledžisse minemiseks stipendiumi.", "choice1": "Ta klassikaaslased austasid teda.", "choice2": "Ta sai häid hindeid.", "question": "cause", "label": 1, "idx": 218, "changed": false}
+{"premise": "Tüdruk viskas poisi üle nalja.", "choice1": "Ta elas tema naabermajas.", "choice2": "Ta oli temasse armunud.", "question": "cause", "label": 1, "idx": 219, "changed": false}
+{"premise": "Näljane hulkur varastas süüa.", "choice1": "Ta sütitas kaastunnet.", "choice2": "Tal ei olnud raha.", "question": "cause", "label": 1, "idx": 220, "changed": false}
+{"premise": "Ma helistasin oma sõbrale, et lobiseda.", "choice1": "Ma tahtsin privaatsust.", "choice2": "Ma tundsin üksindust.", "question": "cause", "label": 1, "idx": 221, "changed": false}
+{"premise": "Mees ulatas mulle oma käe.", "choice1": "Ma surusin ta kätt.", "choice2": "Ma andsin talle kõrvakiilu.", "question": "effect", "label": 0, "idx": 222, "changed": false}
+{"premise": "Ma kummardusin.", "choice1": "Ilutulestik lasti õhku.", "choice2": "Lendav taldrik lendas mu pea suunas.", "question": "cause", "label": 1, "idx": 223, "changed": false}
+{"premise": "Tüdruk näris küüsi.", "choice1": "Ta oli mures.", "choice2": "Ta oli üllatunud.", "question": "cause", "label": 0, "idx": 224, "changed": false}
+{"premise": "Ma pöörasin kalendris lehte.", "choice1": "Ma märkisin kohtumise kalendrisse.", "choice2": "Oli uue kuu algus.", "question": "cause", "label": 1, "idx": 225, "changed": false}
+{"premise": "Mees avastas, et ta naisel oli afäär.", "choice1": "Ta lasi oma advokaadi lahti.", "choice2": "Ta andis lahutuse sisse.", "question": "effect", "label": 1, "idx": 226, "changed": false}
+{"premise": "Tüdruk viskas kummipalli maha.", "choice1": "Pall põrkas.", "choice2": "Pall helendas.", "question": "effect", "label": 0, "idx": 227, "changed": false}
+{"premise": "Tüdruk tegi oma eksamil vea.", "choice1": "Ta aimas vastust.", "choice2": "Ta kustutas oma vastuse.", "question": "effect", "label": 1, "idx": 228, "changed": false}
+{"premise": "Mängija nügis oma vastast.", "choice1": "Ta vastane püüdis söödu.", "choice2": "Ta vastane kukkus maha.", "question": "effect", "label": 1, "idx": 229, "changed": false}
+{"premise": "Ma noppisin taime küljest tomateid.", "choice1": "Need olid küpsed.", "choice2": "Ma kastsin neid.", "question": "cause", "label": 0, "idx": 230, "changed": false}
+{"premise": "Mees tahtis romantiliselt käituda.", "choice1": "Ta sõi oma ekstüdrukuga lõunat.", "choice2": "Ta ostis oma tüdrukule šokolaadikomme.", "question": "effect", "label": 1, "idx": 231, "changed": false}
+{"premise": "Elavhõbe termomeetris tõusis.", "choice1": "Ma kukutasin termomeetri maha.", "choice2": "Ilm läks soojemaks.", "question": "cause", "label": 1, "idx": 232, "changed": false}
+{"premise": "Nornaado liikus läbi linna.", "choice1": "Kohtuhoone katus puhuti pealt.", "choice2": "Maantee muutus ohtlikult jäiseks.", "question": "effect", "label": 0, "idx": 233, "changed": false}
+{"premise": "Õpilane sai koduõpetajalt tunde.", "choice1": "Ta hinded paranesid.", "choice2": "Ta spikerdas eksamil.", "question": "effect", "label": 0, "idx": 234, "changed": false}
+{"premise": "Ma tundsin end mugavalt.", "choice1": "Ma põlvitasin maas.", "choice2": "Ma keerasin end teki sisse.", "question": "cause", "label": 1, "idx": 235, "changed": false}
+{"premise": "Ma poleerisin kivi.", "choice1": "See muutus libedaks.", "choice2": "See muutus säravaks.", "question": "effect", "label": 1, "idx": 236, "changed": false}
+{"premise": "Ma lisasin kohvile suhkrut.", "choice1": "Kohv lõhnas tugevalt.", "choice2": "Kohv maitses magus.", "question": "effect", "label": 1, "idx": 237, "changed": false}
+{"premise": "Mees paigutas pabereid ümber.", "choice1": "Ta sai  paberi lõikehaava.", "choice2": "Ta rebis paberid ribadeks.", "question": "effect", "label": 0, "idx": 238, "changed": false}
+{"premise": "Ma lõin haamriga naela.", "choice1": "Nael läks vajus puidu sisse.", "choice2": "Nael läks rooste.", "question": "effect", "label": 0, "idx": 239, "changed": false}
+{"premise": "Kala näkkas.", "choice1": "Kalamees vinnas kala välja.", "choice2": "Kalamees viskas uuesti ridva vette.", "question": "effect", "label": 0, "idx": 240, "changed": false}
+{"premise": "Teismelisel oli piinlik kooli minna.", "choice1": "Tal oli vistrik.", "choice2": "Tal võeti breketid ära.", "question": "cause", "label": 0, "idx": 241, "changed": false}
+{"premise": "Mu näoilme lõi särama.", "choice1": "Ma sain häid uudiseid.", "choice2": "Ma kaotasin oma kannatuse.", "question": "cause", "label": 0, "idx": 242, "changed": false}
+{"premise": "Ma pühkisin oma käed rätikuga.", "choice1": "Rätik oli märg.", "choice2": "Mu käed olid märjad.", "question": "cause", "label": 1, "idx": 243, "changed": false}
+{"premise": "Mees kaotas taburetil tasakaalu.", "choice1": "Taburet ta all vabises.", "choice2": "Ta kukutas taburetile värvi.", "question": "cause", "label": 0, "idx": 244, "changed": false}
+{"premise": "Meeskonna liikmed ajasid süüd üksteise kaela.", "choice1": "Nad kaotasid mängu.", "choice2": "Nende treener jättis treeningu ära.", "question": "cause", "label": 0, "idx": 245, "changed": false}
+{"premise": "Ma palusin adestust.", "choice1": "Ma kahetsesin oma viga.", "choice2": "Ma saavutasin oma eesmärgi.", "question": "cause", "label": 0, "idx": 246, "changed": false}
+{"premise": "Naisel hakkas oma kohtingukaaslasega igav.", "choice1": "Ta küsis tema kohta küsimusi.", "choice2": "Ta rääkis lakkamatult endast.", "question": "cause", "label": 1, "idx": 247, "changed": false}
+{"premise": "Tüdruk naeratas vilksamisi.", "choice1": "Ta põsed läksid punakaks.", "choice2": "Ta naerulohud ilmusid nähtavale.", "question": "effect", "label": 1, "idx": 248, "changed": false}
+{"premise": "Vaenlase laev lendas õhku.", "choice1": "See läks üle miini.", "choice2": "See seilas sadamasse.", "question": "cause", "label": 0, "idx": 249, "changed": false}
+{"premise": "Mees torkas oma jalga.", "choice1": "Ta kõndis lompi.", "choice2": "Ta astus klaasikildude peale.", "question": "cause", "label": 1, "idx": 250, "changed": false}
+{"premise": "Detektiivid otsisid kuriteopaigalt sõrmejälgi.", "choice1": "Nad avastasid mõrvari identiteedi.", "choice2": "Nad leidsid kuriteopaigast relva.", "question": "effect", "label": 0, "idx": 251, "changed": false}
+{"premise": "Maanteel oli tihe liiklus.", "choice1": "Ma tegin ümbersõidu.", "choice2": "Ma palusin, et mind ära visataks.", "question": "effect", "label": 0, "idx": 252, "changed": false}
+{"premise": "Riigi majandus langes.", "choice1": "Paljud inimesed jäid haigeks.", "choice2": "Paljud inimesed seisid silmitsi töötusega.", "question": "effect", "label": 1, "idx": 253, "changed": false}
+{"premise": "Ülekäiguraja valvur puhus laste peale vilet.", "choice1": "Nad olid kõndimas lähenevasse liiklusesse.", "choice2": "Ta tundis neid oma naabruskonnast ära.", "question": "cause", "label": 0, "idx": 254, "changed": false}
+{"premise": "Ma pööritasin oma sõbra peale silmi.", "choice1": "Ta rääkis mulle tõtt.", "choice2": "Ta tegi sarkastilise märkuse.", "question": "cause", "label": 1, "idx": 255, "changed": false}
+{"premise": "Autol sai bensiin otsa.", "choice1": "Juht oli abitult tee peal.", "choice2": "Juht võttis hääletaja peale.", "question": "effect", "label": 0, "idx": 256, "changed": false}
+{"premise": "Naine hakkas sünnitama.", "choice1": "Tita sündis.", "choice2": "Naisel oli hommikune iiveldus.", "question": "effect", "label": 0, "idx": 257, "changed": false}
+{"premise": "Mehe müts puhuti ära.", "choice1": "Ta võttis oma mütsi ära.", "choice2": "Õues oli tuuline.", "question": "cause", "label": 1, "idx": 258, "changed": false}
+{"premise": "Tüdruk käis klassikaaslase sünnipäevapeol.", "choice1": "Ta sai kutse.", "choice2": "Ta ostis kingituse.", "question": "cause", "label": 0, "idx": 259, "changed": false}
+{"premise": "Poisi otsmik oli kuum.", "choice1": "Ta ema kraadis teda.", "choice2": "Ta ema viis ta parki.", "question": "effect", "label": 0, "idx": 260, "changed": false}
+{"premise": "Mees pihustas end odekolonniga.", "choice1": "Ta tahtis oma kohtingukaaslasele muljet avaldada.", "choice2": "Ta pani oma juustesse geeli.", "question": "cause", "label": 0, "idx": 261, "changed": false}
+{"premise": "Majas läks elekter ära.", "choice1": "Ma otsisin taskulampi.", "choice2": "Ma võtsin labida kätte.", "question": "effect", "label": 0, "idx": 262, "changed": false}
+{"premise": "Pere kolis suuremasse majja.", "choice1": "Poeg lõpetas keskkooli.", "choice2": "Ema sünnitas kaksikud.", "question": "cause", "label": 1, "idx": 263, "changed": false}
+{"premise": "Maratonijooksja hoidis rahulikku tempot.", "choice1": "Ta tahtis oma energiat kokku hoida.", "choice2": "Ta nägi finišijoont.", "question": "cause", "label": 0, "idx": 264, "changed": false}
+{"premise": "Poiss lõi müügiautomaati jalaga.", "choice1": "Müügiautomaat sülitas ta vahetusraha välja.", "choice2": "Krõpsukott oli kinni.", "question": "cause", "label": 1, "idx": 265, "changed": false}
+{"premise": "Mu sõbra koer suri.", "choice1": "Ma pööritasin tema peale silmi.", "choice2": "Ma tegin talle kalli.", "question": "effect", "label": 1, "idx": 266, "changed": false}
+{"premise": "Ärimehe krediitkaart lükati tagasi.", "choice1": "Ta kirjutas võlakirja.", "choice2": "Ta maksis sularahas.", "question": "effect", "label": 1, "idx": 267, "changed": false}
+{"premise": "Mees vandus.", "choice1": "Ta lõikas oma küüsi.", "choice2": "Ta lõi oma varba ära.", "question": "cause", "label": 1, "idx": 268, "changed": false}
+{"premise": "Mees tundis oma vene üle uhkust.", "choice1": "Ta vend vaidles nende vanematega.", "choice2": "Ta vend sai õigusteduskonda sisse.", "question": "cause", "label": 1, "idx": 269, "changed": false}
+{"premise": "Tüdruk tahtis päikesesüsteemi kohta õppida.", "choice1": "Ta läks raamatukokku.", "choice2": "Ta vaatas tähti.", "question": "effect", "label": 0, "idx": 270, "changed": true}
+{"premise": "Poster jäi seinale kinni.", "choice1": "Ma paigutasin postri ukse kohale.", "choice2": "Ma panin kleeplinti postri tagaküljele.", "question": "cause", "label": 1, "idx": 271, "changed": false}
+{"premise": "Klient kiitis arhitekti hoone plaanid heaks.", "choice1": "Arhitekst konstrueeris hoone.", "choice2": "Arhitekt kohandas plaane.", "question": "effect", "label": 0, "idx": 272, "changed": false}
+{"premise": "Mees kukutas oma lusika maha.", "choice1": "Ta käed värisesid.", "choice2": "Ta limpsis lusikat.", "question": "cause", "label": 0, "idx": 273, "changed": false}
+{"premise": "Firma tegevdirector astus tagasi.", "choice1": "Juhatus lõpetas firma tegevuse.", "choice2": "Juhatus leidis talle asenduse.", "question": "effect", "label": 1, "idx": 274, "changed": false}
+{"premise": "Ma jäin loengusse hiljaks.", "choice1": "Ma istusin tagaritta.", "choice2": "Ma lähenesin poodiumile.", "question": "effect", "label": 0, "idx": 275, "changed": false}
+{"premise": "Mees sai vangist välja.", "choice1": "Ta pere maksis ta kautsjoni.", "choice2": "Ta ründas kaasvangi.", "question": "cause", "label": 0, "idx": 276, "changed": false}
+{"premise": "Pere kaotas kõik oma asjad.", "choice1": "Nad müüsid oma maja.", "choice2": "Maja läks põlema.", "question": "cause", "label": 1, "idx": 277, "changed": false}
+{"premise": "Ma trampisin alumiiniumpurgil.", "choice1": "Purk taastöödeldi.", "choice2": "Purk litsuti laiaks.", "question": "effect", "label": 1, "idx": 278, "changed": false}
+{"premise": "Tüdruk ühines väitlusmeeskonnaga.", "choice1": "Ta õppis arvutit kasutama.", "choice2": "Ta õppis suhtlusoskusi.", "question": "effect", "label": 1, "idx": 279, "changed": false}
+{"premise": "Mu tuju paranes.", "choice1": "Ma kuulasin muusikat.", "choice2": "Ma pesin nõud.", "question": "cause", "label": 0, "idx": 280, "changed": false}
+{"premise": "Heategevusorganisatsioon seadis eesmärgiks raha koguda.", "choice1": "Nad toitsid kodutuid.", "choice2": "Nad korraldasid oksjoni.", "question": "effect", "label": 1, "idx": 281, "changed": false}
+{"premise": "Ameerika mägede rong sööstis järsust langusest alla.", "choice1": "Reisida itsitasid.", "choice2": "Reisijad karjusid.", "question": "effect", "label": 1, "idx": 282, "changed": false}
+{"premise": "Ma olin maruvihane.", "choice1": "Ma kontrollisin majast lahkudes postkasti.", "choice2": "Ma lõin majast lahkudes ukse pauguga kinni.", "question": "effect", "label": 1, "idx": 283, "changed": false}
+{"premise": "Mees tahtis päikesetõusu vaadata.", "choice1": "Ta reisis põhja.", "choice2": "Ta tõusis vara.", "question": "effect", "label": 1, "idx": 284, "changed": false}
+{"premise": "Ma voltisin paberit.", "choice1": "Ma taastöötlesin paberit.", "choice2": "Paber kortsus.", "question": "effect", "label": 1, "idx": 285, "changed": false}
+{"premise": "Riik elas looduskatastroofi üle.", "choice1": "Teiset riikide juhid moodustasid liidu.", "choice2": "Teiste riikide juhid saatsid hädaabi.", "question": "effect", "label": 1, "idx": 286, "changed": false}
+{"premise": "Poisi riided olid läbimärjad.", "choice1": "Ta ronis basseinist välja.", "choice2": "Ta kukkus basseini.", "question": "cause", "label": 1, "idx": 287, "changed": false}
+{"premise": "Õpilane kiirustas raamatu lõpetamisega.", "choice1": "See tuli raamatukokku tagasi viia.", "choice2": "Ta laenas selle sõbralt.", "question": "cause", "label": 0, "idx": 288, "changed": false}
+{"premise": "Kurjategija hukati.", "choice1": "Ta pandi vangi.", "choice2": "Ta pani toime mõrva.", "question": "cause", "label": 1, "idx": 289, "changed": false}
+{"premise": "Päikesevalgus kandus ruumi.", "choice1": "Ma tõmbasin kardinad eest.", "choice2": "Ma tegi ukse lukust lahti.", "question": "cause", "label": 0, "idx": 290, "changed": false}
+{"premise": "Ma sikutasid petise juukseid.", "choice1": "Ta parukas tuli ära.", "choice2": "Ta jäi kiilaks.", "question": "effect", "label": 0, "idx": 291, "changed": false}
+{"premise": "Toimetaja muutis käsikirjas lause sõnastust.", "choice1": "Ta leidis, et käsikiri oli mõjuv.", "choice2": "Ta pidas lauset ebaselgeks.", "question": "cause", "label": 1, "idx": 292, "changed": false}
+{"premise": "Naine pani oma krediitkaardi konto kinni.", "choice1": "Ta avastas, et ta kaart oli kadunud.", "choice2": "Ta avastas, et ta kaart oli aegunud.", "question": "cause", "label": 0, "idx": 293, "changed": false}
+{"premise": "Mees ja naine armusid.", "choice1": "Nad käisid kõrgkoolis.", "choice2": "Nad abiellusid.", "question": "effect", "label": 1, "idx": 294, "changed": false}
+{"premise": "Muusika oli liiga ähmane, et kuulda.", "choice1": "Ma keerasin volüümi juurde.", "choice2": "Ma komponeerisin oma enda laulu.", "question": "effect", "label": 0, "idx": 295, "changed": false}
+{"premise": "Poisi juuksed hoidsid püsti.", "choice1": "Tüdruk sasis neid.", "choice2": "Tüdruk tõmbas neid.", "question": "cause", "label": 0, "idx": 296, "changed": false}
+{"premise": "Putukas lömastati.", "choice1": "Ma pihustasin endale putukatõrjevahendit peale.", "choice2": "Ma astusin putukale peale.", "question": "cause", "label": 1, "idx": 297, "changed": false}
+{"premise": "Ma avasin oma silmad.", "choice1": "Ma ärkasin.", "choice2": "Ma lõõgastusin.", "question": "cause", "label": 0, "idx": 298, "changed": false}
+{"premise": "Mu naabri muusika oli kõrvulukustav.", "choice1": "Ma palusin tal see vaiksemaks panna.", "choice2": "Ma palusin talt CD'd laenuks.", "question": "effect", "label": 0, "idx": 299, "changed": false}
+{"premise": "Mehe pere elas vaesuses.", "choice1": "Ta oli oma teenituga kokkuhoidlik.", "choice2": "Ta teenis alla miinimumpalga.", "question": "cause", "label": 1, "idx": 300, "changed": false}
+{"premise": "Õpilane lõpetas ülikooli.", "choice1": "Ta otsis tööd.", "choice2": "Ta alustas hobiga.", "question": "effect", "label": 0, "idx": 301, "changed": false}
+{"premise": "Kunstnik segas kollase ja sinise värvi.", "choice1": "Värv pritsis igale poole.", "choice2": "Värv muutus roheliseks.", "question": "effect", "label": 1, "idx": 302, "changed": false}
+{"premise": "Ma vahetasin vestlusteemat.", "choice1": "Mul said otsa asjad, millest rääkida.", "choice2": "Vestlus muutus pingeliseks.", "question": "cause", "label": 1, "idx": 303, "changed": false}
+{"premise": "Mu vend sai haiglast välja.", "choice1": "Ma võtsin ta soojalt kodus vastu.", "choice2": "Ma kohtlesin teda külmalt.", "question": "effect", "label": 0, "idx": 304, "changed": false}
+{"premise": "Eesriie tõusis.", "choice1": "Näidendi avastseen algas.", "choice2": "Näidendi näitlejad lahkusid lavalt.", "question": "effect", "label": 0, "idx": 305, "changed": false}
+{"premise": "Pantvang alistus inimröövija käskudele.", "choice1": "Inimröövija ähvardas pantvangile haiget teha.", "choice2": "Inimröövija jättis pantvangi omapead.", "question": "cause", "label": 0, "idx": 306, "changed": false}
+{"premise": "Kõmin kajas üle lava.", "choice1": "Muusik koputas jalaga vastu maas.", "choice2": "Muusik lõi tagus trummi.", "question": "cause", "label": 1, "idx": 307, "changed": false}
+{"premise": "Vanemad kiirustasid oma lapse magamistuppa.", "choice1": "Laps ärkas õudusunenäo pealt karjudes üles.", "choice2": "Laps kartis oma voodi alla vaadata.", "question": "cause", "label": 0, "idx": 308, "changed": false}
+{"premise": "Naine suhtles viipekeeles.", "choice1": "Ta sündis enneaegselt.", "choice2": "Ta sündis kurdina.", "question": "cause", "label": 1, "idx": 309, "changed": false}
+{"premise": "Piirkonnas ilmnes põud.", "choice1": "Vesi muutus saastatuks.", "choice2": "Saak hävis.", "question": "effect", "label": 1, "idx": 310, "changed": false}
+{"premise": "Kass jahtis lindu.", "choice1": "Lind lendas ära.", "choice2": "Lind püüdis ussikese kinni.", "question": "effect", "label": 0, "idx": 311, "changed": false}
+{"premise": "Tüdruk vahetas kooli.", "choice1": "Koolist oli suveks vabadus.", "choice2": "Ta kolis uude linna.", "question": "cause", "label": 1, "idx": 312, "changed": false}
+{"premise": "Tehase omanik keeldus töötajate palka tõstmast.", "choice1": "Omanik nimetas ametisse uue juhataja.", "choice2": "Töötajad streikisid.", "question": "effect", "label": 1, "idx": 313, "changed": false}
+{"premise": "Juht seisis vastu oma riigi ekstremistidele.", "choice1": "Ekstremistid mõjutasid teda.", "choice2": "Ekstramistid mõrvasid ta.", "question": "effect", "label": 1, "idx": 314, "changed": false}
+{"premise": "Ma kõndisin paljajalu rannal.", "choice1": "Liiv jäi mu jalgade külge.", "choice2": "Lained laksusid mööda kallast.", "question": "effect", "label": 0, "idx": 315, "changed": false}
+{"premise": "Ma ärkasin keset ööd külmatunde peale üles.", "choice1": "Ma panin dressipüksid jalga.", "choice2": "Ma jõin klaasi vett.", "question": "effect", "label": 0, "idx": 316, "changed": false}
+{"premise": "Ema vaigistas oma poega.", "choice1": "Ta poeg irvitas.", "choice2": "Ta poeg vingus.", "question": "cause", "label": 1, "idx": 317, "changed": false}
+{"premise": "Mu pükstesse rebenes auk.", "choice1": "Ma panin oma pükste luku kinni.", "choice2": "Ma kukkusin asfaltil pikali.", "question": "cause", "label": 1, "idx": 318, "changed": false}
+{"premise": "Poiss kandis breketeid.", "choice1": "Ta sai hambaugu.", "choice2": "Ta hambad muutusid sirgeks.", "question": "effect", "label": 1, "idx": 319, "changed": false}
+{"premise": "Ma tegin eile jõusaalis trenni.", "choice1": "Ma ärkasin täna üles lihasvaluga.", "choice2": "Ma ärkasin täna üles valusa kurguga.", "question": "effect", "label": 0, "idx": 320, "changed": false}
+{"premise": "Tüdrukud sosistasid lõunalauas omavahel edasi-tagasi.", "choice1": "Teised õpilased istusid lõunalauda maha.", "choice2": "Teised õpilased lõunalauas tundsid end kõrvalejäetult.", "question": "effect", "label": 1, "idx": 321, "changed": false}
+{"premise": "Laps maandus batuudile.", "choice1": "Ta lendas tagasi üles õhku.", "choice2": "Ta otsustas saltod proovida.", "question": "effect", "label": 0, "idx": 322, "changed": false}
+{"premise": "Ma panin kirja kirjakasti.", "choice1": "Postkontor toimetas kirja kohale.", "choice2": "Postkontor vaatas kirja kiiresti läbi.", "question": "effect", "label": 0, "idx": 323, "changed": false}
+{"premise": "Hasartmängur oli enesekindel.", "choice1": "Ta vedas kihla kogu oma raha peale.", "choice2": "Ta läks koju pankrotis.", "question": "effect", "label": 0, "idx": 324, "changed": false}
+{"premise": "Metsatulekahju levis.", "choice1": "Tuuled muutusid tugevamaks.", "choice2": "Süütajad tabati.", "question": "cause", "label": 0, "idx": 325, "changed": false}
+{"premise": "Lapsel tuli põlve pealt nahk maha.", "choice1": "Ta ema saatis ta oma tuppa.", "choice2": "Ta ema pani sideme ta haavale.", "question": "effect", "label": 1, "idx": 326, "changed": false}
+{"premise": "Mees elas surmava haiguse üle.", "choice1": "Ta allkirjastas oma testamendi.", "choice2": "Talle siirdati elund.", "question": "cause", "label": 1, "idx": 327, "changed": false}
+{"premise": "Ma võtsin lonksu kõrvetavat kohvi.", "choice1": "Ma hammustasin keelde.", "choice2": "Ma põletasin oma keele.", "question": "effect", "label": 1, "idx": 328, "changed": true}
+{"premise": "Toimetaja lasi kirjaniku lahti.", "choice1": "Kirjanik vältis oma lugudes eelarvamusi.", "choice2": "Kirjanik ei pidanud olulisest tähtajast kinni.", "question": "cause", "label": 1, "idx": 329, "changed": false}
+{"premise": "Ma tundsin end rampväsinult.", "choice1": "Ma magasin terve päeva.", "choice2": "Ma õppisin terve päeva.", "question": "cause", "label": 1, "idx": 330, "changed": false}
+{"premise": "Arst pani patsiendile diagnoosi.", "choice1": "Ta tuvastas patsiendi sümptomid.", "choice2": "Ta kirjutas patsiendile tabletid välja.", "question": "cause", "label": 0, "idx": 331, "changed": false}
+{"premise": "Ma kratsisin oma nahka.", "choice1": "See oli higine.", "choice2": "See sügeles.", "question": "cause", "label": 1, "idx": 332, "changed": false}
+{"premise": "Mehele tehti erakorraline operatsioon.", "choice1": "Ta kaotas kannatuse.", "choice2": "Tal oli südamerabandus.", "question": "cause", "label": 1, "idx": 333, "changed": false}
+{"premise": "Mehe käelihased olid punnis.", "choice1": "Ta painutas oma käsi.", "choice2": "Ta hõõrus oma käsi.", "question": "cause", "label": 0, "idx": 334, "changed": false}
+{"premise": "Mees kergitas kulmu.", "choice1": "Ta oli üllatunud.", "choice2": "Ta tundis end heidutatult.", "question": "cause", "label": 0, "idx": 335, "changed": false}
+{"premise": "Ma andestasin kolleegile ta eksituse.", "choice1": "Ma uskusin, et ta soovis head.", "choice2": "Ma uskusin, et ta teeb heal ja halval vahet.", "question": "cause", "label": 0, "idx": 336, "changed": false}
+{"premise": "Mees jättis suitsetamise maha.", "choice1": "Ta hakkas rohkem trenni tegema.", "choice2": "Ta hakkas varem ärkama.", "question": "effect", "label": 0, "idx": 337, "changed": false}
+{"premise": "Naine lõi oma ründajale vastu nina.", "choice1": "Ründaja keha muutus elutuks.", "choice2": "Ründaja hakkas veritsema.", "question": "effect", "label": 1, "idx": 338, "changed": false}
+{"premise": "Nool ei tabanud märklaua keskkohta.", "choice1": "Mehe sihtimine oli mööda.", "choice2": "Mees kaotas mängu.", "question": "cause", "label": 0, "idx": 339, "changed": false}
+{"premise": "Maja omanik palus, et parasiitide tõrjuja ta majja tuleks.", "choice1": "Ta avastas keldrist rotid.", "choice2": "Ta pidas oma toas sipelgafarmi.", "question": "cause", "label": 0, "idx": 340, "changed": false}
+{"premise": "Ma pakkusin oma külalisele välja, et läheksime välja õhtust sööma.", "choice1": "Ma olin liiga väsinud, et midagi valmistada.", "choice2": "Mu külaline jäi lubatuks kauemaks minu juurde.", "question": "cause", "label": 0, "idx": 341, "changed": false}
+{"premise": "Tüdruk sattus peale, kui ta vend ta päevikud luges.", "choice1": "Ta hakkas päevikut peitma.", "choice2": "Ta ostis omale uue päeviku.", "question": "effect", "label": 0, "idx": 342, "changed": false}
+{"premise": "Naisel jäi üürirahast puudu.", "choice1": "Ta tegi tööl ületunde.", "choice2": "Ta tuli töölt ära.", "question": "effect", "label": 0, "idx": 343, "changed": true}
+{"premise": "Laps tõmbas käe kähku tagasi.", "choice1": "Ta läks kuumale pliidile vastu.", "choice2": "Ta patsutas kutsika pead.", "question": "cause", "label": 0, "idx": 344, "changed": false}
+{"premise": "Firma tahtis klientide rahulolu mõõta.", "choice1": "Nad pakkusid uutele klientidele allahindlust.", "choice2": "Nad saatsid klientidele küsimustiku laiali.", "question": "effect", "label": 1, "idx": 345, "changed": false}
+{"premise": "Puupõrandale tulid kriimud.", "choice1": "Poiss viskas padjad diivani pealt maha.", "choice2": "Poiss vedas tooli mööda põrandat.", "question": "cause", "label": 1, "idx": 346, "changed": false}
+{"premise": "Ma varjasin oma nägu.", "choice1": "Mu vaenlane mõnitas mind.", "choice2": "Mu vaenlane ajas rusika püsti.", "question": "cause", "label": 1, "idx": 347, "changed": false}
+{"premise": "Kuulus kuju põles maha.", "choice1": "See sai välgutabamuse.", "choice2": "Inimesed tulid seda austama.", "question": "cause", "label": 0, "idx": 348, "changed": false}
+{"premise": "Ma jätsin puuvilja lauale.", "choice1": "Puuvili levitas seemneid.", "choice2": "Kärbsed kihasid puuvilja ümber.", "question": "effect", "label": 1, "idx": 349, "changed": false}
+{"premise": "Baleriin tõmbas sideme ära.", "choice1": "Ta sirutas oma varbad välja.", "choice2": "Ta väänas oma hüppeliigese välja.", "question": "cause", "label": 1, "idx": 350, "changed": false}
+{"premise": "Lapsel tulid kingapaelad lahti.", "choice1": "Ta õppis, kuidas neid siduda.", "choice2": "Ta jooksis mänguvaljakul ringi.", "question": "cause", "label": 1, "idx": 351, "changed": true}
+{"premise": "Raamat kütkestas mind.", "choice1": "Ma viisin raamatu tagasi.", "choice2": "Ma kaotasin ajataju.", "question": "effect", "label": 1, "idx": 352, "changed": false}
+{"premise": "Mees uskus sarnastesse asjadesse nagu tema vanemad.", "choice1": "Ta vanemad mõjutasid teda.", "choice2": "Ta vanemad tõukasid ta ära.", "question": "cause", "label": 0, "idx": 353, "changed": false}
+{"premise": "Auto aeglustas tasapisi kuni peatumiseni.", "choice1": "Sel sai bensiin otsa.", "choice2": "Juht uinus.", "question": "cause", "label": 0, "idx": 354, "changed": false}
+{"premise": "Mees sõi päikese käes jäätist.", "choice1": "Jäätis kaotas oma maitse.", "choice2": "Jäätis tilkus koonuse otsast.", "question": "effect", "label": 1, "idx": 355, "changed": false}
+{"premise": "Ma riputasin kunsti tuppa.", "choice1": "Vaip nägi must välja.", "choice2": "Seinad tundusid paljad.", "question": "cause", "label": 1, "idx": 356, "changed": false}
+{"premise": "Ma lahkusin töölt vara.", "choice1": "Mul oli peavalu.", "choice2": "Mu ülemus korraldas koosoleku.", "question": "cause", "label": 0, "idx": 357, "changed": false}
+{"premise": "Kutsikas tegi vaiba täis.", "choice1": "Omanik riidles kutsikaga.", "choice2": "Omanik andis kutsikale maiust.", "question": "effect", "label": 0, "idx": 358, "changed": false}
+{"premise": "Ma vabandasin oma sõbra ees.", "choice1": "Mu sõber andestas mulle.", "choice2": "Mu sõber läks marru.", "question": "effect", "label": 0, "idx": 359, "changed": false}
+{"premise": "Mees paistis rahva hulgast silma.", "choice1": "Ta kandis seljakotti.", "choice2": "Ta kandis neoonvesti.", "question": "cause", "label": 1, "idx": 360, "changed": false}
+{"premise": "Tunnistaja valetas vande all.", "choice1": "Ta lõpetas oma tunnistuse.", "choice2": "Teda süüdistati valetunnistuse andmises.", "question": "effect", "label": 1, "idx": 361, "changed": false}
+{"premise": "Naine värvis oma juuksed ära.", "choice1": "Ta tahtis uut moodi välja näha.", "choice2": "Ta tahtis sisse sulanduda.", "question": "cause", "label": 0, "idx": 362, "changed": false}
+{"premise": "Immigrandid jäid riigis ebaseaduslikult resideerumisega vahele.", "choice1": "Nad leidsid töö.", "choice2": "Nad saadeti riigist välja.", "question": "effect", "label": 1, "idx": 363, "changed": false}
+{"premise": "Avalik esineja viskas nalja.", "choice1": "Publik naeris.", "choice2": "Publik tõusis püsti.", "question": "effect", "label": 0, "idx": 364, "changed": false}
+{"premise": "Ma vaatasin päiksesse.", "choice1": "Päike pimestas mind.", "choice2": "Päike päevitas mu nahka.", "question": "effect", "label": 0, "idx": 365, "changed": false}
+{"premise": "Mul oli igav.", "choice1": "Ma mühatasin.", "choice2": "Ma haigutasin.", "question": "effect", "label": 1, "idx": 366, "changed": false}
+{"premise": "Steiki oli raske lõigata.", "choice1": "Nuga oli nüri.", "choice2": "Steil oli toores.", "question": "cause", "label": 0, "idx": 367, "changed": false}
+{"premise": "Naine kuulutas välja pankroti.", "choice1": "Ta sai alimente.", "choice2": "Tal oli hiigelsuur võlg.", "question": "cause", "label": 1, "idx": 368, "changed": false}
+{"premise": "Mu sõbra korteris põlesid tuled.", "choice1": "Ma tundsin huvi, et kas ta on väljas.", "choice2": "Ma otsustasin talle külla minna.", "question": "effect", "label": 1, "idx": 369, "changed": false}
+{"premise": "Ma panin lille oma nina alla.", "choice1": "Lille kroonlehed tulid ära.", "choice2": "Ma tundsid lillelõhna.", "question": "effect", "label": 1, "idx": 370, "changed": false}
+{"premise": "Naine tundis end nostalgiliselt.", "choice1": "Ta kohtas lapsepõlvesõpra.", "choice2": "Ta karjus oma laste peale.", "question": "cause", "label": 0, "idx": 371, "changed": false}
+{"premise": "Õpilane lükkas kirjatööd edasi.", "choice1": "Ta esitas kirjatöö vara.", "choice2": "Ta esitas poolelioleva kirjatöö.", "question": "effect", "label": 1, "idx": 372, "changed": false}
+{"premise": "Mu auto läks katki.", "choice1": "Ma läksin kaubanduskeskusesse.", "choice2": "Ma helistasin mehaanikule.", "question": "effect", "label": 1, "idx": 373, "changed": false}
+{"premise": "Ma heitsin märkuse kõrvale.", "choice1": "See oli anonüümne.", "choice2": "See oli illegaalne.", "question": "cause", "label": 1, "idx": 374, "changed": true}
+{"premise": "Lind laksutas oma tiibu.", "choice1": "Ta mnes.", "choice2": "Ta tõusis ülespoole.", "question": "effect", "label": 1, "idx": 375, "changed": false}
+{"premise": "Ma parkisin sissesõiduteel.", "choice1": "Garaaž oli lahti.", "choice2": "Garaaž oli täis.", "question": "cause", "label": 1, "idx": 376, "changed": false}
+{"premise": "Kurjategija suunas oma relva ohvri peale.", "choice1": "Kurjategija pani relva maha.", "choice2": "Ohver tõstis käed üles.", "question": "effect", "label": 1, "idx": 377, "changed": false}
+{"premise": "Ma ootasin pikisilmi nädalavahetust.", "choice1": "Mul oli plaanis oma onu matustele minna.", "choice2": "Mul oli plaanis oma sõbra pulma minna.", "question": "cause", "label": 1, "idx": 378, "changed": false}
+{"premise": "Ma kaotasin ajataju.", "choice1": "Ma unistasin.", "choice2": "Mul iiveldas.", "question": "cause", "label": 0, "idx": 379, "changed": false}
+{"premise": "Dokument printis loetamatult.", "choice1": "Printeris oli vähe tinti.", "choice2": "Printeris oli paber otsas.", "question": "cause", "label": 0, "idx": 380, "changed": false}
+{"premise": "Staadion mängis riighümni.", "choice1": "Fännid pöörasid lipu poole.", "choice2": "Fännid tormasid väljakule.", "question": "effect", "label": 0, "idx": 381, "changed": false}
+{"premise": "Dipp maitses mage.", "choice1": "Ma serveerisin seda.", "choice2": "Ma panin soola juurde.", "question": "effect", "label": 1, "idx": 382, "changed": false}
+{"premise": "Ma panin paberrätiku mahaläinud vedeliku peale.", "choice1": "Rätik imas vett sisse.", "choice2": "Mahaläinud vedelik jättis kleepuva jälje.", "question": "effect", "label": 0, "idx": 383, "changed": false}
+{"premise": "Naisele segati poole raamatu lugemise pealt vahele.", "choice1": "Ta pani järjehoidja oma lehekülje vahale.", "choice2": "Ta luges raamatu uuesti.", "question": "effect", "label": 0, "idx": 384, "changed": false}
+{"premise": "Lennuk sattus turbulentsi.", "choice1": "Mees pani oma turvavöö kinni.", "choice2": "Mees vaatas aknast välja.", "question": "effect", "label": 0, "idx": 385, "changed": false}
+{"premise": "Poiss võpatas.", "choice1": "Tüdruk ignoreeris teda.", "choice2": "Tüdruk torkas teda.", "question": "cause", "label": 1, "idx": 386, "changed": false}
+{"premise": "Arstid andsid patsiendile tehisjäseme.", "choice1": "Nad amputeerisid ta jala.", "choice2": "Nad jälgisid tema elutähtsaid organeid.", "question": "cause", "label": 0, "idx": 387, "changed": false}
+{"premise": "Poiss näpistas tüdruku õlga.", "choice1": "Ta kehitas tema suunas õlgu.", "choice2": "Ta tõmbas oma käe tema juurest ära.", "question": "effect", "label": 1, "idx": 388, "changed": false}
+{"premise": "Ma küsisin oma sõbralt nõu.", "choice1": "Mulle hindasin tema arvamust.", "choice2": "Ma teadsin, et tal on õigus.", "question": "cause", "label": 0, "idx": 389, "changed": false}
+{"premise": "Poiss astus mutta.", "choice1": "Muda jäi ta kinga külge kinni.", "choice2": "Muda tabas teda näkku.", "question": "effect", "label": 0, "idx": 390, "changed": false}
+{"premise": "Linnas sadas mõned tollid lund maha.", "choice1": "Koolid sulgesid.", "choice2": "Inimesed peitsid end maa alla.", "question": "effect", "label": 0, "idx": 391, "changed": false}
+{"premise": "Töötaja vahetus lõppes.", "choice1": "Ta läks selleks päevaks koju.", "choice2": "Ta ähvardas oma töölt lahkuda.", "question": "effect", "label": 0, "idx": 392, "changed": false}
+{"premise": "Puu kahjustas maja.", "choice1": "Puu kukkus katusele.", "choice2": "Puu varjutas tagaaeda.", "question": "cause", "label": 0, "idx": 393, "changed": false}
+{"premise": "Puit läks pooleks.", "choice1": "Ma kuhjasin puud kaminasse.", "choice2": "Ma lõin kirve puusse.", "question": "cause", "label": 1, "idx": 394, "changed": false}
+{"premise": "Perekond õnnitles paarikest.", "choice1": "Paarike teatas, et nad lahutavad.", "choice2": "Paarike teatas, et nad saavad lapse.", "question": "cause", "label": 1, "idx": 395, "changed": false}
+{"premise": "Tüdruk saatis poisile sõbrapäeva kaardi.", "choice1": "Ta meeldis talle.", "choice2": "Ta suudles teda.", "question": "cause", "label": 0, "idx": 396, "changed": false}
+{"premise": "Ma noogutasin oma sõbra avalduse peale pead.", "choice1": "Ma olin segaduses.", "choice2": "Ma nõustusin temaga.", "question": "cause", "label": 1, "idx": 397, "changed": false}
+{"premise": "Sõbrad viskasid kulli ja kirja.", "choice1": "Nad tahtsid leida kompromissi.", "choice2": "Nad tahtsid teha ausa otsuse.", "question": "cause", "label": 1, "idx": 398, "changed": false}
+{"premise": "Taimer köögis hakkas töööle.", "choice1": "Mees pakkis toidukaubad külmikusse lahti.", "choice2": "Mees võttis pitsa ahjust välja.", "question": "effect", "label": 1, "idx": 399, "changed": false}
+{"premise": "Naine seadis ambitsioonika eesmärgi.", "choice1": "Ta logeles.", "choice2": "Ta tegi kõvasti tööd.", "question": "effect", "label": 1, "idx": 400, "changed": false}
+{"premise": "Jõukas mees suri vanadusse.", "choice1": "Ta poeg sattus juriidilistesse probleemidesse.", "choice2": "Ta poeg päris ta varanduse.", "question": "effect", "label": 1, "idx": 401, "changed": false}
+{"premise": "Naine trampis leekidel.", "choice1": "Leegid kustusid.", "choice2": "Leekidest tõusis suitsu.", "question": "effect", "label": 0, "idx": 402, "changed": false}
+{"premise": "Naise auto oli töökojas.", "choice1": "Ta autojuhiload peatati.", "choice2": "Ta sattus autoõnnetusse.", "question": "cause", "label": 1, "idx": 403, "changed": false}
+{"premise": "Ma ei kuulnud oma äratuskella.", "choice1": "Ma tegin hommikusööki.", "choice2": "Ma magasin hommikusöögi maha.", "question": "effect", "label": 1, "idx": 404, "changed": false}
+{"premise": "Avaliku elu tegelane tuli limusiinist välja.", "choice1": "Kaamerad välgutasid tema suunas.", "choice2": "Ta pere osales pressikonverentsil.", "question": "effect", "label": 0, "idx": 405, "changed": false}
+{"premise": "Naine logeles vannis.", "choice1": "Vannivesi muutus leigeks.", "choice2": "Vannivesi voolas vannist välja.", "question": "effect", "label": 0, "idx": 406, "changed": false}
+{"premise": "Kõrgkooli õpilased tahtsid kohtuda teiste õpilastega ülikoolilinnakus.", "choice1": "Nad ühinesid korporatsiooniga.", "choice2": "Nad võtsid inseneeria põhiaineks.", "question": "effect", "label": 0, "idx": 407, "changed": false}
+{"premise": "Ma tõstsin diivanipadjad üles.", "choice1": "Ma otsisin lahtist vahetusraha.", "choice2": "Ma paigutasin elutuba ümber.", "question": "cause", "label": 0, "idx": 408, "changed": false}
+{"premise": "Herilane lenda poisi poole.", "choice1": "Poiss jooksis ära.", "choice2": "Poiss korjas lille.", "question": "effect", "label": 0, "idx": 409, "changed": false}
+{"premise": "Naine mõisteti väärteos süüdi.", "choice1": "Talle mõisteti üldkasulik töö.", "choice2": "Ta määrati surma.", "question": "effect", "label": 0, "idx": 410, "changed": false}
+{"premise": "Ma segasin suhkrut kuuma teesse.", "choice1": "Tee auras.", "choice2": "Suhkur sulas.", "question": "effect", "label": 1, "idx": 411, "changed": false}
+{"premise": "Veteran lonkas.", "choice1": "Ta oli sõtta värvatud.", "choice2": "Ta oli lahingus vigastada saanud.", "question": "cause", "label": 1, "idx": 412, "changed": false}
+{"premise": "Kurjategija jooksis politsei eest ära.", "choice1": "Politsei tegeles ohvriga.", "choice2": "Politsei jälitas kurjategijat.", "question": "effect", "label": 1, "idx": 413, "changed": false}
+{"premise": "Sülearvuti ei läinud tööle.", "choice1": "Ma kukutasin selle maha.", "choice2": "Ma laadisin seda.", "question": "cause", "label": 0, "idx": 414, "changed": false}
+{"premise": "Naisel sai kapis ruum otsa.", "choice1": "Ta soetas laialdase riidevaliku.", "choice2": "Ta voltis oma pesu kokku.", "question": "cause", "label": 0, "idx": 415, "changed": false}
+{"premise": "Mehe süda oli murtud.", "choice1": "Ta naine sünnitas.", "choice2": "Ta naine jättis ta maha.", "question": "cause", "label": 1, "idx": 416, "changed": false}
+{"premise": "Mees omandas kraadi.", "choice1": "Ta muutus kvalifitseerituks töö jaoks, mida ta tahtis.", "choice2": "Ta tööpakkumine tühistati.", "question": "effect", "label": 0, "idx": 417, "changed": false}
+{"premise": "Mehe hääl kandus selgelt üle auditoorimi.", "choice1": "Ta tervitas publikut.", "choice2": "Ta rääkis mikrofoni.", "question": "cause", "label": 1, "idx": 418, "changed": false}
+{"premise": "Ma viskasin mündi purskkaevu.", "choice1": "Münt vajus põhja.", "choice2": "Münt läks pooleks.", "question": "effect", "label": 0, "idx": 419, "changed": false}
+{"premise": "Mängija lõi palli augu suunas.", "choice1": "Pall läks auku.", "choice2": "Pall tõmbus tagasi mängija juurde.", "question": "effect", "label": 0, "idx": 420, "changed": false}
+{"premise": "Ma hingasin pööningul olevat tolmu sisse.", "choice1": "Ma luksusin.", "choice2": "Ma aevastasin.", "question": "effect", "label": 1, "idx": 421, "changed": false}
+{"premise": "Poe kassapidaja kutsus turvatöötaja.", "choice1": "Klient kasutas valeraha.", "choice2": "Klient jättis esituled sisse.", "question": "cause", "label": 0, "idx": 422, "changed": false}
+{"premise": "Ma viisin prügi välja.", "choice1": "Prügi pani köögi halvasti lõhnama.", "choice2": "Ma viskasin kogemata oma poenimekirja ära.", "question": "cause", "label": 0, "idx": 423, "changed": false}
+{"premise": "Pere läks loomaaeda.", "choice1": "Lapsed imetlesid loomi.", "choice2": "Lapsed ajasid loomi taga.", "question": "effect", "label": 0, "idx": 424, "changed": false}
+{"premise": "Mehe hingamine oli vali.", "choice1": "Ta neerud ütlesid üles.", "choice2": "Ta kopsud olid ummistunud.", "question": "cause", "label": 1, "idx": 425, "changed": false}
+{"premise": "Mul oli kontserdile üleliigne pilet.", "choice1": "Ma küsisin oma sõbralt juhiseid toimumispaika.", "choice2": "Ma küsisin oma sõbralt, kas talle pakuks minemine huvi.", "question": "effect", "label": 1, "idx": 426, "changed": false}
+{"premise": "Maja õhukonditsioneer läks katki.", "choice1": "Ma tõin tekid välja.", "choice2": "Ma avasin aknad.", "question": "effect", "label": 1, "idx": 427, "changed": false}
+{"premise": "Poisi selg valutas.", "choice1": "Ta seljakott oli lahti.", "choice2": "Ta seljakott oli raske.", "question": "cause", "label": 1, "idx": 428, "changed": false}
+{"premise": "Ma ostsin oma emale kingituse.", "choice1": "Ma küptsetasin talle koogi.", "choice2": "Oli tema sünnipäev.", "question": "cause", "label": 1, "idx": 429, "changed": false}
+{"premise": "Nartsissid aias hävitati.", "choice1": "Mesilane nõelas aednikku.", "choice2": "Oravad kaevasid sibulad üles.", "question": "cause", "label": 1, "idx": 430, "changed": false}
+{"premise": "Ma süütasin tiku.", "choice1": "Leek kustus.", "choice2": "Tikk tekitas leegi.", "question": "effect", "label": 1, "idx": 431, "changed": false}
+{"premise": "Vaidlevad osapooled jõudsid lahenduseni.", "choice1": "Nad ei tahtnud kohtus vaielda.", "choice2": "Nad tahtsid omavahelist suhet parandada.", "question": "cause", "label": 0, "idx": 432, "changed": false}
+{"premise": "Lapsed saadeti lastekodusse.", "choice1": "Nende vanemad surid.", "choice2": "Nende vanemad hellitasid nad ära.", "question": "cause", "label": 0, "idx": 433, "changed": false}
+{"premise": "Meteoriit langes ookeanisse.", "choice1": "Tekkis tsunaami.", "choice2": "Rahet hakkas sadama.", "question": "effect", "label": 0, "idx": 434, "changed": false}
+{"premise": "Matkaja kohtus mürgise maoga.", "choice1": "Ta muutus dehüdreerituks.", "choice2": "Ta paanitses.", "question": "effect", "label": 1, "idx": 435, "changed": false}
+{"premise": "Ahi läks kuumaks.", "choice1": "Ma panin ahju tööle.", "choice2": "Ma panin roa ahju.", "question": "cause", "label": 0, "idx": 436, "changed": false}
+{"premise": "Ma pigistasin sidruniviilu.", "choice1": "Sidrun läks hallitama.", "choice2": "Sidrun pritsis.", "question": "effect", "label": 1, "idx": 437, "changed": false}
+{"premise": "Riik avastas uue maa-ala.", "choice1": "Riik hülgas maa.", "choice2": "Riik koloniseeris maa.", "question": "effect", "label": 1, "idx": 438, "changed": false}
+{"premise": "Klaas kukkus laualt maha.", "choice1": "See purunes kildudeks üle kogu põranda.", "choice2": "See maandus riidekuhja.", "question": "effect", "label": 0, "idx": 439, "changed": false}
+{"premise": "Laud kõikus.", "choice1": "Põrand oli ebatasane.", "choice2": "Põrand oli libe.", "question": "cause", "label": 0, "idx": 440, "changed": false}
+{"premise": "Isa tabas oma poja valetamas.", "choice1": "Ta poeg tunnistas tõe üles.", "choice2": "Isa usaldas oma poega.", "question": "effect", "label": 0, "idx": 441, "changed": false}
+{"premise": "Mees pea tuikas valust.", "choice1": "Ta võttis köhasiirupit.", "choice2": "Ta võttis aspirini.", "question": "effect", "label": 1, "idx": 442, "changed": false}
+{"premise": "Rong aeglustas.", "choice1": "Ta lähenes jaamale.", "choice2": "Ta oli graafikust maas.", "question": "cause", "label": 0, "idx": 443, "changed": false}
+{"premise": "Mees tegi teraapia läbi.", "choice1": "Vaimuhaigus oli neil perekonnas.", "choice2": "Tal diagnoositi depressioon.", "question": "cause", "label": 1, "idx": 444, "changed": true}
+{"premise": "Naine haaras oma kõrist.", "choice1": "Ta neelas oma toidu alla.", "choice2": "Ta lämbus oma toidu käes.", "question": "cause", "label": 1, "idx": 445, "changed": false}
+{"premise": "Naisel oli kurk valus.", "choice1": "Ta hääl kõlas kriipiv.", "choice2": "Ta rääkis aktsendiga.", "question": "effect", "label": 0, "idx": 446, "changed": false}
+{"premise": "Koer silmitses laual olevat mahlast steiki.", "choice1": "Ta ilastas.", "choice2": "Ta heitis pikali.", "question": "effect", "label": 0, "idx": 447, "changed": false}
+{"premise": "Naise äri saavutas edu.", "choice1": "Ta vallandas oma töötajad.", "choice2": "Ta sai jõukaks.", "question": "effect", "label": 1, "idx": 448, "changed": false}
+{"premise": "Õpilased lahkusid klassiruumist.", "choice1": "Kell helises.", "choice2": "Õpetaja andis kodutööd.", "question": "cause", "label": 0, "idx": 449, "changed": false}
+{"premise": "Naine väitis, et nägi tonti.", "choice1": "Ta tuttavad väljendasid skeptitsismi.", "choice2": "Ta tuttavad seostasid end temaga.", "question": "effect", "label": 0, "idx": 450, "changed": false}
+{"premise": "Mees kaotas oma kuulmise.", "choice1": "Ta peaaegu uppus ookeanis.", "choice2": "Ta sai peaaegu plahvatuses surma.", "question": "cause", "label": 1, "idx": 451, "changed": false}
+{"premise": "Laps lasi õhupallinöörist lahti.", "choice1": "Õhupall läks õhust tühjaks.", "choice2": "Õhupall tõusis õhku.", "question": "effect", "label": 1, "idx": 452, "changed": false}
+{"premise": "Mees kaotas kõnevõime.", "choice1": "Tal oli insult.", "choice2": "Ta hingas sügavalt sisse.", "question": "cause", "label": 0, "idx": 453, "changed": false}
+{"premise": "Naine komistas kõnniteel.", "choice1": "Tsemendis oli mõra.", "choice2": "Ta kuulis oma nime hüütavat.", "question": "cause", "label": 0, "idx": 454, "changed": false}
+{"premise": "Mees hüppas basseini pommi.", "choice1": "Vetelpäästja hüppas talle järgi.", "choice2": "Mees kastis vetelpäästja läbimärjaks.", "question": "effect", "label": 1, "idx": 455, "changed": false}
+{"premise": "Ma võtsin antibiootikume.", "choice1": "Mu infektsioon taandus.", "choice2": "Mu infektsioon levis.", "question": "effect", "label": 0, "idx": 456, "changed": false}
+{"premise": "Valgusfoor läks kollaseks.", "choice1": "Juht vajutas pidurit.", "choice2": "Juht lasi signaali.", "question": "effect", "label": 0, "idx": 457, "changed": false}
+{"premise": "Plastnõu sulas.", "choice1": "Ma leotasin nõud soojas vees.", "choice2": "Ma panin nõu kuumale pliidile.", "question": "cause", "label": 1, "idx": 458, "changed": false}
+{"premise": "Auto sai mõlgitud.", "choice1": "Juht sõitis vastu telefoniposti.", "choice2": "Juht sõitis punase tule alt läbi.", "question": "cause", "label": 0, "idx": 459, "changed": false}
+{"premise": "Poiss õppis terve öö.", "choice1": "Ta jättis eksami vahele.", "choice2": "Ta sai eksamist läbi.", "question": "effect", "label": 1, "idx": 460, "changed": false}
+{"premise": "Noor poiss klammerdus basseiniääre külge.", "choice1": "Ta kartis ujuma õppimist.", "choice2": "Vetelpäästja oli tööl.", "question": "cause", "label": 0, "idx": 461, "changed": false}
+{"premise": "Ma panin oma käe oma rinnale.", "choice1": "Ma tundsin oma südamelööke.", "choice2": "Mu pulss kiirenes.", "question": "effect", "label": 0, "idx": 462, "changed": false}
+{"premise": "Mu kontori kõrvalhoone oli ehitamisel.", "choice1": "Mu kontor oli ülerahvastatud.", "choice2": "Mu kontor oli lärmakas.", "question": "effect", "label": 1, "idx": 463, "changed": false}
+{"premise": "Pere tahtis oma uusi naabreid tundma õppida.", "choice1": "Nad kutsusid naabrid õhtusöögile.", "choice2": "Nad lehvitasid naabritele oma aiast.", "question": "effect", "label": 0, "idx": 464, "changed": false}
+{"premise": "Vesi pritsis basseinist üles.", "choice1": "Ujuja sukeldus basseini.", "choice2": "Ujuja hulpis basseinis.", "question": "cause", "label": 0, "idx": 465, "changed": false}
+{"premise": "Ma hammustasin arbuusiviilu.", "choice1": "Ma neelasin kogemata seemne alla.", "choice2": "Ma murdsin kogemata oma hamba.", "question": "effect", "label": 0, "idx": 466, "changed": false}
+{"premise": "Poiss komistas.", "choice1": "Ta jope oli eest lahti.", "choice2": "Ta kingapaelad olid lahti.", "question": "cause", "label": 1, "idx": 467, "changed": false}
+{"premise": "Naine pani kõrvatropid kõrva.", "choice1": "Teda segas lärm.", "choice2": "Ta tegi omale kõrvaaugud.", "question": "cause", "label": 0, "idx": 468, "changed": false}
+{"premise": "Ma täitsin oma veepudeli uuesti.", "choice1": "Ma jõin kogu vee selles ära.", "choice2": "Ma hoidsin seda külmikus.", "question": "cause", "label": 0, "idx": 469, "changed": false}
+{"premise": "Telesaade oli tsenseeritud.", "choice1": "See sisaldas vulgaarset kõnepruuki.", "choice2": "Sellel oli keeruline süžee.", "question": "cause", "label": 0, "idx": 470, "changed": false}
+{"premise": "Laev hukkus.", "choice1": "Meeskond uppus.", "choice2": "Meeskond kohtus piraatidega.", "question": "effect", "label": 0, "idx": 471, "changed": false}
+{"premise": "Poiss oli mõistatusest hämmeldunud.", "choice1": "Ta lahendas mõistatuse.", "choice2": "Ta palus vihjet.", "question": "effect", "label": 1, "idx": 472, "changed": false}
+{"premise": "Telefon helises.", "choice1": "Mees pani telefoni ära.", "choice2": "Mees võttis telefoni vastu.", "question": "effect", "label": 1, "idx": 473, "changed": false}
+{"premise": "Naine jõllitas mind.", "choice1": "Ma kallistasin teda.", "choice2": "Ma tundsin ebamugavust.", "question": "effect", "label": 1, "idx": 474, "changed": false}
+{"premise": "Grupp lahkus muuseumist.", "choice1": "Nad tegin eksponaatidest pilti.", "choice2": "Nad vaatasid kõik eksponaadid ära.", "question": "cause", "label": 1, "idx": 475, "changed": false}
+{"premise": "Mees alustas minuga vaidlust.", "choice1": "Mu sõber tutvustas mind mehele.", "choice2": "Mu sõber astus minu kaitseks välja.", "question": "effect", "label": 1, "idx": 476, "changed": false}
+{"premise": "Mu rattakumm oli tühi.", "choice1": "Ma pumpasin õhku kummi.", "choice2": "Ma vahetasin rattal käike.", "question": "effect", "label": 0, "idx": 477, "changed": false}
+{"premise": "Tüdruk nägi kahvatu välja.", "choice1": "Ta ise luges talle loo.", "choice2": "Ta ise katsus ta otsmikku.", "question": "effect", "label": 1, "idx": 478, "changed": false}
+{"premise": "Pastaks sai tühjaks.", "choice1": "Ma kasutasin pliiatsit.", "choice2": "Ma allkirjastasin oma nime.", "question": "effect", "label": 0, "idx": 479, "changed": false}
+{"premise": "Mehele ei antud laenu.", "choice1": "Ta oli võlgades.", "choice2": "Ta alustas äri.", "question": "cause", "label": 0, "idx": 480, "changed": false}
+{"premise": "Tüdruk jäi koolist koju.", "choice1": "Tal olid tuulerõuged.", "choice2": "Ta nautis matemaatika õppimist.", "question": "cause", "label": 0, "idx": 481, "changed": false}
+{"premise": "Prügikott oli täis.", "choice1": "Ma viisin selle prügikonteinerisse.", "choice2": "Ma viskasin selle kraanikausist alla.", "question": "effect", "label": 0, "idx": 482, "changed": false}
+{"premise": "Ma tõmbasin vaiba tolmuimejaga üle.", "choice1": "Mu toakaaslane ajas punši maha.", "choice2": "Mu koer ajas karva.", "question": "cause", "label": 1, "idx": 483, "changed": false}
+{"premise": "Mees kaotas kannatuse.", "choice1": "Ta sulges oma arvuti.", "choice2": "Ta viskas tooli toa teise otsa.", "question": "effect", "label": 1, "idx": 484, "changed": false}
+{"premise": "Tüdruk viskas oksakese lõkkesse.", "choice1": "Oksake põles.", "choice2": "Tuli kustus.", "question": "effect", "label": 0, "idx": 485, "changed": false}
+{"premise": "Mees tuli duši alt ära.", "choice1": "Kuum vesi oli otsas.", "choice2": "Ta ei leidnud rätikut.", "question": "cause", "label": 0, "idx": 486, "changed": false}
+{"premise": "Vanemad tahtsid, et nende lapsed läheksid kõrgkooli.", "choice1": "Nad panid õppemaksu tarbeks hoiufondi kõrvale.", "choice2": "Nad julgustasid lapsi õues mängima.", "question": "effect", "label": 0, "idx": 487, "changed": false}
+{"premise": "Mees sidus oma kingapaelad lahti.", "choice1": "Ta kingad lõdvenesid.", "choice2": "Ta kingad muutusid läbikantuks.", "question": "effect", "label": 0, "idx": 488, "changed": false}
+{"premise": "Mees sõi poole eelroast.", "choice1": "Ta pani jäägid külmkappi.", "choice2": "Ta salvestas retsepti.", "question": "effect", "label": 0, "idx": 489, "changed": false}
+{"premise": "Mu hüppeliiges oli paistes.", "choice1": "Ma panin sellele jääd peale.", "choice2": "Ma määrisin sellele kreemi peale.", "question": "effect", "label": 0, "idx": 490, "changed": false}
+{"premise": "Mu kontori uks oli lahti.", "choice1": "Ma rääkisin oma laua juures oma kolleegidega.", "choice2": "Ma kuulsin pealt saalis toimuvat vestlust.", "question": "effect", "label": 1, "idx": 491, "changed": false}
+{"premise": "Ma pidin järjekorras ootama.", "choice1": "Ma võtsin istet.", "choice2": "Ma sirvisin ajakirja.", "question": "effect", "label": 1, "idx": 492, "changed": false}
+{"premise": "Mees lajatas kärbsele.", "choice1": "Kärbes sumises minema.", "choice2": "Kärbes jäi liikumatuks.", "question": "effect", "label": 0, "idx": 493, "changed": true}
+{"premise": "Mees kirjutas testamendi.", "choice1": "Ta oli suremas.", "choice2": "Ta oli lesk.", "question": "cause", "label": 0, "idx": 494, "changed": false}
+{"premise": "Jooksja tajus konkurenti endale järele jõudmas.", "choice1": "Ta katkestas võistluse.", "choice2": "Ta kiirendas oma tempot.", "question": "effect", "label": 1, "idx": 495, "changed": false}
+{"premise": "Ma mõtlesin hoolikalt probleemile.", "choice1": "Ma küsisin nõu.", "choice2": "Ma mõtlesin lahenduse välja.", "question": "effect", "label": 1, "idx": 496, "changed": false}
+{"premise": "Reisija kõndis väriseval rippsillal.", "choice1": "Ta tundis hirmu.", "choice2": "Ta tundis ekstaasi.", "question": "effect", "label": 0, "idx": 497, "changed": false}
+{"premise": "Mees aimas meeskonna võitu ette.", "choice1": "Ta sai oma sõpradega kokku, et mängu vaadata.", "choice2": "Ta vedas oma sõpradega kihla.", "question": "effect", "label": 1, "idx": 498, "changed": false}
+{"premise": "Poiss ei suutnud uinuda.", "choice1": "Ta pani omale äratuskella.", "choice2": "Ta luges lambaid.", "question": "effect", "label": 1, "idx": 499, "changed": false}

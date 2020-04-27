@@ -1,0 +1,404 @@
+{"premise": "Imaymanaqa puqpukama plasticowanmi q'ipichakurqan.", "choice1": "Chay imaymanaqa p'akikuqlla karqan.", "choice2": "Chay imaymanaqa huch'uylla karqan.", "question": "cause", "label": 0, "idx": 0}
+{"premise": "Wulsilluykunata qasichirqani.", "choice1": "Huk boleto nisqata tarikurqani.", "choice2": "Huk arma nisqatam tarikurqani.", "question": "effect", "label": 0, "idx": 1}
+{"premise": "Kuki kurukuna wasiman haykurqanku.", "choice1": "Kuki kurukunaqa wasimanta chinkarqanku.", "choice2": "Kuki kuruqa wasip kurkunta mikhurqanku.", "question": "effect", "label": 1, "idx": 2}
+{"premise": "Ch'usaqkunaqa fronteramanmi chayarqanku.", "choice1": "Pasaportenkunatam policiaqa qhawarqan.", "choice2": "Contrabando apasqankumantam policiaqa tumparqan..", "question": "effect", "label": 0, "idx": 3}
+{"premise": "Oficinaqa wisq'asqa karqan.", "choice1": "Raymichakuy p'unchawmi karqan.", "choice2": "Ruphay mit'am karqan.", "question": "cause", "label": 0, "idx": 4}
+{"premise": "Warmaqa mana kallpayuqmi tukurqan.", "choice1": "Payqa damas nisqata pukllarqan.", "choice2": "Payqa waskhapi p'inkirqan.", "question": "cause", "label": 1, "idx": 5}
+{"premise": "Sinripi qhatisqaynintam warmiqa chinkarachirqan.", "choice1": "Huk runakunam sinriman haykurqanku.", "choice2": "Sinrichakusqanmanta payqa lluqsirqan.", "question": "cause", "label": 1, "idx": 6}
+{"premise": "Warmaqa sinqantam makinwan pakayukurqan.", "choice1": "Wawaqa baberuchanpi llawsaykacharqan.", "choice2": "Wawaqa pañalchanpi qhillichakurqan.", "question": "cause", "label": 1, "idx": 7}
+{"premise": "Bandaqa aswan riqsisqa takiyninta takirqan.", "choice1": "Takisqawan kuchka runakuna t'aqllaykurqanku.", "choice2": "Upallallam runakunaqa uyarqanku.", "question": "effect", "label": 0, "idx": 8}
+{"premise": "Matemáticas yachachiqnintam warmaqa añanchayta munarqan.", "choice1": "Escuela tukukuptinmi warmaqa harkasqa qhipakurqan.", "choice2": "Warmaqa manzanatam yachachiqninman apamurqan.", "question": "effect", "label": 1, "idx": 9}
+{"premise": "Wayna sipas campistakunaqa mancharikurqanku.", "choice1": "Umalliqninku manchay willakuykunata paykunaman willarqan.", "choice2": "Paykunaqa marshmeallows misk'ikunatam ninapi kankarikurqanku.", "question": "cause", "label": 0, "idx": 10}
+{"premise": "Qhariqa umanta t'akarukurqan.", "choice1": "Payqa yuyayninpim chinkarikurqan.", "choice2": "Payqa uma nanaytam hap'irqan.", "question": "effect", "label": 1, "idx": 11}
+{"premise": "Cheque qillasqayqa mana chaskikurqanchu.", "choice1": "Bancopi cuenta nisqayqa ch'usaqmi karqan.", "choice2": "Sueldo yapakuyta llalliparqani.", "question": "cause", "label": 0, "idx": 12}
+{"premise": "Qharip e-correo nisqanqa spam nisqawanmi hunt'a karqan.", "choice1": "Payqa spam nistaqa picharqan.", "choice2": "Payqa achka e-correo nisqatam apachirqan.", "question": "effect", "label": 0, "idx": 13}
+{"premise": "Wanpuq runaqa qhaliyananpaq sapanchakurqan.", "choice1": "Payqa unquymanmi wikchukurqan.", "choice2": "Payqa unquymanta qhaliyarqan.", "question": "cause", "label": 1, "idx": 14}
+{"premise": "Código nisqata warmaqa umanpi yuyanchakurqan.", "choice1": "Hatun kunkapi rimaspa kikinman yachachikurqan.", "choice2": "Payqa qillqayta qunqarurqan.", "question": "cause", "label": 0, "idx": 15}
+{"premise": "Vasoman yakuta hillpurqani.", "choice1": "Ch'akiyniytam yakuqa thaniyachirqa.", "choice2": "Vasoqa yakuwan hut'arqachikun.", "question": "effect", "label": 1, "idx": 16}
+{"premise": "Qhariqa masinpa rimasqanta upallalla tukunankama uyarirqan.", "choice1": "Masinpa rimasqanta uyarispa yanapayta munarqan.", "choice2": "Masinpa rimasqanpim chanincharqan.", "question": "cause", "label": 1, "idx": 17}
+{"premise": "Aquyrakiqa huch'aymi karqan.", "choice1": "Huch'aymanta sunquchakurqani.", "choice2": "Justicia tumpawasqata chaskirqani.", "question": "effect", "label": 0, "idx": 18}
+{"premise": "Waskharqa paskarikurqan.", "choice1": "Ruedapim waskharqa watarikurqan.", "choice2": "Qhasusqam waskharqa karqan.", "question": "cause", "label": 1, "idx": 19}
+{"premise": "Yanantinqa sullullchayta paqtacharqanku.", "choice1": "Kaminakusqankumanta saykusqa karqanku.", "choice2": "Kaminakuymanta manam rimayta munarqankuchu.", "question": "cause", "label": 0, "idx": 20}
+{"premise": "Warmiqa llaqta kamachiypi llamk'ayta munarqan.", "choice1": "Campaña ruwaq umallitam mink'arikurqan.", "choice2": "Corte nisapim payqa rimarqan.", "question": "effect", "label": 0, "idx": 21}
+{"premise": "Illaq qhariqa chiri-mit'a hamunantam puruyninpi qhawayarqan.", "choice1": "Q'ipinpi quñi pistukuq p'achakunatam churarqan.", "choice2": "Payqa hatun q'ipiyuq chusarqan.", "question": "effect", "label": 0, "idx": 22}
+{"premise": "Yachaqiqa tapukuypa kutichiynintam yacharqan.", "choice1": "Payqa makinta huqarirqan.", "choice2": "Payqa sawkakurqan.", "question": "effect", "label": 0, "idx": 23}
+{"premise": "Qharip ñawinqa wiqiyarqan.", "choice1": "Ñut'u allpa ñawinman haykurqan.", "choice2": "Payqa lentestan ñawinmanqa churarqan.", "question": "cause", "label": 0, "idx": 24}
+{"premise": "Pukllaqqa pichqa kutitam pukllayta llalliparqan.", "choice1": "Paypa huk kaq pukllaqninqa ch'awkasqanmanta tumparqan.", "choice2": "Paypa huk kaq pukllaqninqa paymanta khuyakurqan.", "question": "effect", "label": 0, "idx": 25}
+{"premise": "Yachachiqqa yachaqiqpa exámen nisqanta qhasurqan.", "choice1": "Payqa yachaqipa ch'awkasqantam tarirqan.", "choice2": "Yachaqiqpa exámen kutichiyninqa allinmi karqan.", "question": "cause", "label": 0, "idx": 26}
+{"premise": "Rimasqaymanta utirqani.", "choice1": "Kunkaytam chinkarqachini.", "choice2": "Manam samariyta atirqanichu.", "question": "cause", "label": 1, "idx": 27}
+{"premise": "Chullusqa mikhuna sut'uryarirqan.", "choice1": "Microondas nisqapi churarqani.", "choice2": "Plasticowan pisturqani.", "question": "cause", "label": 1, "idx": 28}
+{"premise": "Llamk'aqqa unqusqa hinamanmi tukurqan.", "choice1": "Wiksa nanaywanmi karqan.", "choice2": "Samakuy p'unchawtam munarqan.", "question": "cause", "label": 1, "idx": 29}
+{"premise": "Warmaqa piscinamanmi chapukurqan.", "choice1": "Piscinapa kantunpi phawaykacharqan.", "choice2": "Payqa piscinaman tinkinapaq tablamantam chapukurqan.", "question": "cause", "label": 1, "idx": 30}
+{"premise": "Cine nisqaman haykunapaq ticketkunaqa llapanmi qhaturikurqan.", "choice1": "Película nisqaqa chay p'unchawpi riqsichikurqan.", "choice2": "Película nisqaqa chay p'unchawmi mana allin kasqanta t'upsichikurqan.", "question": "cause", "label": 0, "idx": 31}
+{"premise": "Qhariqa sinchi wira kasqanmanta llañuyarirqan.", "choice1": "Runaqa manañam payta rimarirqanñachu.", "choice2": "Runaqa llañuyasqanmanta kallpancharqanku.", "question": "effect", "label": 1, "idx": 32}
+{"premise": "Warmapa makinqa hunt'a phusulluyuqmi tukurqan.", "choice1": "Payqa maquinapi qillqa apachinata qillqarqan.", "choice2": "Payqa wachkamanta hap'ipakuspam wicharqan.", "question": "cause", "label": 1, "idx": 33}
+{"premise": "Circopi llamk'aqqa monocicletapi purichkaspa makinwanpas rump'ukunawan pukllayarqan.", "choice1": "Hunt'a runakuna kaqqa t'aqllaykurqanku.", "choice2": "Acróbata runaqa warkurayakuspa wayllunkakurqan.", "question": "effect", "label": 0, "idx": 34}
+{"premise": "Phiñakurqani.", "choice1": "Masiymi sinchita suyachiwarqan.", "choice2": "Masiyqa pacha rimasqanchikpim chayarqan.", "question": "cause", "label": 0, "idx": 35}
+{"premise": "Suyukunaqa aywanakuy guerra nisqamanta lluqsiyta munarirqanku.", "choice1": "Paykunaqa armas nucleares nisqatam ruwayta qallarirqanku.", "choice2": "Paykunaqa qhasilla kanankupaq rimanakuytam qallarirqanku.", "question": "effect", "label": 1, "idx": 36}
+{"premise": "Qhariqa puñunanpaqmi pastillasta millpurqan.", "choice1": "Payqa puñuytam qallarirqan.", "choice2": "Paytaqa m'ati ruphaypi rupharirqan.", "question": "effect", "label": 0, "idx": 37}
+{"premise": "Sofá tiyanawanmi warmiqa mitk'akurqan.", "choice1": "Sofá tiyanap chakinka q'iwiparirkusqa.", "choice2": "Payqa chaki muqunta t'akarikurqan.", "question": "effect", "label": 0, "idx": 38}
+{"premise": "Irqiqa p'uruta mat'ipayarqan.", "choice1": "P'uruqa p'atarurqan.", "choice2": "P'uruqa hanaqman phawarqan.", "question": "effect", "label": 0, "idx": 39}
+{"premise": "Illaqkunaqa qhurpachana wasipim qhipakurqanku.", "choice1": "Paykunaqa q'ipinkuta paskarirqanku.", "choice2": "Paykunaqa aeropuerto nisqamanmi rirqanku.", "question": "effect", "label": 0, "idx": 40}
+{"premise": "Durasno añawita khamurqani.", "choice1": "Añawiqa ñut'ukurqan.", "choice2": "Hillim hich'aykurqan.", "question": "effect", "label": 0, "idx": 41}
+{"premise": "Makiyqa rataykachakuqmanmi tukurqan.", "choice1": "Misk'isapa donasta mikhurqani.", "choice2": "Misk'iyaqkunataqa munaq karqani.", "question": "cause", "label": 0, "idx": 42}
+{"premise": "Punkuta tanqarirqani.", "choice1": "Punkuqa kicharikurqan.", "choice2": "Punkuqa wichq'arikurqan.", "question": "effect", "label": 0, "idx": 43}
+{"premise": "Activistakuna huk rantinata boicot nisqaman tanqarqanku.", "choice1": "Rantinakunaqa chaniyuq kasqanta mallipachikurqanku.", "choice2": "Rantinakuqa wawakunap llamk'ayninkuwanmi yuririchikurqan.", "question": "cause", "label": 1, "idx": 44}
+{"premise": "Perforador nisqawan pirqapi t'uquta ruwarqani.", "choice1": "Huk'uchan t'uqunta such'urirqan.", "choice2": "Ñut'u allpam t'uqumanta lluqsirqan.", "question": "effect", "label": 1, "idx": 45}
+{"premise": "Warmiqa ñañanmantam ch'ikikurqan.", "choice1": "Ñañanqa kusisqa kawsakurqan.", "choice2": "Ñañanqa qusanmanta t'aqakurqan.", "question": "cause", "label": 0, "idx": 46}
+{"premise": "P'achaypi vinota hich'aykurqani.", "choice1": "Patanmanmi mandil nisqata churakurqani.", "choice2": "Huk p'achaywanmi churakurqani.", "question": "effect", "label": 1, "idx": 47}
+{"premise": "Cajeroqa registradora nisqatam kicharqan.", "choice1": "Rantiqqa qullqintam maskharqan.", "choice2": "Rantiqqa qullqintam haywarirqan.", "question": "cause", "label": 1, "idx": 48}
+{"premise": "K'ikllukunapi takiqmanqa runakuna asuyarqanku.", "choice1": "Runakunaqa qullqiwan yanaparirqanku.", "choice2": "Takiqqa runakunata qarqurirqan.", "question": "effect", "label": 0, "idx": 49}
+{"premise": "Wawaqa niñeramanmi waqayurqan.", "choice1": "Taytamamanmantam waqakurqan.", "choice2": "Mikhuna pachañam karqan.", "question": "cause", "label": 0, "idx": 50}
+{"premise": "Piloto runaqa radarpi tuyu hamusqanta rikurqan.", "choice1": "Pilotoqa tuyumantam ayqikurqan.", "choice2": "Pilotoqa tuyuntintam phalarqan.", "question": "effect", "label": 0, "idx": 51}
+{"premise": "Sach'amanta rhapikuna urmayarqanku.", "choice1": "Raphikunaqa llimp'ikama tukurqanku.", "choice2": "Raphikunaqa pampapi huñukurqanku.", "question": "effect", "label": 1, "idx": 52}
+{"premise": "Irqiqa chansakuqhina kachkarqan.", "choice1": "Payqa naipes nisqawanmi pananwan pukllayta qallarirqan.", "choice2": "Payqa panantam chansakuyta qallarirqan.", "question": "effect", "label": 1, "idx": 53}
+{"premise": "Irqiqa ispakuq rinanpaqmi mañakurqan.", "choice1": "Taytanmi upyanata qurqan.", "choice2": "Taytanqa gasolinera nisqapi karrunwan sayarirqan.", "question": "effect", "label": 1, "idx": 54}
+{"premise": "Uywasqa challwakunaman warmaqa mikhunata qurqan.", "choice1": "Challwaqa hawamanmi p'itarqan,.", "choice2": "Challwaqa mikhunamanmi chapullikurqan.", "question": "effect", "label": 1, "idx": 55}
+{"premise": "Políticapi iñiynintam warmiqa hukniyachirqan.", "choice1": "Huk partido policomanmi masiyachikurqan.", "choice2": "Runap hatariymanmi masiyachikurqan.", "question": "effect", "label": 1, "idx": 56}
+{"premise": "Bañopi maki maqchikunaqa ch'akasqa karqan.", "choice1": "Piletata kicharqani.", "choice2": "Ch'akasqa kichakunapaqmi quimico nisqata hicharqani.", "question": "effect", "label": 1, "idx": 57}
+{"premise": "Illaqqa trenmanta urayarqan.", "choice1": "Estación nisqamanmi trenqa chayarqan.", "choice2": "Trenqa siwinantam qaparichirqan.", "question": "cause", "label": 0, "idx": 58}
+{"premise": "Sobre nisqapa wisq'ananpim qhariqa ñit'irqan.", "choice1": "Estampillatam sobre patapi churarqan.", "choice2": "Payqa sello nisqatan wichq'asqa sobrepi churarqan.", "question": "effect", "label": 1, "idx": 59}
+{"premise": "Masikunaqa manañam tuparqankuñachu.", "choice1": "Paykunaqa hawkam kuskaqa karqanku.", "choice2": "Paykunaqa hukniraq llaqtapim tiyaraqanku,.", "question": "cause", "label": 1, "idx": 60}
+{"premise": "Yupaqqa compañiap qullqinta mana allintachu aparqan.", "choice1": "Payqa llamk'ananmantam qarquchikurqan.", "choice2": "Payqa qulla wawayuq kaptinrayku llamk'ananmanta samarikurqan.", "question": "effect", "label": 0, "idx": 61}
+{"premise": "Relojta qhawarqani.", "choice1": "Relojpa tiktiyasqanta uyarirqani.", "choice2": "Ima pacha kasqantam qhawayta munarqani.", "question": "cause", "label": 1, "idx": 62}
+{"premise": "Makiymi utiyawarqan.", "choice1": "Ensayo nisqata makillapi qillqarqani.", "choice2": "Warmiywanmi maki hap'inakurqanku.", "question": "cause", "label": 0, "idx": 63}
+{"premise": "Perno nisqaqa mat'irikurqan.", "choice1": "Huk pernota churarqani.", "choice2": "Llave inglesa nisqawanmi q'iwirqani.", "question": "cause", "label": 1, "idx": 64}
+{"premise": "Yanantinmi wasi alquilanankupaq siq'icharqanku.", "choice1": "Yanantinqa wasiman astakurqanku.", "choice2": "Wasi mana allin kasqanta llaqta kamachiyqa yachachirqan.", "question": "effect", "label": 0, "idx": 65}
+{"premise": "Warmiqa wasip ñawpaqñiypi tiyakurqan.", "choice1": "Payqa inti haykuytam qhawayta munarqan.", "choice2": "Illapatachus qhawanmanhina yuyachakurqan.", "question": "cause", "label": 0, "idx": 66}
+{"premise": "Qhariqa salvavidas p'achatam unupiqa churakurqan.", "choice1": "Payqa mana wamp'uytaqa yacharqanchu.", "choice2": "Unuqa mana sinchi ukhuchu karqan.", "question": "cause", "label": 0, "idx": 67}
+{"premise": "Waqmiqa word nisqapi qillqaspa pantarurqan.", "choice1": "Payqa khipu qillqasqantam picharparirqan.", "choice2": "Payqa qhipaman kutinapaq teclatam ñitirurqan.", "question": "effect", "label": 1, "idx": 68}
+{"premise": "Sipasqa masinkunamanmi chaqllikurqan.", "choice1": "Payqa calificaciones nisqanta mana wasaparqanchu.", "choice2": "Payqa atipanakuytam llallirqan.", "question": "cause", "label": 1, "idx": 69}
+{"premise": "Q'achuqa t'uruchasqam kachkarqan.", "choice1": "Tutantinpim param unucharqan.", "choice2": "Purun qurakunawan chaqrusqa kachkarqan.", "question": "cause", "label": 0, "idx": 70}
+{"premise": "Warmiqa nishuta puñururqan.", "choice1": "Payqa qurpachana wasipi puñururqan.", "choice2": "Payqa alarma churakuytam qunqarurqan.", "question": "cause", "label": 1, "idx": 71}
+{"premise": "Qhariqa protectorsolar nisqatam churakurqan.", "choice1": "Payqa llanthupim tiyakurqan.", "choice2": "Payqa mamaqucha patanmanmi rirqan.", "question": "cause", "label": 1, "idx": 72}
+{"premise": "T'aqwiqkunaqa yachanatam chiqancharqanku.", "choice1": "T'aqwiqkunaqa yachana mana allin kasqanmanta yachachirqanku.", "choice2": "Runakunaqa allintam yachanataqa chaskirqanku.", "question": "effect", "label": 0, "idx": 73}
+{"premise": "Partido pukllakuypi runakuna qaparirqanku.", "choice1": "Pukllayqa aswa pachata yapapakuspa pukllakurqan.", "choice2": "Arbitroqa manas allinchatu ruwarqan.", "question": "cause", "label": 1, "idx": 74}
+{"premise": "Wichq'anapi yachasqallay yupanata churarqani.", "choice1": "Wichq'anatam wichq'arqani.", "choice2": "Wichq'anaqa kicharikurqan.", "question": "effect", "label": 1, "idx": 75}
+{"premise": "Imaymana runa kaqqa achkayarqan.", "choice1": "Taytaqa qullqitam churinman haywarirqan.", "choice2": "Taytaqa churinpa makintam hap'iparqan.", "question": "effect", "label": 1, "idx": 76}
+{"premise": "Rit'im ñanta hark'achkarqan.", "choice1": "Rump'u rit'i ruwanaypaqmi rit'ita huñurqani.", "choice2": "Ñanmantaqa lampawanmi rit'ita qichurqani.", "question": "effect", "label": 1, "idx": 77}
+{"premise": "Kayakpi wamp'uqkunaqa t'uyunkunawanmi t'uyurqanku.", "choice1": "Kayak nisqaqa unu patanmami chayarqan.", "choice2": "Kayak nisqaqa aytimanmi suq'akurqan.", "question": "effect", "label": 1, "idx": 78}
+{"premise": "Bicicletapi warman purichkaspa tunkiyayqan.", "choice1": "Payqa hap'inamantam kacharikurqan.", "choice2": "Payqa k'aspi qinchamanmi bicicletanwan t'akarikurqan.", "question": "effect", "label": 1, "idx": 79}
+{"premise": "Ventiladorta hap'ichirqani.", "choice1": "Sullakuna ñuqaman chayarirqan.", "choice2": "Chiri wayran ñuqaman chayarirqan.", "question": "effect", "label": 1, "idx": 80}
+{"premise": "Surfistakunaqa mama quchamanmi haykurqanku.", "choice1": "Paykunaqa charayasqam karqanku.", "choice2": "Paykunaqa tiburon nisqatam qhawarqanku.", "question": "cause", "label": 0, "idx": 81}
+{"premise": "Bañeramanta tapónninta hurqurqani.", "choice1": "Unuqa bañeramanta qasichikurqan.", "choice2": "Unuqa pampamanmi ch'aqchurikurqan.", "question": "effect", "label": 0, "idx": 82}
+{"premise": "Qhariqa huk warmiwan kasqanmantam huchachakurqan.", "choice1": "Payqa warmintam hukwan ripusqanmanta tumparqan.", "choice2": "Payqa warmintam hukwan ripukusqanta willarqan.", "question": "effect", "label": 1, "idx": 83}
+{"premise": "Posterpi llimpiqa unuchakurqan.", "choice1": "Llimpin ch'akinanta suyarqani.", "choice2": "Unutam poste patapi kacharirqani.", "question": "cause", "label": 1, "idx": 84}
+{"premise": "Irqiqa qaparispam rikch'arirqan.", "choice1": "Payqa llap'i musquywanmi musquyukurqan.", "choice2": "Payqa kawitunpi hisp'ayukurqan.", "question": "cause", "label": 0, "idx": 85}
+{"premise": "Warmaqa chakintam hamp'ara pataman churarqan.", "choice1": "Taytanqa hamp'aramanmi tiyakuq hamurqan.", "choice2": "Taytanta rimarispam yachachirqan.", "question": "effect", "label": 1, "idx": 86}
+{"premise": "Masiyqan ñuqamanmi umanta kutichirqan.", "choice1": "Sutinmanta waqyarirqani.", "choice2": "Makiywanmi napayurqani.", "question": "cause", "label": 0, "idx": 87}
+{"premise": "Llaqta umalliqkuna runakunata saruncharqanku.", "choice1": "Runakuna hatarirqanku.", "choice2": "Runakunaqa akllanankupaqmi qillqachakurqanku.", "question": "effect", "label": 0, "idx": 88}
+{"premise": "Warmaqa sach'a sach'api chinkarikurqan.", "choice1": "Payqa qurpachakunanpa wasichata hatarichirqan.", "choice2": "Payqa yanapachikunanpaqmi qaparirqan.", "question": "effect", "label": 0, "idx": 89}
+{"premise": "Warmiqa hawa suyumanmi illarqan.", "choice1": "Payqa llimpipayta yachaytam munarqan.", "choice2": "Payqa huk llaqtakunap kawsayninmantam yachayta munarqan.", "question": "cause", "label": 1, "idx": 90}
+{"premise": "Qhariqa llamk'aqmasinmanta ch'ikikurqan.", "choice1": "Llamk'aqmasinqa aswan allin llamk'aypi churachikurqan.", "choice2": "Llamk'aqmasinqa aswan horasta llamk'arqan.", "question": "cause", "label": 0, "idx": 91}
+{"premise": "Qhariqa tiqsimuyupi hawa kawsaqkunata rikurqan.", "choice1": "Payqa muspachkarqan.", "choice2": "Payqa yuyaymanachkarqan.", "question": "cause", "label": 1, "idx": 92}
+{"premise": "Qharipa ch'ukchanqa p'aquyarparirqan.", "choice1": "Payqa lejiata churarkurqan.", "choice2": "Payqa shampuntam churarkurqan.", "question": "cause", "label": 0, "idx": 93}
+{"premise": "Wallpaqqa musuq llamk'aynintam kamarirqan.", "choice1": "Payqa allin mana allin kasqantaraq qhawapayarqan.", "choice2": "Payqa kamarinapaq yuyaychakuytam tarirqan.", "question": "cause", "label": 1, "idx": 94}
+{"premise": "Waynaqa wasinmantam ripurqan.", "choice1": "Ejercitomanta qarquchikurqan.", "choice2": "Yachanawasinmanmi rirqan.", "question": "cause", "label": 1, "idx": 95}
+{"premise": "Pata waqaychanamanta liwrukuna urmayamurqanku.", "choice1": "Pata waqaychanaqa ñut'u allpawan kachkarqan.", "choice2": "Pacha kuyuymi liwru waqaychanata chapchirirqan.", "question": "cause", "label": 1, "idx": 96}
+{"premise": "Wasiypi electricidad nisqaqa wañururqan.", "choice1": "Luzta hap'ichirqani.", "choice2": "Llapan wasipa interruptor nisqatam wakmanta hap'ichirqani.", "question": "effect", "label": 1, "idx": 97}
+{"premise": "Montaña rusamanmi wicharqanchik.", "choice1": "Manchaylla qhawakurqan.", "choice2": "Asikunapaq hinam qhawakurqan.", "question": "cause", "label": 1, "idx": 98}
+{"premise": "Popcornqa kikin bolsachapi p'atarirqan.", "choice1": "Mantequillatam bolsachanman churarqani.", "choice2": "Microondaspi hank'arqani.", "question": "cause", "label": 1, "idx": 99}
+{"premise": "Sach'am cable pataman urmarurqan.", "choice1": "Wasikunaqa mana electricidadniyuq karqanku.", "choice2": "Sinchi wayra hamunantam willakurqanku.", "question": "effect", "label": 0, "idx": 100}
+{"premise": "Rimaqqa mana yuyaytachu runakunapaqqa rimarqan.", "choice1": "Payqa runakunata amichirqan.", "choice2": "Payqa runakunata kamiyarqanhina.", "question": "effect", "label": 1, "idx": 101}
+{"premise": "Pin nisqachawam wiqurukurqani.", "choice1": "Hump'i sut'u uyaymanta sut'uyarqan.", "choice2": "Ruk'anaypi yawar sut'u rikurikurqan.", "question": "effect", "label": 1, "idx": 102}
+{"premise": "Challwaqa quchapi tuytuchkarqan.", "choice1": "Yarqasqa kachkarqan.", "choice2": "Wañusqa kachkarqan.", "question": "cause", "label": 1, "idx": 103}
+{"premise": "Qharip kunqanta ch'aka uyarikurqan.", "choice1": "Paytaqa chhullu hapirqan.", "choice2": "Payqa manañam p'itararqanñachu.", "question": "cause", "label": 0, "idx": 104}
+{"premise": "Ascensorpa punkunkunaqa kicharikurqanku.", "choice1": "Akllasqa pisomanmi chayarqan.", "choice2": "Ascensorqa piso chawpikunapim utirurqan.", "question": "cause", "label": 0, "idx": 105}
+{"premise": "Maqtaqa wasinmanta lluptirikurqan.", "choice1": "Taytamamantam llullakurqan.", "choice2": "Taytamamanqa payta wanachirqanku.", "question": "cause", "label": 1, "idx": 106}
+{"premise": "Hisp'ana k'itiqa unu hut'a karqan.", "choice1": "Inodoro nisqam puqchiyarqan.", "choice2": "Unu quñichiq maquinam pakirukurqan.", "question": "cause", "label": 0, "idx": 107}
+{"premise": "Uña allquqa runanwan kuskallam karqan.", "choice1": "Runaqa wallqatam allqumanqa churarqan.", "choice2": "Runaqa waskhawanmi allqutaqa hap'iparqan.", "question": "cause", "label": 1, "idx": 108}
+{"premise": "Qhariqa kikin lirpuynintam qhawarirqan.", "choice1": "Payqa sach'a sikipim qasilla sayarirqan.", "choice2": "Payqa qucha patanpi qasilla sayarirqan.", "question": "cause", "label": 1, "idx": 109}
+{"premise": "Yanaypa waqyawasqanta mana uyarirqanichu.", "choice1": "Waqyakuyta kutichirqani.", "choice2": "Mikhunaykupaqmi huñunakurqayku.", "question": "effect", "label": 0, "idx": 110}
+{"premise": "Wasimasi k'itipim aylluqa maskharqan.", "choice1": "Allquqa wasimantam chinkarirqan.", "choice2": "Ancha chaniyuq piñim wasinmanta chinkarirqan.", "question": "cause", "label": 0, "idx": 111}
+{"premise": "Hawaman samarisqayta rikurqani.", "choice1": "Pachaqa as chirim karqan.", "choice2": "Qhasquypi mat'ipawarqan.", "question": "cause", "label": 0, "idx": 112}
+{"premise": "Llamk'aqkunaqa sindicato nisqatam ruwarqanku.", "choice1": "Paykunaqa aswan allin derechuyuq llamk'anankupaqmi maskharqanku.", "choice2": "Llamk'anamanta umalliqkunam pagonkuta yapayarqanku.", "question": "cause", "label": 0, "idx": 113}
+{"premise": "Manzana pasteltam waykurqani.", "choice1": "Ismusqamanmi wayk'una wasipi asnayta qhallarirqan.", "choice2": "Hinantin wayk'una wasipi q'apayta qallariyqan.", "question": "effect", "label": 1, "idx": 114}
+{"premise": "Warmiqa manam allinta puriyta atirqanchu.", "choice1": "Payqa nishu tacoyuq zapatowan purichkarqan.", "choice2": "Payqa zapatotam ch'utikurqan.", "question": "cause", "label": 0, "idx": 115}
+{"premise": "Mankamantam wapsi lluqsichkarqan.", "choice1": "Unu t'impucharqan.", "choice2": "Mankata kipkarqani.", "question": "cause", "label": 0, "idx": 116}
+{"premise": "Mediasniykuna pach'a t'aqsanapim kachkarqan.", "choice1": "Ñuqaqa usutawan churakurqani.", "choice2": "Botaswan churakurqani.", "question": "effect", "label": 0, "idx": 117}
+{"premise": "Político rimasqanqa mana yuyayniyuqhina qhawakurqan.", "choice1": "Payman qhatiqkunata chinkarichirqan.", "choice2": "Payqa waqlliq político hinam qhawakurqan.", "question": "effect", "label": 0, "idx": 118}
+{"premise": "Yanantin sullullchakusqankumanta mana pipas allintachu chaskirqanchu.", "choice1": "Wawayuq karqanku.", "choice2": "Yanantinqa karuman ripurqanku.", "question": "effect", "label": 1, "idx": 119}
+{"premise": "Edificio hatarichikuqqa qhapaq runap sutintam qhawarichirqan.", "choice1": "Qhapaq runaqa edificio thunikunantam munarqan.", "choice2": "Qhapaq runaqa qullqitam churarqan edificio ruwakunanpaqqa.", "question": "cause", "label": 1, "idx": 120}
+{"premise": "Rantiypi llamk'aqkunaqa sipastam suwakusqanmanta tumparqanku.", "choice1": "Rantiypi llamak'aqkunaqa rikurqanchus sipas imaymanakuna wayaqanman churarisqanta.", "choice2": "Rantiypi llamk'aqkunaqa sipastam yanaparqanku munasqan wayaqatam tarinanpaq.", "question": "cause", "label": 0, "idx": 121}
+{"premise": "Suyuqa awqanakuymanmi suyumasintaqa waqyarqan.", "choice1": "Walla wallakunam awqanakuymanqa kacharichikurqanku.", "choice2": "Walla wallakunaqa ayllunwanmi huñurikurqanku.", "question": "effect", "label": 0, "idx": 122}
+{"premise": "Tribunalqa sasa chaninchay kamachinatam riqsirachirqan.", "choice1": "Tribunal wasip punkunpim phiñasqa runakunaqa hatarirqanku.", "choice2": "Tribunal wasip punkunpim yanantin allin munanakunankupaq rimarqanku.", "question": "effect", "label": 0, "idx": 123}
+{"premise": "Sipasqa ima mikhunas rupharakusqantam muskiyurqan.", "choice1": "Payqa p'uyñupim galletasta qunqarurqan.", "choice2": "Payqa galletastam hornopi qunqarurqan.", "question": "cause", "label": 1, "idx": 124}
+{"premise": "Sinchitam parayarqan.", "choice1": "Tuyuqa astawanmi sinchiyarqan.", "choice2": "Utqaylla ukuman haykurqani.", "question": "effect", "label": 1, "idx": 125}
+{"premise": "Edificioqa utqaylla qasichikurqan.", "choice1": "Ascensorqa manañam llamk'arqanchu.", "choice2": "Nina ruphaymanta alarma qhaparirqan.", "question": "cause", "label": 1, "idx": 126}
+{"premise": "Churin machaq-unquywan unqusqanmantam taytaqa phiñayukurqan.", "choice1": "Tantantaqa cerveza nisqatam churinpaqqa rantirqan.", "choice2": "Taytaqa masimantam churinta qarqurqan.", "question": "effect", "label": 1, "idx": 127}
+{"premise": "Amachaqqa wichanantintan oficinanmanqa chayarqan.", "choice1": "Secretariam chay p'unchaw mana llamkarqanchu.", "choice2": "Ascensorqa mana llamk'arqanchu.", "question": "cause", "label": 1, "idx": 128}
+{"premise": "Qhariqa masinwanmi phiñarikurqan.", "choice1": "Masinqa manam rimananta tukuchirqachu.", "choice2": "Masinqa mikhunantam rantikapurqan.", "question": "cause", "label": 0, "idx": 129}
+{"premise": "Sipasqa qullqitam cajeroman qurqan.", "choice1": "Cajeroqa sencillutam sipasmanqa qupurqan.", "choice2": "Sipasman recibo quytam cajeroqa qunqarqan.", "question": "effect", "label": 0, "idx": 130}
+{"premise": "Warmiqa tiyana ruedayuqmanmi churachikurqan.", "choice1": "Accidente nisqarayku such'uyarqan.", "choice2": "Payqa camillapi hamp'ina wasimanqa chayarqan.", "question": "cause", "label": 0, "idx": 131}
+{"premise": "Runakunaqa unanchatam wasinku hawapi churarqanku.", "choice1": "Independencia nisqatam suyuqa raymichachkarqan.", "choice2": "Suyuqa qullqi hap'iypi sasa pachapi tarikuchkarqan.", "question": "cause", "label": 0, "idx": 132}
+{"premise": "Equipoqa atipanakuypi mana llalliparqankuchu.", "choice1": "Paykunaman qhatiqkunaqa sunqu p'akirisqa karqanku.", "choice2": "Paykunaman qhatiqkunaqa aswan kallpanchasqa karqanku.", "question": "effect", "label": 0, "idx": 133}
+{"premise": "Masiyqa kiruypi mikhuna kasqanta t'upsiyarqan.", "choice1": "Pinqarikurqani.", "choice2": "Kallpanchakurqani.", "question": "effect", "label": 0, "idx": 134}
+{"premise": "Warmaqa manam historia yachanata wasaparqanchu.", "choice1": "Payqa allintan clasesninta uyarikurqan.", "choice2": "Payqa qunqarqanmi yachananta kallpanchayta.", "question": "cause", "label": 1, "idx": 135}
+{"premise": "Chawpi llaqtapi edificio thuniyarqan.", "choice1": "Pachakuyuy llaqtata chhapchirirqan.", "choice2": "Llaqtapi runa sipiyqa sinchiyarqan.", "question": "cause", "label": 0, "idx": 136}
+{"premise": "Qharipa yananqa payta saqirqan.", "choice1": "Payqa kutinankupaqmi mañayukurqan.", "choice2": "Warmiqa taytamamanwanmi riqsirachirqan.", "question": "effect", "label": 0, "idx": 137}
+{"premise": "Iskay irqikunam kikin pachapi sinkuta hap'iyta munarqanku.", "choice1": "Sinkuqa karuman muyurqan.", "choice2": "Paykunaqa umapura t'akarikurqanku.", "question": "effect", "label": 1, "idx": 138}
+{"premise": "Mapacheqa qupa waqaychanata rawirqan.", "choice1": "Cartonmi qupa ukhupiqa karqan.", "choice2": "Qupa waqaychanaqa mana kirpanayuq karqan.", "question": "cause", "label": 1, "idx": 139}
+{"premise": "Irqiqa lapizta ñawch'iyachirqan.", "choice1": "Pisi chaniyuq karqan.", "choice2": "Mana ñawch'iyasqa karqan.", "question": "cause", "label": 1, "idx": 140}
+{"premise": "Rantisqa p'achata kutichisqanmantaqa Cajeroqa manam qullqintaqa warmimanqa kutichirqanchu.", "choice1": "Payqa recibo nisqatam chinkarachirqan.", "choice2": "P'achaqa manam paymanqa haykurqanchu.", "question": "cause", "label": 0, "idx": 141}
+{"premise": "Qaraypi hallp'iqa ukhum karqan.", "choice1": "Utqaylla hampikurqan.", "choice2": "Q'illayuq tukuyurqan.", "question": "effect", "label": 1, "idx": 142}
+{"premise": "Trenpi wakin illaqkunaqa hukniraqtam qharita qhawarqanku.", "choice1": "Pampata qhawachkarqan.", "choice2": "Kikillanman rimachkarqan.", "question": "cause", "label": 1, "idx": 143}
+{"premise": "Irqiqa pampapi qutquta wisñirqan.", "choice1": "Sisikunam qutqutaqa apakurqanku.", "choice2": "Irqiqa t'antata waqaycharqan.", "question": "effect", "label": 0, "idx": 144}
+{"premise": "Warmiqa ñañanmanmi papel pañuyluta ayparqan.", "choice1": "Warmipa ñañanqa makankunatam chakatarqan.", "choice2": "Warmipa ñañanqa waqaytam qallarirqan.", "question": "cause", "label": 1, "idx": 145}
+{"premise": "Qhariqa menta misk'itam ch'unqarqan.", "choice1": "Siminmi ch'aki kachkarqan.", "choice2": "Payqa simin asnanmantam pinqarisqam kachkarqan.", "question": "cause", "label": 1, "idx": 146}
+{"premise": "Yanatin tempranulla qhawakuq rirqanku.", "choice1": "Teatropa kinrayninpi tráfico nisqawan manam tupayta munarqankuchu.", "choice2": "Imaynatas teatroman chayanankupaq rikuchikurqanku.", "question": "cause", "label": 0, "idx": 147}
+{"premise": "Warmiqa llamk'ayninman mana rispa wasinpi qhiparikurqan.", "choice1": "Umalliqninmi yupaycharqan.", "choice2": "Llamk'aqmasinninmi paymanta llamk'arqan.", "question": "effect", "label": 1, "idx": 148}
+{"premise": "Activistakuna mañakusqankuta qhariqa siq'icharqan.", "choice1": "Payqa activistakunapa llamk'asqankupim iñirqan.", "choice2": "Activistakunaqa waq'achus kanmuman hinataman yuyanchakuspam denunciata churarqan.", "question": "cause", "label": 0, "idx": 149}
+{"premise": "Escenaman manaraq lluqsichkaptin actorpa sunqunqa katatatachkarqan.", "choice1": "Payqa escenáman lluqsinanmantam mancharisqa kachkarqan.", "choice2": "Sapan rimanantam ña umanmi t'akyachirqan.", "question": "cause", "label": 0, "idx": 150}
+{"premise": "Chinkasqa karqani.", "choice1": "Qullqiyta yuparqani.", "choice2": "Last'ata mast'arqani.", "question": "effect", "label": 1, "idx": 151}
+{"premise": "Puqusqa añawiqa ruphaypi karqan.", "choice1": "Mikhurqanku.", "choice2": "Qaywirapurqan.", "question": "effect", "label": 1, "idx": 152}
+{"premise": "Karruqa waqllirikurqan.", "choice1": "Wakmanta hap'irachirqani.", "choice2": "Motormi nishuta ruphayarqan.", "question": "cause", "label": 1, "idx": 153}
+{"premise": "Qhariqa wasantam nanachikurqan.", "choice1": "Payqa psiquiatra nisqamanmi rirqan.", "choice2": "Payqa kawitunpi achka p'unchawkuna unayarqan.", "question": "effect", "label": 1, "idx": 154}
+{"premise": "Kanana patapi ninata hap'ichirqani.", "choice1": "Llant'ayqa manañam karqanchu.", "choice2": "Wasiqa chirim kachkarqan.", "question": "cause", "label": 1, "idx": 155}
+{"premise": "Phawasqanmanta warmiqa utirqan.", "choice1": "Rikranmi susunkayurqan.", "choice2": "Payqa tumpata samayurqan.", "question": "cause", "label": 1, "idx": 156}
+{"premise": "Wasimasiypa punkunpi waqyakurqani.", "choice1": "Wasimasiyqa wasinman haykuchiwarqan.", "choice2": "Wasimasiyqa wasi punkunman lluqsirqan.", "question": "effect", "label": 1, "idx": 157}
+{"premise": "Warmiqa phiñarisqam ukhuman samarirqan.", "choice1": "Ima llakikusqanmantaqa qusanqa mana allintachu yacharqan.", "choice2": "Qusanqa much'ayuspa pasapurqan.", "question": "cause", "label": 0, "idx": 158}
+{"premise": "Yachachiqqa yachaqitam yupaycharqan.", "choice1": "Yachaqiqa allinta tapuykunamanqa kutichirqan.", "choice2": "Tapuykunata kutichinanpaqqa yachaqiqa iskayarqan.", "question": "cause", "label": 0, "idx": 159}
+{"premise": "Runtuta warmi wankunanpaqqa manañam karqanchu.", "choice1": "Chakramanmi rirqan.", "choice2": "Qhatuman rirqan.", "question": "effect", "label": 1, "idx": 160}
+{"premise": "Ñawpa masiywanmi tinkurqani.", "choice1": "Huk pakasqa yachayta payman willarqani.", "choice2": "Payta mak'allikurqani.", "question": "effect", "label": 1, "idx": 161}
+{"premise": "Warmiqa manam quchamanqa riyta munarqanchu.", "choice1": "Payqa challwatam hap'irqan.", "choice2": "Quchaqa qhilli rikurirqan.", "question": "cause", "label": 1, "idx": 162}
+{"premise": "Yachaqiqa apillañam clasemanqa chayarqan.", "choice1": "Achiwanmi p'akirikurqan.", "choice2": "Bicicletanta suwarqanku.", "question": "cause", "label": 1, "idx": 163}
+{"premise": "Computadorapi cursor nisqaqa kuyurichkarqan.", "choice1": "Runaqa huk'ucha nisqapi ñit'irqan.", "choice2": "Runaqa huk'ucha nisqata kuyuchirqan.", "question": "cause", "label": 1, "idx": 164}
+{"premise": "Conductorqa huk huch'uy ñannintam rirqan.", "choice1": "Hatun ñanpiqa accidente nisqam rikurirqan.", "choice2": "Payqa ñawpanpi camión kaqtam qatirqan.", "question": "cause", "label": 0, "idx": 165}
+{"premise": "Api p'achatam hawa warkunapi warkurarqani.", "choice1": "P'achaqa ch'akirqan.", "choice2": "P'achaqa llimphikachakurqan.", "question": "effect", "label": 0, "idx": 166}
+{"premise": "Warmiqa lentesninta churakurqan.", "choice1": "Intiqa supayta llipipipichkarqan.", "choice2": "Payqa taxitam waqyarqan.", "question": "cause", "label": 0, "idx": 167}
+{"premise": "Tutapi hanaq pachata qhari qhawarirqan.", "choice1": "Ruphay mit'a kanantam munarqan.", "choice2": "May sumaq kasqantantam qhawarirqan.", "question": "cause", "label": 1, "idx": 168}
+{"premise": "Saykusqa tarikurqani.", "choice1": "Ñawpaqtaraq samakuq rirqani.", "choice2": "Hinantin tuta rikchasqa karqani.", "question": "effect", "label": 0, "idx": 169}
+{"premise": "Qhariqa chukcha rutuqmanmi rirqan.", "choice1": "Payqa chukchanta wiñachikuchkarqan.", "choice2": "Chukchanqa wiñarusqa.", "question": "cause", "label": 1, "idx": 170}
+{"premise": "Warmaqa millaytam musuq yachaqimasinmanqa chansakurqan.", "choice1": "Warmaqa sumaqtam musuq yachaqimasintaqa chaskirqan.", "choice2": "Warmaqa mana munarqanchu musuq yachaqimasintaqa.", "question": "cause", "label": 1, "idx": 171}
+{"premise": "Ñuqñu upyayta munarqani.", "choice1": "Misk'i galletasta michkarqani.", "choice2": "T'antata ruwarqani.", "question": "cause", "label": 0, "idx": 172}
+{"premise": "Parayta qallarirqan.", "choice1": "Choferqa karrupa k'anchaykunantam hap'ichirqan.", "choice2": "Qhipaman karru purinanpaqmi choferqa hukniyachirqan.", "question": "effect", "label": 0, "idx": 173}
+{"premise": "Edificiopa parqueo nisqanqa qasisqa karqan.", "choice1": "Karrutaqa ñan patapi utichirqani.", "choice2": "Karrutaqa haykunapa kinranllanpi utichirqani.", "question": "effect", "label": 1, "idx": 174}
+{"premise": "Qillqaqqa qillqayninta haywarinanpaqqa mana ayparqanchu.", "choice1": "Payqa manam qillqayninta qatipayta atirqanchu.", "choice2": "Payqa qillqayninta allichachkarqan.", "question": "cause", "label": 1, "idx": 175}
+{"premise": "Llamk'aqqa waqyasqayta tukurqachipun.", "choice1": "Umalliqwan rimanaypaq mañakurqani.", "choice2": "Pim kasqayta riqsichiwaq yupaynintam qhawachirqani.", "question": "cause", "label": 0, "idx": 176}
+{"premise": "Kichaqasqa wintanantin wayra haykurqan.", "choice1": "Timbre nisqa uyarikurqan.", "choice2": "Arapakuna maywikukurqanku.", "question": "effect", "label": 1, "idx": 177}
+{"premise": "Electricidad nisqaqa wasiypi mana karqanchu.", "choice1": "Lamparara enchufemanta qichurqani.", "choice2": "Fusible nisqata t'uqyachirqani.", "question": "cause", "label": 1, "idx": 178}
+{"premise": "Pesas nisqakunata huqariqqa qhututuyarqan.", "choice1": "Lirpupi qhawakuspa llapa aychanta k'uytupachirqan.", "choice2": "Uma hawanpi pesas nisqakunata huqarirqan.", "question": "cause", "label": 1, "idx": 179}
+{"premise": "Yachaqiqa llapan cálculo nisqakunata umallanpi ruwayta munarqan.", "choice1": "Calculadorata hap'irqan.", "choice2": "Payqa pantarirqan.", "question": "effect", "label": 1, "idx": 180}
+{"premise": "Wawaqa puñurqan.", "choice1": "Taytanmi musuq pañalta churarqan.", "choice2": "Taytanmi chhukuyurqan.", "question": "cause", "label": 1, "idx": 181}
+{"premise": "Unu hunt'ayuq p'urutam pasñaqa maqtaman chaqirqan.", "choice1": "Maqtaqa uma unquywanmi hatarirqan.", "choice2": "Maqtaqa apiyachikurqan.", "question": "effect", "label": 1, "idx": 182}
+{"premise": "Fotofrafoqa camarapi flashtataqa hap'ichiyta qunqarqun.", "choice1": "Fotokunaqa qhusñisqahina lluqsirqanku.", "choice2": "Fotopi lluqsiqkunaqa manam asikuyta munarqakuchu.", "question": "effect", "label": 0, "idx": 183}
+{"premise": "Cumpleañosman rinaypaq mink'awasqankuta mana riyta munarqanichu.", "choice1": "Sapallaymi karqani.", "choice2": "Huk llaqtapim tarikurqani.", "question": "cause", "label": 1, "idx": 184}
+{"premise": "Ejercicio nisqata ruwarqani.", "choice1": "Kallpayuqhina karqani.", "choice2": "Manchasqa karqani.", "question": "cause", "label": 0, "idx": 185}
+{"premise": "Api esponjata q'apirqani.", "choice1": "Unuta suq'urqan.", "choice2": "Unu sut'uyta qallarirqan.", "question": "effect", "label": 1, "idx": 186}
+{"premise": "Qurpachanaman chayanakupaqqa Illaqkuna ferryta nisqata hap'irqanku.", "choice1": "Qurpachanaqa aywaqñam karqan.", "choice2": "Qurpachanaqa wat'apim tarikurqan.", "question": "cause", "label": 1, "idx": 187}
+{"premise": "Pasñaqa tatuaje nisqata ruwakurqan.", "choice1": "Agujakunataqa payqa manchakurqan.", "choice2": "Payqa imamaypas hatariytam munarqan.", "question": "cause", "label": 1, "idx": 188}
+{"premise": "Wasiypa punkunpi mana riqsisqa karru utiyarqan.", "choice1": "Watupakuyta qallarirqani.", "choice2": "Policiaman waqyarirqani.", "question": "effect", "label": 0, "idx": 189}
+{"premise": "Q'umalliqqa riqsichikurqan.", "choice1": "Ima kaqpas paytam tumparqan.", "choice2": "Ima kaqpas manam paymanqa tumparqanchu.", "question": "cause", "label": 0, "idx": 190}
+{"premise": "Wirasapa runaqa llañuyayta munarqan.", "choice1": "Manaña misk'ikunataqa mikhurqanñachu.", "choice2": "Manaña cafeta upyarqanñachu.", "question": "effect", "label": 0, "idx": 191}
+{"premise": "Sipasqa chullunkasqa pampapi ichiyarqan.", "choice1": "Payqa suchuyarqan.", "choice2": "Payqa mancharikurqan.", "question": "effect", "label": 0, "idx": 192}
+{"premise": "Warmiqa ñawin saykusqa rikurirqan.", "choice1": "Tutantinpi rikch'alla karqan.", "choice2": "Payqa wawantam puñuchirqan.", "question": "cause", "label": 0, "idx": 193}
+{"premise": "Ariqmanta nina lawa lluqsirqan.", "choice1": "Ariqqa tuqyayta qallarirqan.", "choice2": "Ariqqa puñuchkarqan.", "question": "cause", "label": 0, "idx": 194}
+{"premise": "Warmiqa zapatonta churakurqan.", "choice1": "Payqa raymipi llapan kaqkunatam riqsirqan.", "choice2": "Payqa raymimanta ripuyta munarqan.", "question": "cause", "label": 1, "idx": 195}
+{"premise": "Hark'anapi llamk'aqman qullqicharqani.", "choice1": "Payqa hark'anata chimpachiwarqan.", "choice2": "Payqa hark'anapi hark'ariwarqan.", "question": "effect", "label": 0, "idx": 196}
+{"premise": "Ejecutivo runaqa aquyrakimanmi haykurqan.", "choice1": "Payqa compañianta qhaturqan.", "choice2": "Payqa qulltintam usuchirqan.", "question": "cause", "label": 1, "idx": 197}
+{"premise": "Qhariqa hamp'iqmanmi rirqan.", "choice1": "Hamp'iqqa samachkarqan.", "choice2": "Qhariqa mana allinchu karqan.", "question": "cause", "label": 1, "idx": 198}
+{"premise": "Wintanantinmi wasiymanta lluqsirqani.", "choice1": "Wasiqa nina ruphaypi kachkarqan.", "choice2": "Wasiqa qasisqa kachkarqan.", "question": "cause", "label": 0, "idx": 199}
+{"premise": "Wawap rukanankunaqa llulluyarurqan.", "choice1": "Payqa armakuspam unayarqan.", "choice2": "Payqa makintam jabonwan maqchikurqan.", "question": "cause", "label": 0, "idx": 200}
+{"premise": "Ñuqñuta thuqyarqani.", "choice1": "Ñuqñuqa phusqusqa karqan.", "choice2": "Ch'aki simiyur karqani.", "question": "cause", "label": 0, "idx": 201}
+{"premise": "Busman mana ayparqanichu.", "choice1": "Llamk'anayman chayanapaq tempranoraq karqan.", "choice2": "Llamk'anayman chayanaypaq tardeña karqan.", "question": "effect", "label": 1, "idx": 202}
+{"premise": "Camionqa karruwan t'akarukurqan.", "choice1": "Camionqa utqaylla richkarqan.", "choice2": "Karruqa llapan ñitikusqa tukurqan.", "question": "effect", "label": 1, "idx": 203}
+{"premise": "Qharip ayllunqa pisi qullqiyuqlla tiyarqanku.", "choice1": "Payqa pisillatam qullqinta ayllunman qurqan.", "choice2": "Paypa llamk'ananpiqa pisi pagomanta aswan pisitam chaskirqan.", "question": "cause", "label": 1, "idx": 300}
+{"premise": "Yachaqiqa hatun-yachaywasimanta graduasqa lluqsirqan.", "choice1": "Payqa llamk'anatam maskharqan.", "choice2": "Imapi qhuchukusqankutam maskharqan.", "question": "effect", "label": 0, "idx": 301}
+{"premise": "Llimp'iwan wallpaqqa q'illutawan anqastawan chaqrurqan.", "choice1": "Llimp'iqa lliwpi ch'allakurqan.", "choice2": "Llimp'iqa q'umirmanmi tukurqan.", "question": "effect", "label": 1, "idx": 302}
+{"premise": "Rimasqanchiktaqa hukniyachirqani.", "choice1": "Manañam imatapas rimayta atirqanichu.", "choice2": "Rimasqanchikqa phiñachiwachkarqanchikña.", "question": "cause", "label": 1, "idx": 303}
+{"premise": "Turayqa hamp'ina wasimanta lluqsirqan.", "choice1": "Wasinchikmanmi sumaqta hampuyachirqani.", "choice2": "Payta mana munakuq hinamanmi rikurirqani.", "question": "effect", "label": 0, "idx": 304}
+{"premise": "Escenariopa arapanqa wichayman kichakurqan.", "choice1": "Wallparisqa ruwayqa qallarirqan.", "choice2": "Wallpariq runakunakunaqa escenariomanta ripurqanku.", "question": "effect", "label": 0, "idx": 305}
+{"premise": "Atisanka runaqa hap'iqninpa mañakusqantam riqsichirqan.", "choice1": "Hap'iqqa atisanka runata sipinanpaqmi mancharichirqan.", "choice2": "Hap'iqqa atisana runata kikillanmanta kacharirqan.", "question": "cause", "label": 0, "idx": 306}
+{"premise": "Lliw escenariopi huk tununuyuyta uyarikurqan.", "choice1": "Takiqqa huk chakinwanmi tusupachkarqan.", "choice2": "Takiqqa huk wank'artam t'akayachkarqan.", "question": "cause", "label": 1, "idx": 307}
+{"premise": "Taytamamaqa wawanpa cuartonmanmi p'itarqanku.", "choice1": "Wawaqa llap'i musquywan rikch'arispa qaparichkarqan.", "choice2": "Wawaqa kawitunpa uranta qhawariytam mancharikurqan.", "question": "cause", "label": 0, "idx": 308}
+{"premise": "Warmiqa maki-rimaywanmi rimarqan.", "choice1": "Payqa llullu wawa paqarimurqan.", "choice2": "Payqa ruqt'u wawa paqarimurqan.", "question": "cause", "label": 1, "idx": 309}
+{"premise": "Ch'akirayay pachamam suyupiqa rikurirqan.", "choice1": "Yakum qhillichakurqan.", "choice2": "Chakrakunapi mikhuyqa ch'akirayaywanmi ñiq'irqapunku.", "question": "effect", "label": 1, "idx": 310}
+{"premise": "Michim urpitaqa qhatirirqan.", "choice1": "Urpiqa phalaspa ripurqan.", "choice2": "Urpiqa kuruta hap'irqan.", "question": "effect", "label": 0, "idx": 311}
+{"premise": "Warmaqa huk kaq escuelamanmi ripurqan.", "choice1": "Escuelaqa ruphay mit'a kaptinmi lluqsichirqan.", "choice2": "Musuq llaqtamanmi astakurqan.", "question": "cause", "label": 1, "idx": 312}
+{"premise": "Fábricayuq runaqa manam llamk'aqkunamanqa qullqinta yapayta munarqanchu.", "choice1": "Fábricayuqqa musuq umalliqta churarqan.", "choice2": "Llamk'aqkunaqa ruwayninkuta sayarichirqanku.", "question": "effect", "label": 1, "idx": 313}
+{"premise": "Suyuq umalliqninmi awqanakuqkunaman ñak'arichirqan.", "choice1": "Ima ruwananpaqpas awqanakuqkunam kamachirqanku.", "choice2": "Awqanakuqkunaqa payta sipirqanku.", "question": "effect", "label": 1, "idx": 314}
+{"premise": "Q'ala chakillam mama qucha patanpi purirqani.", "choice1": "Aqu aqum chakiyman ratarirqan.", "choice2": "Aytikunam mama qucha pataman suq'akurqanku.", "question": "effect", "label": 0, "idx": 315}
+{"premise": "Chawpi tutapi chisrisqa rikch'arqani.", "choice1": "Quñi warata churakurqani.", "choice2": "Unuta upyarqani.", "question": "effect", "label": 0, "idx": 316}
+{"premise": "Mamitaqa wawanta upallachirqan.", "choice1": "Wawanqa sumaqta asiyukurqan.", "choice2": "Wawanqa phiñallaña q'iwipakurqan.", "question": "cause", "label": 1, "idx": 317}
+{"premise": "Jeans waraypiqa t'uqu rikurirqan.", "choice1": "Waraypa cierre nisqanta wisq'arikurqani.", "choice2": "Pampapi mitk'arparirqani.", "question": "cause", "label": 1, "idx": 318}
+{"premise": "Maqt'aqa frenillos nisqatam kirunkunapiqa aparqan.", "choice1": "Kirunmi t'uqurukurqan.", "choice2": "Kirunmi chiqancharikurqan.", "question": "effect", "label": 1, "idx": 319}
+{"premise": "Gimnasio nisqapi qayna p'unchawqa llamk'arqani.", "choice1": "Rikch'arispaqa kurkuymi makurkiwarqan.", "choice2": "Kunka nanaywanmi rikcharirqani.", "question": "effect", "label": 0, "idx": 320}
+{"premise": "Hamp'ara mikhusqankupi warmaqa wakin masinkunallamanmi upallalla rimaykacharqan.", "choice1": "Wakin yachaqikunataq hamp'araman mikhuq hamurqanku.", "choice2": "Hamp'arapi wakin yachaqikunataq mana munasqahina karqanku.", "question": "effect", "label": 1, "idx": 321}
+{"premise": "Trampolin patapim irqi urmarqan.", "choice1": "Payqa kutimanta wikaparirqan.", "choice2": "Payqa wikapaspa muyuriyta munarqan.", "question": "effect", "label": 0, "idx": 322}
+{"premise": "Buzón nisqapi qillqakunata churarqani.", "choice1": "Correo oficinaqa qillqata apachirqan.", "choice2": "Correo oficinaqa utqaytapuni qillqata apachirqan.", "question": "effect", "label": 0, "idx": 323}
+{"premise": "Pukllaqqa llallipananmanta chiqaymi kachkarqan.", "choice1": "Llapan qullqintam churaykurqan.", "choice2": "Payqa mana qullqiyuq wasinman kutipurqan.", "question": "effect", "label": 0, "idx": 324}
+{"premise": "Sach'a-sach'a kanakuyqa aswantam mast'arikurqan.", "choice1": "Wayram aswan sinchita phukuyarqan.", "choice2": "Kanaq runakunam hap'ichikurqanku.", "question": "cause", "label": 0, "idx": 325}
+{"premise": "Irqiqa muquchanta k'irirukurqan.", "choice1": "Mamanqa cuartonman kacharirqan.", "choice2": "Mamanqa k'irinta wankurqan.", "question": "effect", "label": 1, "idx": 326}
+{"premise": "Qhariqa wañuy unquymanta hatarirqan.", "choice1": "Testamentonta qillqarqan.", "choice2": "Hukpa organonta chaskirurqan.", "question": "cause", "label": 1, "idx": 327}
+{"premise": "T'impuq cafeta upyarqani.", "choice1": "Qalluyta k'uturukurqani.", "choice2": "Qalluyta rupharachikurqani.", "question": "effect", "label": 1, "idx": 328}
+{"premise": "Editorqa qillqaqta qarqurqan.", "choice1": "Qillqaqqa mana p'inqayninta churaspam qillqarqan.", "choice2": "Qillqaqqa tukukunan p'unchawpim mana tukurqanchu.", "question": "cause", "label": 1, "idx": 329}
+{"premise": "Saykusqa karqani.", "choice1": "P'unchawnintin puñurqani.", "choice2": "P'unchawnintin yanachaypi llamk'arqani.", "question": "cause", "label": 1, "idx": 330}
+{"premise": "Hampiqqa runatam qhawayarqan.", "choice1": "Runap uquy rikurichiqkunatam tarirqan.", "choice2": "Payqa pastillastam runamanqa qurqan.", "question": "cause", "label": 0, "idx": 331}
+{"premise": "Raskarukurqani.", "choice1": "Hump'iwachkarqan.", "choice2": "Siqsiwachkarqan.", "question": "cause", "label": 1, "idx": 332}
+{"premise": "Qhariqa cirugía de emergencia nisqaman haykurirqan.", "choice1": "Sinchita phiñarikurqan.", "choice2": "Sunqu utiriy unquywanmi tarikurqan.", "question": "cause", "label": 1, "idx": 333}
+{"premise": "Qharipa mak'anqa punkiyarqan.", "choice1": "Mak'anqa qiwikachaspa mat'iparisqan.", "choice2": "Mak'anta qhaqurikurqan.", "question": "cause", "label": 0, "idx": 334}
+{"premise": "Qhariqa qhichipranta hastawan huqarirqan.", "choice1": "Payqa manchay utichisqaraq kachkarqan.", "choice2": "Payqa mana kallpayuqhina kachkarqan.", "question": "cause", "label": 0, "idx": 335}
+{"premise": "Masiypa pantasqanmanta pampachayta mañarikurqani.", "choice1": "Sumaq sunquyuq runa kasqanpim iñirqani.", "choice2": "Aswan yachachasqanpi iñirqani.", "question": "cause", "label": 0, "idx": 336}
+{"premise": "Qhariqa manañam pitarqanñachu.", "choice1": "Payqa astawan ejerciciosta ruwarqan.", "choice2": "Tutallamanta hatariyta qallarirqan.", "question": "effect", "label": 0, "idx": 337}
+{"premise": "Waqmiqa maqaqnita saqmarqan.", "choice1": "Maqaqninqa wañurapurqan.", "choice2": "Maqaqninta yawarchakuyta qallarirqan.", "question": "effect", "label": 1, "idx": 338}
+{"premise": "Wach'iqa manam muyumanqa chayarqanchu.", "choice1": "Qharip wach'iyayninqa pantasqa kachkarqan.", "choice2": "Qhariqa manam llallichkarqanchu.", "question": "cause", "label": 0, "idx": 339}
+{"premise": "Wasiyuqya huk'ucha wañuchiqta waqyarqan.", "choice1": "Payqa wasinpa uranpi hatun huk'uchakunata tarirqan.", "choice2": "Payqa sisi thapata wasin ukhupi uywarqan.", "question": "cause", "label": 0, "idx": 340}
+{"premise": "Hawapi mikhunanchikpaq watukuqniyta rimayayqani.", "choice1": "Wayk'unaypaqqa saykusqa kachkarqani.", "choice2": "Watukuqniyqa nishuta qhipakurqan.", "question": "cause", "label": 0, "idx": 341}
+{"premise": "Diarionta ñawichaspam turanta sipasqa tarirqan.", "choice1": "Payqa diarionta pakayta qallarirqan.", "choice2": "Payqa musuq diariotam hap'iyta qallarirqan.", "question": "effect", "label": 0, "idx": 342}
+{"premise": "Alquilerninpaq manam sinchi qullqiyuqña warmiqa kachrarqan.", "choice1": "Payqa aswan horastam llamk'ayta qallarirqan.", "choice2": "Payqa llamk'ananta saqirqan.", "question": "effect", "label": 0, "idx": 343}
+{"premise": "Irqiqa utqaytam maqintaqa hurqurqan.", "choice1": "Payqa ruphay waykunatam llamirqan.", "choice2": "Payqa allquchapa umantam lulurqan.", "question": "cause", "label": 0, "idx": 344}
+{"premise": "Empresaqa rantiqninkunap imaynas kasqankutam qhawayta munarqan.", "choice1": "Paykunaqa descuentutam musuq rantiqkunapaqqa rurqanku.", "choice2": "Paykunaqa encuesta nisqatam rantiqninkumanqa haywarqanku.", "question": "effect", "label": 1, "idx": 345}
+{"premise": "Llaqllamanta pampaqa raskasqa karqan.", "choice1": "Warmaqa cojinesta pampaman wikch'urqan.", "choice2": "Warmaqa pampantintan tiyanata suchurirqan.", "question": "cause", "label": 1, "idx": 346}
+{"premise": "Uyayta pakarikurqani.", "choice1": "T'akanakuqmasiyqa sawkayuwachkarqan.", "choice2": "T'akanakuqmasiyqa saqmawachkarqan.", "question": "cause", "label": 1, "idx": 347}
+{"premise": "Ancha riqsisqa wankiqa k'anayukurqan.", "choice1": "Illapam ayparqan.", "choice2": "Runakunam yupaychaq hamurqanku.", "question": "cause", "label": 0, "idx": 348}
+{"premise": "Hamp'ara patapi añawita saqirqani.", "choice1": "Añawiqa rururqan.", "choice2": "Ch'uspikunam añawitaqa muyuparqanku.", "question": "effect", "label": 1, "idx": 349}
+{"premise": "Tusuqpa ank'unqan chutarparikurqan.", "choice1": "Payqa chaki rukanankunatam t'upsirqan.", "choice2": "Payqa wich'unqa q'iwikurqan.", "question": "cause", "label": 1, "idx": 350}
+{"premise": "Irqipa pasadorninkuna paskarikurqan.", "choice1": "Payqa watakuyta yacharqan.", "choice2": "Payqa patiopi phawaykacharqan.", "question": "cause", "label": 1, "idx": 351}
+{"premise": "Manchay kusisqa librowanqa karqani.", "choice1": "Librotaqa kutirachirqani.", "choice2": "Ima pachas kasqanta mana yuyancharqanichu.", "question": "effect", "label": 1, "idx": 352}
+{"premise": "Qhariqa taytamamanpa iñiyninpim iñirqan.", "choice1": "Taytamamanqa payta yachachirqanku.", "choice2": "Taytamamanqa payta mana charkirqankuchu.", "question": "cause", "label": 0, "idx": 353}
+{"premise": "Karru utinankamaqa allillamanta purirqan.", "choice1": "Mana gasolinayuq karqan.", "choice2": "Choferqa puñururqan.", "question": "cause", "label": 0, "idx": 354}
+{"premise": "Qhariqa misk'i chullunkuta ruphaypi mikhurqan.", "choice1": "Chullunkuqa q'aymayarqan.", "choice2": "Chullunkuqa sut'uyarqan.", "question": "effect", "label": 1, "idx": 355}
+{"premise": "Wankita p'irqapi warkurqani.", "choice1": "Mast'akunaqa qhillihina rikukurqanku.", "choice2": "P'irqakunaqa qasisqa qhawakurqanku.", "question": "cause", "label": 1, "idx": 356}
+{"premise": "Llamk'anaymanta temprano lluqsirqani.", "choice1": "Umaymi nanawarqan.", "choice2": "Umalliqniyqa huñunakuytam ruwarqan.", "question": "cause", "label": 0, "idx": 357}
+{"premise": "Allquchaqa m'astata qhillicharqan.", "choice1": "Runaqa allquchata k'amirqan.", "choice2": "Runaqa allquchata huk runaman qurqan.", "question": "effect", "label": 0, "idx": 358}
+{"premise": "Masiyman pampachakuyta mañakurqani.", "choice1": "Masiyta pampachawarqan.", "choice2": "Masiyqa phiñarikurqan.", "question": "effect", "label": 0, "idx": 359}
+{"premise": "Qhariqa runa chawpipi kaspapas rikurikurqan.", "choice1": "Payqa q'ipinta q'ipirqan.", "choice2": "Payqa neón nisqawan p'achakusqa karqan.", "question": "cause", "label": 1, "idx": 360}
+{"premise": "Rikuqqa sullullchaypi llullakurqan.", "choice1": "Payqa rikusqanta willayta tukurqan.", "choice2": "Payqa perjurio nisqamanta tumpachikurqan.", "question": "effect", "label": 1, "idx": 361}
+{"premise": "Warmiqa chukchanta lliphichikurqan.", "choice1": "Payqa hukniraq qhawakuyta munarqan.", "choice2": "Payqa wakinkunawan chaqrukuyta munarqan.", "question": "cause", "label": 0, "idx": 362}
+{"premise": "Hawa suyupi mana papelniyuq runakuna hap'ichikurqanku.", "choice1": "Paykunaqa llamk'anata tarikurqanku.", "choice2": "Paykunaqa qarquchikurqanku.", "question": "effect", "label": 1, "idx": 363}
+{"premise": "Runakunapa rimaqqa chansayta rimarqan.", "choice1": "Runakunaqa asiyukurqanku.", "choice2": "Runakunaqa sayarirqanku.", "question": "effect", "label": 0, "idx": 364}
+{"premise": "Intita qhawarqani.", "choice1": "Intiqa ñawsayachiwarqan.", "choice2": "Intiqa qarayta ch'umpiyachirqan.", "question": "effect", "label": 0, "idx": 365}
+{"premise": "Amisqa karqani.", "choice1": "Ukhuta samarirqani.", "choice2": "Hanllallirqani.", "question": "effect", "label": 1, "idx": 366}
+{"premise": "Sasa kuchunam aychaqa karqan.", "choice1": "Kuchunaqa mana ñawch'iyasqa karqan.", "choice2": "Aycha anku karqan.", "question": "cause", "label": 0, "idx": 367}
+{"premise": "Warmi mana qullqiyuq tukusqantam willarqan.", "choice1": "Payqa mikhunanpaq qullqitawan yanapachikurqan.", "choice2": "Payqa sinchi deuda nisqawan qhipakurqan.", "question": "cause", "label": 1, "idx": 368}
+{"premise": "Masiypa wasinqa k'ancharisqa karqan.", "choice1": "Hawamanchu lluqsirqan nispa tapukurqani.", "choice2": "Payman watukuq rinaypaq wakichikurqani.", "question": "effect", "label": 1, "idx": 369}
+{"premise": "T'ikata sinqayman asuchikurqani.", "choice1": "T'ikap panqanqa uymayarqan.", "choice2": "T'ikap q'apayninta muskiyarqani.", "question": "effect", "label": 1, "idx": 370}
+{"premise": "Warmiqa llakisqa tarikurqan.", "choice1": "Payqa irqi kasqanmanta masinwan tuparqan.", "choice2": "Payqa wawankunatam qhaparirqan.", "question": "cause", "label": 1, "idx": 371}
+{"premise": "Yachaqiqa qillqayninpi muyupayarqan.", "choice1": "Payqa utqay tukusqata qillqayninta apachirqan.", "choice2": "Payqa mana tukusqa qillqaynintam apachirqan.", "question": "effect", "label": 1, "idx": 372}
+{"premise": "Karruyqa mana purirqanchu.", "choice1": "Qhatunamanmi ririqani.", "choice2": "Mecánico nisqamanmi waqyarqani.", "question": "effect", "label": 1, "idx": 373}
+{"premise": "Qillqasqata wikchurqani.", "choice1": "Mana sutiyuq karqan.", "choice2": "Manan ñawinchayta atikurqanchu.", "question": "cause", "label": 1, "idx": 374}
+{"premise": "Urpiqa rapranta maywiriyta qallarirqan.", "choice1": "Runtura churarqan.", "choice2": "Wichayman siqayta qallarirqan.", "question": "effect", "label": 1, "idx": 375}
+{"premise": "Ñan patapi karruta sayachirqani.", "choice1": "Garage nisqaqa kichasqa karqan.", "choice2": "Garage nisqaqa hunt'a karqan.", "question": "cause", "label": 1, "idx": 376}
+{"premise": "Q'umalliqqa runatam armawan t'upsichirqan.", "choice1": "Q'umalliqqa armata urayachirqan.", "choice2": "Runaqa t'upsichisqaqa makinta huqarirqan.", "question": "effect", "label": 1, "idx": 377}
+{"premise": "Semana tukuyuyta anchata suyarqani.", "choice1": "Tiyuypa wañunanmami chayanay karqan.", "choice2": "Masiypa sawayninmanmi chayanay karqan.", "question": "cause", "label": 1, "idx": 378}
+{"premise": "Ima pachachus kasqanmnataqa chinkasqa karqani.", "choice1": "Rikchasqaña kaspapachas musphaspahina karqani.", "choice2": "Aqtunaywanmi karqani.", "question": "cause", "label": 0, "idx": 379}
+{"premise": "Ñitichasqa qillqaqa mana ñawichayta atikurqanchu.", "choice1": "Ñitichaq impresoraqa mana llimpiyuq karqan.", "choice2": "Impresoraqa mana raphiyuq karqan.", "question": "cause", "label": 0, "idx": 380}
+{"premise": "Estadiopi himno nacional nisqata takirqanku.", "choice1": "Runakuna unanchata qhawarqanku.", "choice2": "Runakunaqa kanchamanmi haykurqanku.", "question": "effect", "label": 0, "idx": 381}
+{"premise": "Llaqwaqa q'ayma kachkarqan.", "choice1": "Qarayukurqani.", "choice2": "Kachiwan yapayurqani.", "question": "effect", "label": 1, "idx": 382}
+{"premise": "Unuchasqa patapi papel tohalla nisqata churarqani.", "choice1": "Tohallaqa unuta suqurqan.", "choice2": "Hich'asqaqa llawsasqata puchurqan.", "question": "effect", "label": 0, "idx": 383}
+{"premise": "Warmi librunta ñawichachkaptin tatichikurqan.", "choice1": "Payqa raphinta tupsichirqan.", "choice2": "Payqa wakmanta librunta ñawicharqan.", "question": "effect", "label": 1, "idx": 384}
+{"premise": "Aviónqa  phawaypi ch'aqwaykunawan t'inkurqan.", "choice1": "Qhariqa amachasqa kanapaq cinturonta m'atiparqan.", "choice2": "Qhariqa wintanantinta qhawarqan.", "question": "effect", "label": 0, "idx": 385}
+{"premise": "Qhari irqiqa tunpachata ayqirikurqan.", "choice1": "Warmi irqiqa mana paymantaqa uyakurqanchu.", "choice2": "Warmi irqiqa tunpachata tanqarirqan.", "question": "cause", "label": 1, "idx": 386}
+{"premise": "Hamp'iqqa prótesis nisqatam runamanqa qurqan.", "choice1": "Paykunaqa runap chakintam wanqurqanku.", "choice2": "Paykunaqa runa samasqantawan sunqun purisqantawan qhawarqanku.", "question": "cause", "label": 0, "idx": 387}
+{"premise": "Qhari warma warmi warmaman kukuchunta p'itirqan.", "choice1": "Warmi warmaqa qhari warmap qayllaypi rikranta q'intikurqan.", "choice2": "Warmi warmaqa makanta hurqurparirqan.", "question": "effect", "label": 1, "idx": 388}
+{"premise": "Hamut'ayninwan yanapawananpaqmi masiyta tapukurqani.", "choice1": "Hamut'ayninta chanincharqani.", "choice2": "Ñuqam imapas allin kasqanta yacharqani.", "question": "cause", "label": 0, "idx": 389}
+{"premise": "Maqt'aqa t'urupi sarururqan.", "choice1": "Zapatonmi t'uruchakurqan.", "choice2": "T'uruqa uyanmanmi laq'akurqan.", "question": "effect", "label": 0, "idx": 390}
+{"premise": "Achka rit'im llaqtapiqa chayarqan.", "choice1": "Escuelakuna wichq'arikurqan.", "choice2": "Runakunaqa ukhu pacha wasikunapi waqaychakurqanku.", "question": "effect", "label": 0, "idx": 391}
+{"premise": "Llamk'aqpa mit'a llamk'ayninqa tukurukurqan.", "choice1": "Payqa wasinmanmi pasapurqan.", "choice2": "Payqa llamk'ananta wikch'unanpaqmi rimapakurqan.", "question": "effect", "label": 0, "idx": 392}
+{"premise": "Sach'aqa wasitam thuniyachirqan.", "choice1": "Wasi pataman sach'a urmarparirqan.", "choice2": "Wasi qhipatam sach'aqa llanthuyachirqan.", "question": "cause", "label": 0, "idx": 393}
+{"premise": "Kurkuqa iskayman ch'iqtarikurqan.", "choice1": "Kanana patapi llant'ata tawqarqani.", "choice2": "Hachawanmi kurkuta t'akarqani.", "question": "cause", "label": 1, "idx": 394}
+{"premise": "Aylluqa warmiqhariman samincharqanku.", "choice1": "Warmiqhariqa t'aqanakurqanku.", "choice2": "Warmiqhariqa wawachayuq tukusqankuta willakurqanku.", "question": "cause", "label": 1, "idx": 395}
+{"premise": "Sipasqa san valentin p'unchawpi cartata waynaman apachirqan.", "choice1": "Payqa chay waynata munakurqan.", "choice2": "Payqa chay waynata much'ayarqan.", "question": "cause", "label": 0, "idx": 396}
+{"premise": "Masiypa rimasqanmantaqa umayta k'umuchirqani.", "choice1": "Rimasqanmanta mana chiqaqchu karqani.", "choice2": "Rimasqanmanta chiqaqmi karqani.", "question": "cause", "label": 0, "idx": 397}
+{"premise": "Masikunaqa monedata hanaqman wikch'urqanku.", "choice1": "Paykunaqa sullullchayta munarqanku.", "choice2": "Paykunaqa paqtachayta munarqanku.", "question": "cause", "label": 1, "idx": 398}
+{"premise": "Honornopi yupana kaq tukukurqan.", "choice1": "Qhariqa refrigeradoramanmi imaymana churayta qallarirqa.", "choice2": "Qhariqa hornopi pizza kaqta hurquyta qallarirqan.", "question": "effect", "label": 1, "idx": 399}
+{"premise": "Warmiqa ruwayninta tukunanpaqpuni takyachikurqan.", "choice1": "Payqa qillarikurqan.", "choice2": "Payqa aswantam llamk'arqan.", "question": "effect", "label": 1, "idx": 400}
+{"premise": "Qhapaq qhariqa machuyaymanta wañurqan.", "choice1": "Legal puriymanmi churinqan urmarirqan.", "choice2": "Churinqa taytanpa hapuqninwanmi qhipakurqan.", "question": "effect", "label": 1, "idx": 401}
+{"premise": "Nina hatariqmanmi warmiqa sarupayarqan.", "choice1": "Nina hatariqqa wañururqan.", "choice2": "Nina hatariqmanta q'usñiyayta qallarirqan.", "question": "effect", "label": 0, "idx": 402}
+{"premise": "Warmip karrunqa wakmanta qhatunapi karqan.", "choice1": "Karru purichinanpaq licencia nisqanmi qulluchikurqan.", "choice2": "Karrunqa accidente nisqapim karqan.", "question": "cause", "label": 0, "idx": 403}
+{"premise": "Alarma kachkaptinpas ñuqaqa puñurqarisqani.", "choice1": "Chikch'aspataq manaña unu t'impuytapas ruwarqaniñachu.", "choice2": "Rikch'aspataq unu t'impu ruwakuyta ayparqanim.", "question": "effect", "label": 0, "idx": 404}
+{"premise": "Llaqta riqsisqa runqaa limosinamanta urayurqan.", "choice1": "Camarografo nisqakunaqa paykama qhawapayarqanku.", "choice2": "Ayllunmi rueda de prensa nisqaman chayarqanku.", "question": "effect", "label": 0, "idx": 405}
+{"premise": "Bañerapi warmiqa wikchulayarqan.", "choice1": "Yakuqa chiriyayta qallarirqan.", "choice2": "Yakuqa tinamanta hawamanmi sut'uyarqan.", "question": "effect", "label": 0, "idx": 406}
+{"premise": "Hatun-yachaywasipi yachaqiqa yachaqmasinkunawanmi riqsinakuyta munarqan.", "choice1": "Fraternidad huñunakuqmanmi haykurqan.", "choice2": "Ingenieria nisqapim kallpanchakurqan.", "question": "effect", "label": 0, "idx": 407}
+{"premise": "Sofá tiyanapi sawnachakunata llampuyachirqani.", "choice1": "Monedas qullqitam maskhachkarqani.", "choice2": "Sala k'ititam allichachkarqani.", "question": "cause", "label": 1, "idx": 408}
+{"premise": "Urunquyqa maqt'amanmi phalarqan.", "choice1": "Maqt'aqa phawaspa ayqikurqan.", "choice2": "Maqt'aqa t'ikata pallakurqan.", "question": "effect", "label": 0, "idx": 409}
+{"premise": "Warmiqa huch'uy huchayuq tarikurqan.", "choice1": "Payqa llaqtapaq huch'uy llamk'aykunata ruwananparmi hayratakurqan.", "choice2": "Payqa huch'anrayku runa wañuchiy suyaypi hayratakurqan.", "question": "effect", "label": 0, "idx": 410}
+{"premise": "Quñi matipi azucarta qaywirqani.", "choice1": "Matiqa wapsikurqan.", "choice2": "Azucarqa chhullupurqan.", "question": "effect", "label": 1, "idx": 411}
+{"premise": "Wamink'aqa wiqru chakintin purirqan.", "choice1": "Awqa-tinkuypaqmi apachikurqan.", "choice2": "Awqanakuypim k'irichikurqan.", "question": "cause", "label": 1, "idx": 412}
+{"premise": "Q'umalliqqa policíamanta phawarurqan.", "choice1": "Policíaqa arpana runatam yanaparirqan.", "choice2": "Policíaqa q'umalliqta qatikacharqan.", "question": "effect", "label": 1, "idx": 413}
+{"premise": "Laptopqa mana hap'ichikurqanchu.", "choice1": "Urmarachirqani.", "choice2": "Baterianta hunt'achirqani.", "question": "cause", "label": 0, "idx": 414}
+{"premise": "Waqmip p'achan waqaychananqa hunt'a karqan.", "choice1": "Payqa sinchitam p'achataqa rantirukurqan.", "choice2": "Payqa p'achanta p'atarayarqan.", "question": "cause", "label": 0, "idx": 415}
+{"premise": "Qhariqa sunqun qhasusqa kachkarqan.", "choice1": "Warmin wachakurqan.", "choice2": "Warmin payta saqirurqan.", "question": "cause", "label": 1, "idx": 416}
+{"premise": "Académico grado nisqatam qhariqa ayparqan.", "choice1": "Payqa munasqan llamk'aymanmi aypayta atirurqan.", "choice2": "Paypa llamk'ananmi utichikurqan.", "question": "effect", "label": 0, "idx": 417}
+{"premise": "Qharip kunkanqa hinantin auditoriopi uyarikurqan.", "choice1": "Payqa runakunata napayukurqan.", "choice2": "Payqa micrófono nisqapi rimarqan.", "question": "cause", "label": 1, "idx": 418}
+{"premise": "Pukyu ruwasqapi moneda nisqata wikch'urqani.", "choice1": "Monedaqa ukhukama urmarqan.", "choice2": "Monedaqa iskayman p'akirikurqan.", "question": "effect", "label": 0, "idx": 419}
+{"premise": "Pukllaqqa t'uqumanmi sinkuta tanqayarqan.", "choice1": "Sinkuqa t'uquman haykurqan.", "choice2": "Sinkuqa pukllaqmanmi kutirirqan.", "question": "effect", "label": 0, "idx": 420}
+{"premise": "Q'usñi allpata samayurqani.", "choice1": "Hik'iyarqani.", "choice2": "Hachhiyarqani.", "question": "effect", "label": 1, "idx": 421}
+{"premise": "Cajeroqa wachimanta waqyarqan.", "choice1": "Rantikuqqa yanqa qullqiwan rantiyta munarqan.", "choice2": "Rantikuqqa luces nisqatam k'ancharisqata saqirqan.", "question": "cause", "label": 0, "idx": 422}
+{"premise": "Qupata hawaman aparqani.", "choice1": "Qupaqa wayk'una k'ititam asnarachirqan.", "choice2": "Rantisqaymanta recibo nisqatam qupapi chinkarachirqani.", "question": "cause", "label": 0, "idx": 423}
+{"premise": "Aylluqa Zoo nisqaman rirqanku.", "choice1": "Wawakunaqa wichq'asqa uywakunamanta yacharqanku.", "choice2": "Wawakunaqa uywakunata qatikacharqanku.", "question": "effect", "label": 0, "idx": 424}
+{"premise": "Qharip samayninqa sinchim karqan.", "choice1": "Wasa rurunmi mana allinchu kachkarqan.", "choice2": "Surq'anninmi mana allinchu karqan.", "question": "cause", "label": 1, "idx": 425}
+{"premise": "Concientoman haykunapaq huk boleto puchuwarqan.", "choice1": "Imayna chayanapaq masiyta tapurqani.", "choice2": "Masiyta tapurqani riytachus manchus munanman chayta.", "question": "effect", "label": 1, "idx": 426}
+{"premise": "Wasip aire acondicionado nisqan p'akirikusqa.", "choice1": "Qatakunata hurqurqani.", "choice2": "Wayrana kicharqani.", "question": "effect", "label": 1, "idx": 427}
+{"premise": "Warmapa wasanmi nanarqan.", "choice1": "Mochilanmi kicharayarqan.", "choice2": "Mochilanmi llasarqan.", "question": "cause", "label": 1, "idx": 428}
+{"premise": "Mamaypaq suñata rantirqani.", "choice1": "Pastelta paypaq ruwarqani.", "choice2": "Paqarisqan p'unchawninmi karqan,.", "question": "cause", "label": 1, "idx": 429}
+{"premise": "Muyapi narcisos t'ikakuna sarunchasqa tukurqanku.", "choice1": "Muyu allichaq runata wanquyru k'uturqan,.", "choice2": "Ardillakuna t'ikap papanta hurqurqanku.", "question": "cause", "label": 1, "idx": 430}
+{"premise": "Fosforota hap'irachirqani.", "choice1": "Ninaqa wañururqan.", "choice2": "Fosforoqa ninata hat'arichirqan.", "question": "effect", "label": 1, "idx": 431}
+{"premise": "Sasachakuqkunaqa paykunapuralla rimayman chayarqanku.", "choice1": "Manam tribunalman riyta munarqankuchu.", "choice2": "Paykunaqa imayna apakusqankuta allichayta munarqanku.", "question": "cause", "label": 1, "idx": 432}
+{"premise": "Wawakunaqa wakcha wawakunap wasinman apachikurqanku.", "choice1": "Taytamamanku wañukapurqanku.", "choice2": "Taytamamankuqa chaqlliyarqanku.", "question": "cause", "label": 0, "idx": 433}
+{"premise": "Mama quchaman meteorito nisqa urmarisqa.", "choice1": "Tsunami hatarirqan.", "choice2": "Chikchi qallarirqan.", "question": "effect", "label": 0, "idx": 434}
+{"premise": "Puriqqa mach'aqwanwan tarirukurqan.", "choice1": "Payqa ch'akisqa karqan.", "choice2": "Payqa mancharikurqan.", "question": "effect", "label": 1, "idx": 435}
+{"premise": "Hornoqa ruphayña karqan.", "choice1": "Hornota hap'ichirqani.", "choice2": "Pukuta hornoman churarqani.", "question": "cause", "label": 0, "idx": 436}
+{"premise": "Q'allu limonta q'apirqani.", "choice1": "Limonqa qurwayasqa karqan.", "choice2": "Limonqa sutuyarqan.", "question": "effect", "label": 1, "idx": 437}
+{"premise": "Suyuqa musuq allpakunata riqsirqan.", "choice1": "Suyuqa manam allpakunata imanarqanpaschu.", "choice2": "Suyuqa riqsisqa allpata allpanchakurqan.", "question": "effect", "label": 1, "idx": 438}
+{"premise": "Vaso hamp'aramanta urmaykamurqan.", "choice1": "Pampapi p'akirukurqan.", "choice2": "P'acha p'acha patapi urmaramurqan.", "question": "effect", "label": 0, "idx": 439}
+{"premise": "Hamp'ara kuyuykachakurqan.", "choice1": "Pampaqa manam p'altapunichu karqan.", "choice2": "Pampaqa llusk'ayachkarqan.", "question": "cause", "label": 0, "idx": 440}
+{"premise": "Churinpa llullakusqantam taytanqa tarirqan.", "choice1": "Churinmi ima chiqan kasqanta willakurqan.", "choice2": "Taytanqa churinpa rimasqanpi iñirqanpuni.", "question": "effect", "label": 0, "idx": 441}
+{"premise": "Qharipa umanqa nanaymanta t'ipuykacharqan.", "choice1": "Uhupaq hamp'itam upyayarqan.", "choice2": "Aspirina hamp'itam millpuyarqan.", "question": "effect", "label": 1, "idx": 442}
+{"premise": "Trenqa allillamanta puriyarqan.", "choice1": "Estaciónmanmi asuyarqan.", "choice2": "Chayananmantam unayarqan.", "question": "cause", "label": 0, "idx": 443}
+{"premise": "Qhariqa terpapiamanmi rirqan.", "choice1": "Ayllunpiqa umamanta unquywanmi karqanku.", "choice2": "Llaki uyquywanmi payqa tarikurqan.", "question": "cause", "label": 1, "idx": 444}
+{"premise": "Warmiqa kunkantam hap'ikurqan.", "choice1": "Payqa mikhunantam millpurqan.", "choice2": "Payqa mikhunanwanmi chakachikurqan.", "question": "cause", "label": 1, "idx": 445}
+{"premise": "Warmiqa kunka nanaywanmi karqan.", "choice1": "Rimayninqa ch'aka uyarikurqan.", "choice2": "Payqa hukniraqtam rimarqan.", "question": "effect", "label": 0, "idx": 446}
+{"premise": "Allquqa hamp'ara patapi aychatam qhawarqan.", "choice1": "Llawsayachkarqan.", "choice2": "Thallayukurqan.", "question": "effect", "label": 0, "idx": 447}
+{"premise": "Warmip negocionqa allinmi kachkarqan.", "choice1": "Paypaq llamk'aqkunatam qarqurqan.", "choice2": "Payqa qhapaqyarqan.", "question": "effect", "label": 1, "idx": 448}
+{"premise": "Yachaqikunaqa aulamanta lluqsirqanku.", "choice1": "Campanam uyarikurqan.", "choice2": "Yachachiqmi wasinpi llamk'anankupaq kurqan.", "question": "cause", "label": 0, "idx": 449}
+{"premise": "Manchachiqta qhawasqanmantam warmiqa rimarirqan.", "choice1": "Riqsiqmasinkunaqa manam iñirqankuchu.", "choice2": "Riqsiqmasinkunaqa paymanmi willarikurqanku.", "question": "effect", "label": 0, "idx": 450}
+{"premise": "Qhariqa upayarparirqan.", "choice1": "Payqa yaqalla mama-quchapi hiq'iparirqan.", "choice2": "Payqa yaqalla bomba t'uqyaypi wañurirqan.", "question": "cause", "label": 1, "idx": 451}
+{"premise": "Irqiqa p'urunpa q'aytunta chacharirqan.", "choice1": "P'uruqa chhasarikurqan.", "choice2": "P'uruqa hanaqmanmi siqaykurqan.", "question": "effect", "label": 1, "idx": 452}
+{"premise": "Qhariqa rimayninta chinkarachirqan.", "choice1": "Derrame cerebral nisqawanmi tarikurqan.", "choice2": "Payqa ukhumanmi samarirqan.", "question": "cause", "label": 0, "idx": 453}
+{"premise": "Veredapim warmi mitk'arikurqan.", "choice1": "Cementopi rakra t'uqu karqan.", "choice2": "Pikunas sutinmanta waqyasqanta uyarirqan.", "question": "cause", "label": 0, "idx": 454}
+{"premise": "Qhariqa runp'upakuspa piscinamanmi chapurparikurqan.", "choice1": "Salvavidas runaqa qhipanpi chapurparikurqan.", "choice2": "Salvavidasmanmi yakuwan chhallpurirqan.", "question": "effect", "label": 1, "idx": 455}
+{"premise": "Atibióticos nisqata millpurqani.", "choice1": "Infección nisqayqa thaniyarqan.", "choice2": "Infección nisqayqa aswanmi ch'iqirikurqan.", "question": "effect", "label": 0, "idx": 456}
+{"premise": "Semáforo nisqaqa q'illupi churarikurqan.", "choice1": "Choferqa freno nisqaqa ñitirqan.", "choice2": "Bocinanta choferqa qhaparichirqan.", "question": "effect", "label": 0, "idx": 457}
+{"premise": "Waqaychana plásticoqa sut'uyarqan.", "choice1": "Ruphayaq yakuta plástico nisqaman hicharqani.", "choice2": "Ruphayaq cocinapi plásticotaqa churarqani.", "question": "cause", "label": 1, "idx": 458}
+{"premise": "Karruqa q'apñurukurqan.", "choice1": "Poste nisqawanmi karruqa tak'arukurqan.", "choice2": "Puka luz nisqatam carruqa chimparurqan.", "question": "cause", "label": 0, "idx": 459}
+{"premise": "Maqtaqa tutantinkama yachananta yacharirqan.", "choice1": "Exámen nisqata mana rurarqanchu.", "choice2": "Exámen nisqata wasaparqan.", "question": "effect", "label": 1, "idx": 460}
+{"premise": "Waynaqa piscinapa patanmanta hap'ikurqan.", "choice1": "Payqa wamp'uy yachaytam manchakurqan.", "choice2": "Salvavidas nisqaqa llamk'ayninpim karqan.", "question": "cause", "label": 0, "idx": 461}
+{"premise": "Makiytam qhasquypi churakurqani.", "choice1": "Suyquy katatataqnintam uyarqani.", "choice2": "Sunquyqa sinchinta katatatachkarqan.", "question": "effect", "label": 0, "idx": 462}
+{"premise": "Oficinaypa kinranpi edificio hatarichikuchkarqan.", "choice1": "Oficinayqa hunt'a runalla karqan.", "choice2": "Oficinaypiqa sinchitam ruqyayarqan.", "question": "effect", "label": 1, "idx": 463}
+{"premise": "Aylluqa musuq wasimasinkunata riqsiyta munarqan.", "choice1": "Aylluqa wasimasinkunawan mikhunankupaq mink'arikurqan.", "choice2": "Aylluqa wasi qhipanmanta wasimasinkunataqa napayukurqan.", "question": "effect", "label": 0, "idx": 464}
+{"premise": "Piscinamanta yaku chaqchururqan.", "choice1": "Wamp'uqmi piscinaman chapukurqan.", "choice2": "Wamp'uqmi piscinapi tuyturqan.", "question": "cause", "label": 0, "idx": 465}
+{"premise": "Huk q'allu sandíata mikhurqani.", "choice1": "Pantaruspa rurunta millpurqani.", "choice2": "Pantaruspa kiruyta p'akirikurqani.", "question": "effect", "label": 0, "idx": 466}
+{"premise": "Irqiqa mitk'arqan.", "choice1": "Casaca nisqanmi k'ichasqa karqan.", "choice2": "Pasadores nisqankunam mana watasqa karqanku.", "question": "cause", "label": 1, "idx": 467}
+{"premise": "Warmiqa ninrinman tapones nisqata churakurqan.", "choice1": "Paywa ruqyaywanmi umanta muyuchikuchkarqan.", "choice2": "Payqa ninrinta t'uquchikurqan.", "question": "cause", "label": 0, "idx": 468}
+{"premise": "Wakmanta yaku botellayta hillp'urqani.", "choice1": "Llapam yakuytam upyarurqani.", "choice2": "Refrigeradorapi waqaycharqani.", "question": "cause", "label": 0, "idx": 469}
+{"premise": "Telvisiónpi programaqa qullucharqakun.", "choice1": "Q'illi simikunawan rimaq karqanku.", "choice2": "Sasa willayniyuq karqan.", "question": "cause", "label": 0, "idx": 470}
+{"premise": "Wamp'unata mama-qucha millpurqan.", "choice1": "Wanp'uqkunaqa hiq'iparqanku.", "choice2": "Wamp'uqkunaqa pirata runakunawan tarikurqanku.", "question": "effect", "label": 0, "idx": 471}
+{"premise": "Waynaqa musyaymanta tunkiyarqan.", "choice1": "Payqa musyayta sut'inyachirqan.", "choice2": "Sut'inyachinanpaqqa yanapayta mañakurqan.", "question": "effect", "label": 1, "idx": 472}
+{"premise": "Telefonoqa uyarikurqan.", "choice1": "Qhariqa teléfonota qulluchirqan.", "choice2": "Qhariqa teléfonota huqarirqan.", "question": "effect", "label": 1, "idx": 473}
+{"premise": "Warmiqa ñuqallaman qhawawachkarqan.", "choice1": "Ñuqataq makallirqani.", "choice2": "Ñuqataq mana qhasillachu karqani.", "question": "effect", "label": 1, "idx": 474}
+{"premise": "Huñu runaqa museomanta lluqsirqanku.", "choice1": "Museopi qhawachikusqanmanta rikch'aykunata hurqurqanku.", "choice2": "Museopi qhawachikusqanmanta llapanta rikurqanku.", "question": "cause", "label": 1, "idx": 475}
+{"premise": "Qhariqa ñuqawan kaminakuyta qhallarirqan.", "choice1": "Masiymi qharitaqa riqsichiwarqan.", "choice2": "Masiyqa ñuqanmanta sayarirqan.", "question": "effect", "label": 1, "idx": 476}
+{"premise": "Bicicletaypa llantanqa chhasayarusqa.", "choice1": "Llantanta punkiyachirqani.", "choice2": "Engranajenta allichachirqani.", "question": "effect", "label": 0, "idx": 477}
+{"premise": "Warmapa uyanqa q'illuyachkarqan.", "choice1": "Taytanqa willakuytam paymanqa ñawicharqan.", "choice2": "Taytanqa warmap mat'inta llamiparqan.", "question": "effect", "label": 1, "idx": 478}
+{"premise": "Lapiceropa llimphinqa tukurukurqan.", "choice1": "Lapizwan qillqarqani.", "choice2": "Sutiytam siq'icharqani.", "question": "effect", "label": 0, "idx": 479}
+{"premise": "Qharimanqa manam qullqitaqa manurqankuchu.", "choice1": "Payqa manukusqaraqmi karqan.", "choice2": "Payqa kikin negocionta qallarirqan.", "question": "cause", "label": 0, "idx": 480}
+{"premise": "Warmaqa manam escuelaman rirqanchu.", "choice1": "Payqa varicela unquywanmi karqan.", "choice2": "Payqa supaytam matématicas nisqata munakurqan.", "question": "cause", "label": 0, "idx": 481}
+{"premise": "Qupa churana plasticoqa hunt'am kachkarqan.", "choice1": "Contenedorman qhasiyachinapaqmi aparqani.", "choice2": "Lavaplatospa qhilli yaku pasananpi winarqani.", "question": "effect", "label": 0, "idx": 482}
+{"premise": "Aspiradorawan mast'ata picharqani.", "choice1": "Tiyaqmasiymi ponche nisqata hich'ayasqa.", "choice2": "Alluypa chukchanmi urmayusqa.", "question": "cause", "label": 1, "idx": 483}
+{"premise": "Qhariqa waq'ayarparirqan.", "choice1": "Computadoranmi wañururqan.", "choice2": "Huk law cuartomanmi tiyanata chuqarqan.", "question": "effect", "label": 1, "idx": 484}
+{"premise": "Warmaqa huch'uy kallmata ninaman wikchurqan.", "choice1": "Kallmaqa kanarirqan.", "choice2": "Ninaqa wañurirqan.", "question": "effect", "label": 0, "idx": 485}
+{"premise": "Duchamanta qhariqa lluqsirqan.", "choice1": "Quñi yakuqa tukurukusqa.", "choice2": "Toallata manam tariyta atisqachu.", "question": "cause", "label": 0, "idx": 486}
+{"premise": "Mamataytaqa wawankuna universidadman rinankuta munarqanku.", "choice1": "Matriculanankupaq qullqitam waqaycharqanku.", "choice2": "Hawakunapi pukllakunankupaqmi kallpancharqanku.", "question": "effect", "label": 0, "idx": 487}
+{"premise": "Qhariqa zapatonta paskarikurqan.", "choice1": "Zapatukunaqa wayayachikurqanku.", "choice2": "Zapatukunaqa mawk'ayarparirqanku.", "question": "effect", "label": 0, "idx": 488}
+{"premise": "Qhariqa wakin mikhunallatam mikhurqan.", "choice1": "Puchusqantaqa refrigeradorapi waqaychakurqan.", "choice2": "Receta nisqata waqaychakurqan.", "question": "effect", "label": 0, "idx": 489}
+{"premise": "Chaki muquy p'unkisqa kachkarqan.", "choice1": "Chullunkuwan churakurqani.", "choice2": "Loción nisqawan llusikurqani.", "question": "effect", "label": 0, "idx": 490}
+{"premise": "Oficinaypa punkun kicharayasqa karqan.", "choice1": "Llamk'aqmasiywan hamp'araypi rimarqani.", "choice2": "Salapi rimasqankuta uyarirqarani.", "question": "effect", "label": 1, "idx": 491}
+{"premise": "Suyanaymi karqan sinripi.", "choice1": "Tiyarikurqani.", "choice2": "Revistata ñawincharqani.", "question": "effect", "label": 0, "idx": 492}
+{"premise": "Qhariqa ch'uspita sipirqan.", "choice1": "Ch'uspip unyayninqa uyarikurqanraq.", "choice2": "Ch'uspiqa manaña kuyurqanñachu.", "question": "effect", "label": 1, "idx": 493}
+{"premise": "Qhariqa testamento nisqata qillqarqan.", "choice1": "Payqa wañuyachkarqan.", "choice2": "Payqa pasu karqan.", "question": "cause", "label": 0, "idx": 494}
+{"premise": "Phawaqqa atipanakuypim wasapachikuchkarqan.", "choice1": "Payqa phaway atipanakuyta saqirqan.", "choice2": "Payqa aswan utqayta phawarirqan.", "question": "effect", "label": 1, "idx": 495}
+{"premise": "Sasakaymanta hamut'arqani.", "choice1": "Hukkunapa yachayninkuta mañakurqani.", "choice2": "Sasakayta wasapanapaq umaypi tarirqani.", "question": "effect", "label": 1, "idx": 496}
+{"premise": "Illaq runaqa warkurayaq chakamanmi haykurqan.", "choice1": "Payqa mancharikurqan.", "choice2": "Payqa rawraq sunquyuq tarikurqan.", "question": "effect", "label": 1, "idx": 497}
+{"premise": "Qhariqa ña yacharirqanña equipo llallipananmantaqa.", "choice1": "Payqa masinkunawanmi partido qhawanapaq huñunakurqan.", "choice2": "Payqa masinkunawanmi misanakurqan.", "question": "effect", "label": 1, "idx": 498}
+{"premise": "Irqiqa manam puñuyta atirqanchu.", "choice1": "Rikchachiqta churakurqan.", "choice2": "Uwihakunata yupayta qallarirqan.", "question": "effect", "label": 1, "idx": 499}
