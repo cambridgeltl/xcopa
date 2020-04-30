@@ -85,7 +85,7 @@
 {"premise": "L'inchiostro sul poster si sbavò.", "choice1": "Avevo aspettato che l'inchiostro asciugasse.", "choice2": "Avevo rovesciato dell'acqua sul poster.", "question": "effect", "label": 1, "idx": 84, "changed": false}
 {"premise": "Il bambino si svegliò urlando.", "choice1": "Aveva avuto un incubo.", "choice2": "Aveva bagnato il letto.", "question": "effect", "label": 0, "idx": 85, "changed": false}
 {"premise": "Il ragazzo mise i piedi sul tavolo.", "choice1": "I padre si sedette al tavolo.", "choice2": "Il padre lo sgridò.", "question": "effect", "label": 1, "idx": 86, "changed": false}
-{"premise": "Il mio amico girò la testa verso di me.", "choice1": "Avevo gridato il suo nome.", "choice2": "Avevo agitato le braccia.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "Il mio amicò girò la testa verso di me.", "choice1": "Avevo gridato il suo nome.", "choice2": "Avevo agitato le braccia.", "question": "effect", "label": 0, "idx": 87, "changed": false}
 {"premise": "Il governo aveva oppresso i suoi cittadini.", "choice1": "I cittadini inscenarono una rivolta.", "choice2": "I cittadini si registrarono per votare.", "question": "effect", "label": 0, "idx": 88, "changed": false}
 {"premise": "Un ragazzo si era perso nel bosco.", "choice1": "Montò una tenda.", "choice2": "Urlò aiuto.", "question": "effect", "label": 1, "idx": 89, "changed": false}
 {"premise": "La donna aveva viaggiato all'estero.", "choice1": "Voleva imparare a disegnare.", "choice2": "Voleva conoscere altre culture.", "question": "effect", "label": 1, "idx": 90, "changed": false}
@@ -394,7 +394,7 @@
 {"premise": "L'albero danneggiò la casa.", "choice1": "L'albero era caduto sul tetto.", "choice2": "L'albero faceva ombra sul giardino.", "question": "effect", "label": 0, "idx": 393, "changed": false}
 {"premise": "Il legno si spaccò a metà.", "choice1": "Avevo impilato il legno nel camino.", "choice2": "Avevo fatto scendere un colpo d'ascia sul legno.", "question": "effect", "label": 1, "idx": 394, "changed": false}
 {"premise": "La famiglia fece le sue congratulazioni alla coppia.", "choice1": "La coppia aveva annunciato che si stavano separando.", "choice2": "La coppia aveva annunciato che stavano avando un bambino.", "question": "effect", "label": 1, "idx": 395, "changed": false}
-{"premise": "La ragazza aveva inviato al ragazzo un biglietto di San Valentino.", "choice1": "Lui le piaceva.", "choice2": "Lei lo aveva baciato.", "question": "effect", "label": 0, "idx": 396, "changed": false}
+{"premise": "La ragazza aveva inviato al ragazzo un biglietto di S. Valentino.", "choice1": "Lui le piaceva.", "choice2": "Lei lo aveva baciato.", "question": "effect", "label": 0, "idx": 396, "changed": false}
 {"premise": "Annuii all'affermazione del mio amico.", "choice1": "Ero confuso.", "choice2": "Ero d'accordo con lui.", "question": "effect", "label": 1, "idx": 397, "changed": false}
 {"premise": "Gli amici lanciarono una moneta.", "choice1": "Volevano trovare un compromesso.", "choice2": "Volevano prendere la decisione giusta.", "question": "effect", "label": 1, "idx": 398, "changed": true}
 {"premise": "Il timer aveva suonato in cucina.", "choice1": "L'uomo scaricò la spesa nel frigorifero.", "choice2": "L'uomo tirò fuori la pizza dal forno.", "question": "effect", "label": 1, "idx": 399, "changed": false}
