@@ -24,7 +24,7 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 
 ## Baselines
 
-![](baselines.pdf)
+![](baselines.png)
 
 ## Cite
 
