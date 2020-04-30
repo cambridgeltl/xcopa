@@ -24,7 +24,7 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 
 ## Baselines
 
-![Per-language XCOPA results for XLM-R, MBERT, and USE](baselines.png)
+![](baselines.pdf)
 
 ## Cite
 
