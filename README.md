@@ -10,7 +10,7 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 |---|---|---|---|---|
 | qu | Sipasqa cereal mikhunanpi kurutatarirqan. | Result | Payqa pukunman ñuqñuta churakurqan. | Payqa manam mikhuytamunarqanchu. |
 | en | The girl found a bug in her cereal. | Result | She poured milk in the bowl. |She lost her appetite. |
-| th | ตาของฉันแดงและบวมCฉันร | Cause | องไห | ฉันหัวเราะ |
+| th | ตาของฉันแดงและบวมฉันร | Cause | องไห | ฉันหัวเราะ |
 | en | My eyes became red and puffy. | Cause | I was sobbing. | I was laughing. |
 
 ## Languages
