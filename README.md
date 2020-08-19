@@ -8,20 +8,20 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 
 | Language | Premise | Question | Choice 1 | Choice 2 |
 |---|---|---|---|---|
-| qu | Sipasqa cereal mikhunanpi kurutatarirqan. | Result | Payqa pukunman ñuqñuta churakurqan. | Payqa manam mikhuytamunarqanchu. |
+| qu | Sipasqa cereal mikhunanpi kuruta tarirqan. | Result | Payqa pukunman ñuqñuta churakurqan. | Payqa manam mikhuyta munarqanchu. |
 | en | The girl found a bug in her cereal. | Result | She poured milk in the bowl. |She lost her appetite. |
 | th | ตาของฉันแดงและบวมฉันร | Cause | องไห | ฉันหัวเราะ |
 | en | My eyes became red and puffy. | Cause | I was sobbing. | I was laughing. |
 
 ## Languages
 
-| ISO 639-2 | Name | Family | Area* |
+| ISO 639-2 | Name | Family | Area<sup>1</sup> |
 |---|---|---|---|
 | et | Estonian | Uralic | Northern Europe |
 | ht | Haitian Creole | French Creole | Carribean |
 | id | Indonesian | Austronesian | Southeastern Asia |
 | it | Italian | Indo-European | Southern Europe |
-| qu | Quechua | Yuman–Cochimí | Southern America |
+| qu | Southern Quechua<sup>2</sup> | Quechuan | Southern America |
 | sw | Swahili | Niger-Congo | Eastern Africa |
 | ta | Tamil | Dravidian | Southern Asia |
 | th | Thai | Kra-Dai | Southeastern Asia |
@@ -29,7 +29,9 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 | vi | Vietnamese | Austroasiatic | Southeastern Asia |
 | zh | Mandarin Chinese | Sino-Tibetan | Eastern Asia |
 
-\* According to the United Nations geoscheme.
+<sup>1</sup> According to the United Nations geoscheme.
+
+<sup>2</sup> Translation by [Irma Alvarez Ccoscco](https://es.wikipedia.org/wiki/Irma_Alvarez_Ccoscco), an Eastern Apurímac Quechua speaker.
 
 ## Baselines
 
