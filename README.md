@@ -33,19 +33,30 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 
 <sup>2</sup> Translation by [Irma Alvarez Ccoscco](https://es.wikipedia.org/wiki/Irma_Alvarez_Ccoscco), an Eastern Apurímac Quechua speaker.
 
-## Baselines
+## Leaderboard
 
+If you want to see your scores reported, please make a pull request changing the table below.
+
+| Model | Paper | et | ht | id | it | qu | sw | ta | th | tr | vi | zh |
+|---|---|---|---|---|---|---|---|---|---|---|---| ---|
+| Human | [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 98.2 | 96.4 | 100.0 | 97.0 | 94.8 | 99.0 | 98.6 | 98.2 | 96.4 | 98.4 | 96.6 |
+| RoBERTa Large (Translate test)| [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 81.0 | 73.8 | 82.2 | 77.8 | - | 74.2 | 79.6 | 71.4 | 79.6 | 81.0 | 86.0 |
+| XLM-R Large | [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 71.4 | - | 79.8 | 72.6 | - | 59.2 | 73.0 | 72.8 | 74.4 | 73.8 | 78.6 |
+
+The performance of other multilingual pre-trained encoders is shown in the figure.
 ![](baselines.png)
+
+The "translate test" data obtained via Google Translate are available in the folder [data-gmt](data-gmt) (note that these do not include Quechua).
 
 ## Cite
 
 If you use the data from this repository, please cite both XCOPA ```\cite{ponti2020xcopa}``` and the original COPA paper ```\cite{roemmele2011choice}```.
 
 ```
-@article{ponti2020xcopa,
+@inproceedings{ponti2020xcopa,
   title={{XCOPA: A} Multilingual Dataset for Causal Commonsense Reasoning},
   author={Edoardo M. Ponti, Goran Glava\v{s}, Olga Majewska, Qianchu Liu, Ivan Vuli\'{c} and Anna Korhonen},
-  journal={arXiv preprint},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year={2020},
   url={https://ducdauge.github.io/files/xcopa.pdf}
 }
