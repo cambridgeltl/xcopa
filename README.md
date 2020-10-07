@@ -42,6 +42,7 @@ If you want to see your scores reported, please make a pull request changing the
 | Human | [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 98.2 | 96.4 | 100.0 | 97.0 | 94.8 | 99.0 | 98.6 | 98.2 | 96.4 | 98.4 | 96.6 |
 | RoBERTa Large (Translate test)| [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 81.0 | 73.8 | 82.2 | 77.8 | - | 74.2 | 79.6 | 71.4 | 79.6 | 81.0 | 86.0 |
 | XLM-R Large | [Ponti et al. (2020)](https://ducdauge.github.io/files/xcopa.pdf) | 71.4 | - | 79.8 | 72.6 | - | 59.2 | 73.0 | 72.8 | 74.4 | 73.8 | 78.6 |
+| MAD-X Base | [Pfeiffer et al. (2020)](https://arxiv.org/pdf/2005.00052.pdf) | 61.3 |53.7 | 65.8 | 63.0 | 52.5 | 56.3 | 61.9 | 61.8 | 60.3 | 66.1 | 67.6 |
 
 The performance of other multilingual pre-trained encoders is shown in the figure.
 ![](baselines.png)
