@@ -4,6 +4,21 @@ The Cross-lingual Choice of Plausible Alternatives dataset is a benchmark to eva
 
 [**Languages**](#languages) | [**Baselines**](#baselines) | [**Cite**](#cite) | [**Paper**](https://ducdauge.github.io/files/xcopa.pdf)
 
+## Data
+
+The XCOPA data are stored in [data](data). Alternatively, they can be loaded through [🤗Datasets](https://github.com/huggingface/datasets) as follows:
+
+```python
+from datasets import load_dataset
+
+xcopa_dataset = load_dataset('xcopa')
+```
+
+
+
+The "translate test" data obtained via Google Translate are available in the folder [data-gmt](data-gmt) (note that these do not include Quechua).
+
+
 ## Examples
 
 | Language | Premise | Question | Choice 1 | Choice 2 |
@@ -46,8 +61,6 @@ If you want to see your scores reported, please make a pull request changing the
 
 The performance of other multilingual pre-trained encoders is shown in the figure.
 ![](baselines.png)
-
-The "translate test" data obtained via Google Translate are available in the folder [data-gmt](data-gmt) (note that these do not include Quechua).
 
 ## Cite
 
